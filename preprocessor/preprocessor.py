@@ -162,7 +162,7 @@ class Preprocessor:
         # Get alignments
         textgrid = tgt.io.read_textgrid(tg_path)
         phone, duration, start, end = self.get_alignment(
-            textgrid.get_tier_by_name("phones")
+            textgrid.get_tier_by_name("MAU")
         )
         text = "{" + " ".join(phone) + "}"
         if start >= end:
@@ -287,7 +287,7 @@ class Preprocessor:
         # Trim tailing silences
         phones = phones[:end_idx]
         durations = durations[:end_idx]
-
+        
         return phones, durations, start_time, end_time
 
     def remove_outlier(self, values):
