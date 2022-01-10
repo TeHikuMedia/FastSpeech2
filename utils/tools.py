@@ -41,6 +41,19 @@ def to_device(data, device):
         energies = torch.from_numpy(energies).to(device)
         durations = torch.from_numpy(durations).long().to(device)
 
+        # print(f"ids:\n {ids}")
+        # print(f"raw_texts:\n {raw_texts}")
+        # print(f"len(raw_texts[0]):\n {len(raw_texts[0])}")
+        # print(f"texts:\n {texts}")
+        # print(f"speakers {speakers.shape}\n \
+        #  texts {texts.shape}\n \
+        #  src_lens {src_lens.shape}\n \
+        #  mels {mels.shape}\n \
+        #  mel_lens {mel_lens.shape}\n \
+        #  pitches {pitches.shape}\n \
+        #  energies {energies.shape}\n \
+        #  durations {durations.shape}")
+
         return (
             ids,
             raw_texts,

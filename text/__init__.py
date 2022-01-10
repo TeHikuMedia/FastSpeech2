@@ -1,5 +1,6 @@
 """ from https://github.com/keithito/tacotron """
 import re
+import os 
 from text import cleaners
 from text.symbols import symbols
 
@@ -27,16 +28,27 @@ def text_to_sequence(text, cleaner_names):
     """
     sequence = []
 
-    # Check for curly braces and treat their contents as ARPAbet:
-    while len(text):
-        m = _curly_re.match(text)
+    if os.environ.get('PAPAREO_HACKS'):
 
-        if not m:
-            sequence += _symbols_to_sequence(_clean_text(text, cleaner_names))
-            break
-        sequence += _symbols_to_sequence(_clean_text(m.group(1), cleaner_names))
-        sequence += _arpabet_to_sequence(m.group(2))
-        text = m.group(3)
+        m = _curly_re.match(text)
+        symbols = m.group(2).split(' ')
+        sequence = _symbols_to_sequence(symbols)
+        # FIXME should get it to work with the below code 
+        # maybe add ' ' to symbols banned by _should_keep_symbol
+
+    else:
+        # Check for curly braces and treat their contents as ARPAbet:
+        while len(text):
+            m = _curly_re.match(text)
+            if not m:
+                sequence += _symbols_to_sequence(_clean_text(text, cleaner_names))
+                break
+            sequence += _symbols_to_sequence(_clean_text(m.group(1), cleaner_names))
+            sequence += _arpabet_to_sequence(m.group(2))
+            text = m.group(3)
+
+    #print(f"text_to_sequence text: '{text}' -> {sequence}")
+    #print(f"lengths: '{len(text)}' -> {len(sequence)}")
 
     return sequence
 

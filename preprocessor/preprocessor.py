@@ -161,10 +161,20 @@ class Preprocessor:
 
         # Get alignments
         textgrid = tgt.io.read_textgrid(tg_path)
-        phone, duration, start, end = self.get_alignment(
-            textgrid.get_tier_by_name("MAU")
-        )
-        text = "{" + " ".join(phone) + "}"
+
+        if textgrid.has_tier("phones"):
+            # LJSpeech version (note text between {})
+            phone_tier = textgrid.get_tier_by_name("phones")
+            phone, duration, start, end = self.get_alignment(phone_tier)
+            text = "{" + " ".join(phone) + "}"
+        
+        else:
+            # papareo version (dont put text between {} so 
+            # it doesnt get treated as ARPAbet in text_to_sequence)
+            phone_tier = textgrid.get_tier_by_name("PHONES")
+            phone, duration, start, end = self.get_alignment(phone_tier)
+            text = " ".join(phone)
+
         if start >= end:
             return None
 
@@ -251,7 +261,7 @@ class Preprocessor:
         )
 
     def get_alignment(self, tier):
-        sil_phones = ["sil", "sp", "spn"]
+        sil_phones = ["", "sil", "sp", "spn"]
 
         phones = []
         durations = []

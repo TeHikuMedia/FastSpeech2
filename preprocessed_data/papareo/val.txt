@@ -1,512 +1,512 @@
-segment_625_24|peterl|{<p:> k o e: n Ae a k u k o: 4 e 4 o f a k a m u t u N a <p:> k I t o: k u 4 o: I a <p:> k I t o: k u h o a h o k I a h a k I 4 e w I 4 I <p:>}|Ko ēnei aku kōrero whakamutunga ki tōku rōia, ki tōku hoa hoki, a Haki Rewiri. 
-segment_588_82|peterl|{<p:> e m a: h Ae <p:> k o <p:> t a: k u k I a <p:> o 4 a k Ae <p:> k o n Ae a p a: p a: <p:>}|'E Mā,' hei ko tāku.'Kia ora, kei konei a Pāpā?'
-segment_640_144|peterl|{<p:> I <p:> t e t ae N a a t u o h I n e m o a 4 a o k o t o: n a <p:> f ae a <p:> k I t e h o: h I p e 4 e <p:> k ua 4 I t e k e: m Ai a <p:> t I n a <p:>}|I te taenga atu o Hinemoa rao ko tōna whaea ki te hōhipere kua rite kē mai a Tina. 
-segment_588_84|peterl|{<p:> I t au a p o: k a p a: t Ai a t u a h au <p:> k Ae <p:> h e a a 4 e w I <p:>}|I taua pō, ka pātai atu ahau, 'Kei hea a Rewi?' 
-segment_635_50|peterl|{<p:> h e 4 e o t i: o 4 I o 4 I o: 4 a o <p:>}|He reo tīoriori ō rao. 
-segment_623_44|peterl|{<p:> t e: n a: k oe m a t ua h a k I <p:>}|Tēnā koe, Matua Haki. 
-segment_423_9|peterl|{<p:> p a h e k e t I t a h a a n a m a o I N a: k o k o N a <p:> t a: h a p a n Ae <p:>}|Paheke ti taha ana mao i ngā kokonga tāhapa nei. 
-segment_634_16|peterl|{<p:> h e oi <p:> k a 4 o N o I a 4 a N I m a: 4 I e e <p:> t a N I a n a <p:>}|Heoi, ka rongo i a Rangimārie e tangi ana.
-segment_629_39|peterl|{<p:> h e a h a t e m a t e <p:> t e p a: t Ai m Ai a h a: 4 I a t a <p:>}|'He aha te mate?' te pātai mai a Hāriata.
-segment_587_87|peterl|{<p:> k a m e a a t u t e 4 o: I a a h e n a 4 e k I <p:> a e 4 e a n t w I n I h a n a <p:>}|Ka mea atu te rōia, a Henare ki a Sergeant Winihana, 
-segment_637_95|peterl|{<p:> k I a o 4 a <p:> k o m e 4 e t e: n Ae e <p:> a: e <p:> <usb> t e a h I a h I n Ae <p:> k a p Ai <p:>}|'Kia ora. Ko Mere tēnei.… Āe, āe. … Ā te ahiahi nei? Ka pai.'
-segment_639_184|peterl|{<p:> I wa e N a n u I I <p:> t a: m a: t ou n Ae <p:> k Ai k a t a N I m Ai t e p e 4 e o t e k u:a h a <p:>}|I waenganui i tā mātou nei kai, ka tangi mai te pere o te kūaha.
-segment_629_70|peterl|{<p:> k a t I 4 o a t u m a o k o h a: 4 I a t a k I t e k a n o h I o <p:> f ae a a nn e <p:> k a <p:> k I t e I o: n a <p:> k a 4 u <p:> e m u 4 a m Ai a n a <p:>}|Ka tiro atu mao ko Hāriata ki te kanohi o Whaea Anne, ka kite i ōna karu e mura mai ana.
-segment_448_13|peterl|{<p:> k a p a: t o: t o: a t u a h au <p:> k a <p:> t u f e 4 a m Ai t e k u:a h a <p:>}|Ka pātōtō atu ahau, ka tuwhera mai te kūaha.
-segment_638_16|peterl|{<p:> I p o: h e: h e: au <p:> k a 4 a 4 u a h au <p:> n a: t e m e a I <p:> f a n Ai a e t a k u h o a 4 I 4 I t o: k u t u 4 I <p:>}|I pōhēhē au ka raru ahau, nā te mea i whanaia e taku hoariri tōku turi. 
-segment_586_72|peterl|{<p:> t e: n a: p e a <p:> a: p o: p o: k a h ae 4 e m a o k o t e <p:> t au <p:> k I <p:> t e <p:> t a: <p:>}|Tēnā pea, āpōpō ka haere mao ko Te Tau ki te tā. 
-segment_638_34|peterl|{<p:> e h o a <p:> I 4 o N o a h au k ua f a k a f I t I <p:> k e: k oe <p:> k I p I 4 I p a n e m a h I Ai <p:> k o <p:> t a: k u <p:>}|E hoa, i rongo ahau kua whakawhiti kē koe ki Piripane mahi ai,' ko tāku. 
-segment_589_61|peterl|{<p:> h e t o h u p ae t a h I t a: n a <p:>}|He tohu paetahi tāna. 
-segment_577_50|peterl|{<p:> t e h u I <p:> e t o 4 u t e k au N a: a: k o N a I h o k I m Ai <p:>}| te hui, e toru tekau ngā ākonga i hoki mai. 
-segment_633_47|peterl|{<p:> e <p:> t e t au <p:> n a: u a h au I f a k a o h o a k e k I t e a: f I n a m e t e m a n a a k I t a N a t a <p:>}|'E Te Tau, nāu ahau i whakaoho ake ki te āwhina me te manaaki tangata. 
-segment_639_208|peterl|{<p:> I m e a m Ai t e m a: m a: o t e t au <p:> k o h a: 4 I a t a t e h o a p u: m au a <p:> t e <p:> t au <p:> e N a 4 I <p:> k a: h o 4 e a h au I m o: h I o k I <p:> t o: h o n o N a f a k a p a p a <p:> k I t e f a: n au <p:> o m a t ua 4 oe 4 t 4 a: ua k o f ae a <p:> n a n <p:> t e k i: a a n a h e 4 a <p:>}|'I mea mai te māmā o Te Tau, ko Hāriata te hoa pūmau a Te Tau engari kāhore ahau i mōhio ki tō hononga whakapapa ki te whānau o Matua Robert rāua ko Whaea Nancy,' te kī a Anahera. 
-segment_590_4|peterl|{<p:> e <p:> h e <p:> t I k a <p:> t a: u <p:> m a: m a: <p:>}|'Āe, he tika tāu, Māmā. 
-segment_591_5|peterl|{<p:> k a wa e a a t u a h au k I a h a: 4 I a t a <p:>}|ka waea atu ahau ki a Hāriata.
-segment_640_232|peterl|{<p:> m e t a k u m o: h I o m a: 4 I k a h e n u I a t u I <p:> t e: 4 a: <p:>}|Me taku mōhio mārika he nui atu i tērā. 
-segment_628_47|peterl|{<p:> o h o 4 e 4 e a n a a h au I t e k I t e N a a t u I N a: p I 4 I h I m a n a e <p:> t u: m Ai a n a I t e k u:a h a <p:>}|Ohorere ana ahau i te kitenga atu i ngā pirihimana e tū mai ana i te kūaha.
-segment_638_148|peterl|{<p:> a 4 o h a m Ai 4 a: k I a m a o I h a 4 a n Ae k I a <p:> k ou 4 ua <p:>}|Aroha mai rā ki a mao i hara nei ki a kourua. 
-segment_590_86|peterl|{<p:> k o m a o k o h a: 4 I a t a e m a h I <p:> k a h a a n a I a: m a o m a h I I w I k I t o: 4 I a <p:>}|Ko mao ko Hāriata e mahi kaha ana i ā mao mahi i Wikitōria. 
-segment_582_23|peterl|{<p:> k ua 4 I t e k oe <p:>}|Kua rite koe?'
-segment_445_124|peterl|{<p:> au k a t I a t u a h au I N a: t u k I N a o t e p a p a <p:>}|Aukati atu ahau i ngā tukinga o te papa. 
-segment_636_134|peterl|{<p:> k ua h ae 4 e k e: a h a: 4 I a t a 4 a: ua k o <p:> f ae a a nn e k I t e 4 u: m a n o h o <p:>}|Kua haere kē a Hāriata rāua ko Whaea Anne ki te rūma noho.
-segment_630_18|peterl|{<p:> e <p:> t I n o p Ai k a t o a a n a m a: t ou <p:>}|E tino pai katoa ana mātou. 
-segment_445_119|peterl|{<p:> k a m e k e m Ai a n o: t e t au 4 e k a 4 e k a 4 a: I a h au <p:>}|Ka meke mai anō te taurekareka rā i ahau. 
-segment_448_39|peterl|{<p:> e m a: t o: <p:> f a k a m a: h o k I <p:>}|'E Mā, tō whakamā hoki. 
-segment_445_80|peterl|{<p:> k o e: t a h I e h a k a a n a <p:> k o e: t a h I e w Ai a t a a n a <p:>}|Ko ētahi e haka ana, ko ētahi e waiata ana
-segment_592_60|peterl|{<p:> I a h au e t I 4 o a n a <p:> k a <p:> k I t e a m Ai a h au <p:> e N a: t a: N a t a <p:> 4 a: <p:> t a k u p a: t Ai <p:>}|'I ahau e tiro ana, ka kitea mai ahau e ngā tāngata rā?' taku pātai. 
-segment_445_156|peterl|{<p:> k o 4 o m e k e m Ai a n a <p:> t e p a k a 4 a: <p:> t u t u: t e p ue h u I wa e N a n u I I a m a: t ou <p:> k a p u t a m Ai N a: p I 4 I h I m a n a <p:>}|Koromeke mai ana te paka rā. Tutū te puehu i waenganui i a mātou, ka puta mai ngā pirihimana. 
-segment_590_128|peterl|{<p:> t Ai h o a m e a n Ae <p:> h Ae <p:> k o t a: k u <p:>}|Taihoa mea nei,' hei ko tāku.
-segment_633_77|peterl|{<p:> k o k oe <p:> k Ae <p:> t o: k u <p:> t a n a f a k a h o k I m Ai <p:>}|'Ko koe kei tōku,' tana whakahoki mai.
-segment_577_56|peterl|{<p:> au e: <p:>}|Auē! 
-segment_636_63|peterl|{<p:> h e p Ai k I a wa e a m Ai k oe I m u 4 I I t e f a: k a 4 a k a I t e a h I a h I <p:> k o t a: h I n e m o a <p:>}|'He pai kia waea mai koe i muri i te whā karaka i te ahiahi?' ko tā Hinemoa, 
-segment_640_91|peterl|{<p:> k a: h o 4 e I 4 o a I m u 4 I a t u <p:> k a 4 o N o a h I n e m o a I t e k a 4 a N a a t o: n a <p:> f ae a <p:>}|Kāhore i roa i muri atu ka rongo a Hinemoa i te karanga a tōna whaea.
-segment_634_4|peterl|{<p:> e h a 4 I k Ae h e a a: u u h I <p:> t e: p u <p:> t e p a: t Ai a f ae a a nn e <p:>}|'E Hari, kei hea āu uhi tēpu?' te pātai a Whaea Anne. 
-segment_445_205|peterl|{<p:> h e t a m a a h u f e n ua h o k I <p:> h e p Ai k I t e k u t I h I p I <p:> m e e: 4 a: a t u m a h I <p:> o <p:> t e p a: m u <p:>}|He tama ahuwhenua hoki, he pai ki te kuti hipi me ērā atu mahi o te pāmu.
-segment_445_151|peterl|{<p:> h e oi a n o: <p:> e t I a k I a n a k I a u 4 u a t u k I t e f a 4 e p I k I t I a <p:>}|Heoi anō, e tiaki ana kia uru atu ki te whare pikitia.
-segment_639_206|peterl|{<p:> k a t u: a k e a h a: 4 I a t a k a h ae 4 e k I t e a f I I <p:> t o: n a m a t ua k e: k e: <p:>}|'Ka tū ake a Hāriata ka haere ki te awhi i tōna matua kēkē.
-segment_423_113|peterl|{<p:> o t I 4 a: <p:> k o t e m a h I I n a: I a n Ae h e f a k a p Ai I t e <p:> f a 4 e <p:> t a f I t o <p:>}|Otirā, ko te mahi i nāianei, he whakapai i te whare tawhito. 
-segment_633_55|peterl|{<p:> k o t e m e a m i: h a 4 o k o 4 a: n I e 4 a 4 a: ua k o t e <p:> f ae a o h a: 4 I a t a e n o h o t a h I a n a <p:> e k o: 4 e 4 o 4 e 4 o a n a e k a t a k a t a <p:> a n a <p:> a h a k o a t a n a m a t e p u k u p u k u <p:> I <p:> t ae a: t I n a n a m Ai I a <p:>}|Ko te mea mīharo ko Rāniera rāua ko te whaea o Hāriata e noho tahi ana, e kōrerorero ana, e katakata ana. Ahakoa tana mate pukupuku, i tae ā-tinana mai ia.
-segment_589_6|peterl|{<p:> k o t e w I k I o t e a 4 a N a a: t e: 4 a: t au t o: 4 a: ua m a: 4 e n a <p:> p e: h e a o: u f a k a a 4 o <p:>}|Ko te wiki o te Aranga ā tērā tau tō rāua mārena, pēhea ōu whakaaro?
-segment_630_15|peterl|{<p:> k ua t I n o k oi t o: k u h I n e N a 4 o <p:> m e o: k u <p:> t u 4 u p a n a <p:>}|Kua tino koi tōku hinengaro me ōku turupana.
-segment_635_18|peterl|{<p:> k a t au N a: f a k a 4 I t e <p:> k a t ae a t u m a o k o h a: 4 I a t a k I <p:> t e k u 4 a <p:> k I t e p a 4 a k a t I h I o t e k a p a h a k a <p:>}|Ka tau ngā whakarite, ka tae atu mao ko Hāriata ki te kura ki te parakatihi o te kapa haka. 
-segment_640_176|peterl|{<p:> k a f a: k I a t u a h I n e m o a I t e t au t o h e I wa e N a I a 4 a: ua k o t o: n a p a: p a: <p:>}|Ka whāki atu a Hinemoa i te tautohe i waenga i a rāua ko tōna pāpā. 
-segment_626_67|peterl|{<p:> t u k u n a a t u t a k u a 4 o h a <p:> k I t e f a: n au a 4 o n <p:>}|Tukuna atu taku aroha ki te whānau a Ron. 
-segment_622_12|peterl|{<p:> k a: t a h I k a h o k I a t u 4 a: ua k I t e 4 o: p u: e t a t a 4 I a n a I t e <p:> t a h a <p:>}|Kātahi ka hoki atu rāua ki te rōpū e tatari ana i te taha. 
-segment_418_12|peterl|{<p:> k a n a p a a n a N a: h u 4 u h u 4 u <p:> u 4 a <p:> o <p:> t au a t a m a t a: n e <p:> e a f I a n a <p:> I a I a <p:>}|Kanapa ana ngā huruhuru ura o taua tamatāne e awhi ana i a ia.
-segment_591_161|peterl|{<p:> k o I a e 4 u: 4 u: m Ai a n a <p:> k I a we h e a t u a h au I t e p ou a k a a t e k Ai m a t a a 4 a <p:>}|Ko ia e rūrū mai ana kia wehe atu ahau i te pouaka a te kaimataara.
-segment_632_66|peterl|{<p:> k o t o: k u I N o a f a: n au t u: t u 4 u <p:> k o w I I a m <p:>}|'Ko tōku ingoa whānau tūturu, ko Williams. 
-segment_637_69|peterl|{<p:> k a <p:> k a p o a t u I o: n a h u 4 u h u 4 u k a <p:> k u m e a m Ai k I m u 4 I <p:> h I N a a t u a n a m a o k I t e 4 o 4 I <p:>}|Ka kapo atu i ōna huruhuru, ka kumea mai ki muri. Hinga atu ana mao ki te rori.
-segment_622_45|peterl|{<p:> a n a: <p:> k a p a h u: m Ai t e h a k a a t e 4 o: p u: <p:>}|Anā, ka pahū mai te haka a te rōpū. 
-segment_627_53|peterl|{<p:> k o w Ai 4 a: k a m o: h I o t e t a k e e <p:> f Ai n Ae I a <p:> I t e: n Ae h ua 4 a h I <p:>}|Ko wai rā ka mōhio te take e whai nei ia i tēnei huarahi.'
-segment_448_46|peterl|{<p:> n a: t e k a 4 a N a t a N a m Ai a <p:> f ae a a nn e k I a m a o <p:> k I t e k Ai <p:> I <p:> we h e Ai o: m a o N u t u k a p a k a p a t o n u a n a t o: k u f a t u m a n a wa <p:>}|Nā te karangatanga mai a Whaea Anne ki a mao ki te kai i wehe ai ō mao ngutu. Kapakapa tonu ana tōku whatumanawa. 
-segment_577_32|peterl|{<p:> h e m a h I n u I <p:> t e: n Ae <p:> m o: t o: t a: t ou k u 4 a <p:> m o: t a: t ou h o k I e t au t o k o a n a I N a: m a h I t u k u I h o <p:> a o: t a: t ou m a: t ua t u: p u n a <p:>}|'He mahi nui tēnei mō tō tātou kura, mō tātou hoki e tautoko ana i ngā mahi tuku iho a ō tātou mātua tūpuna.
-segment_639_188|peterl|{<p:> k a t u: a k e a 4 oe 4 t k a <p:> h ae 4 e k I <p:> t e t u: t a k I I N a: t o k o 4 ua 4 a: <p:>}|Ka tū ake a Robert, ka haere ki te tūtaki i ngā tokorua rā.
-segment_637_66|peterl|{<p:> k o t e m o t o k a: o N a: k o 4 o k e: e p a 4 a h u t I h u t I a n a I a m a: t ou <p:>}|Ko te motokā o ngā korokē e parahutihuti ana i a mātou. 
-segment_423_103|peterl|{<p:> e N a 4 I <p:> h Ae t e m u t u N a <p:> k I a t u t u k I p Ai a: k u m a h I <p:> a: k a p I k I a k e t a k u u t u k a h ae 4 e a h au k I t e 4 a p u m a h I <p:>}|Engari hei te mutunga, kia tutuki pai āku mahi, ā, ka piki ake taku utu ka haere ahau ki te rapu mahi. 
-segment_587_11|peterl|{<p:> e k o 4 e e 4 o a k a <p:> t ae m Ai a <p:> t e <p:> t au <p:> m e t o: n a h o a <p:>}|E kore e roa ka tae mai a Te Tau me tōna hoa. 
-segment_590_63|peterl|{<p:> k oi a n a: p e a a h au I <p:> f a f Ai Ai m o: 4 a N I 4 a: ua k o <p:> <usb> h Ae <p:> k o t a: k u <p:>}| koia nā pea ahau i whawhai ai mō Rangi rāua ko JD,' hei ko tāku.
-segment_640_78|peterl|{<p:> e N a 4 I <p:> k a 4 u t ua I a e t o: n a p a: p a: a n a: k a h I N a a t u k I t e <p:> t a h a m e t e t u k I <p:> o t o: n a m a: t e N a I t e k o k o N a <p:> o t e k a: p a t a <p:>}|Engari, ka rutua ia e tōna pāpā, anā, ka hinga atu ki te taha me te tuki o tōna mātenga i te kokonga o te kāpata. 
-segment_588_171|peterl|{<p:> k I 4 I we t I k a t o a au k I t e t a N a t a <p:> k a 4 a t a <p:> a t u <p:> k I a k oe <p:> a 4 o h a m Ai <p:>}|Kiriweti katoa au ki te tangata ka rata atu ki a koe. Aroha mai.
-segment_587_20|peterl|{<p:> m e a n Ae N a: t o k o 4 ua 4 a: t e k i: a t u a <p:> p a: p a: <p:>}|'Mea nei ngā tokorua rā,' te kī atu a Pāpā. 
-segment_418_49|peterl|{<p:> k I a k I t e k oe I t o: k u a k o m a N a <p:> k o t e n u I N a k o N a: t a m a m a: N e 4 e o t e <p:> f a N a n u I a t a 4 a <p:>}|Kia kite koe i tōku akomanga? Ko te nuinga ko ngā tama māngere o Te Whanganui-a-Tara.
-segment_635_54|peterl|{<p:> h e 4 o a k ou 4 ua k o h I n e m o a e k o: 4 e 4 o t a h I a n a <p:>}|'He roa kourua ko Hinemoa e kōrero tahi ana. 
-segment_586_48|peterl|{<p:> k a k I h I a h a: 4 I a t a I a I a <p:>}|Ka kihi a Hāriata i a ia. 
-segment_638_117|peterl|{<p:> k a m e a a t u t e k o 4 ou a 4 a: <p:> k a <p:> t u n u t o n u a n a n I <p:> e: n Ae <p:> k e k e <p:> n a: <p:> t e m e a e p o: h e: h e: a n a <p:> k a <p:> k I t e a n o: I a <p:> I a <p:>}|Ka mea atu te koroua rā, 'Ka tunu tonu a Nancy i ēnei keke, nā te mea e pōhēhē ana ka kite anō i a ia.
-segment_636_77|peterl|{<p:> k a t ae a t u k I t e p a p a o 4 a 4 o <p:> I 4 Ae 4 a a h I n e m o a e t a t a 4 I a n a <p:>}|Ka tae atu ki te papa o raro, i reira a Hinemoa e tatari ana. 
-segment_577_42|peterl|{<p:> e a: h ua f a k a m a: a n a m a o k o h a: 4 I a t a <p:> n a: t e m e a <p:> t o 4 u t o 4 u n o a I h o t a: t ou e t ae m Ai a n a <p:>}|E āhua whakamā ana mao ko Hāriata, nā te mea, torutoru noa iho tātou e tae mai ana.
-segment_639_196|peterl|{<p:> h o 4 o t o n u t e h u 4 I m Ai a h a: 4 I a t a <p:> k I a h au m e t e k o: h I m u m Ai <p:> f ae a a n a <p:>}|Horo tonu te huri mai a Hāriata ki ahau me te kōhimu mai, 'Whaea Ana!' 
-segment_588_53|peterl|{<p:> e m o: h I o a n a a h au <p:> k a: h o 4 e a 4 e w I e h I a h I a a n a <p:> k I a a 4 u a t u k oe I a <p:> I a <p:>}|E mōhio ana ahau, kāhore a Rewi e hiahia ana kia aru atu koe i a ia. 
-segment_448_118|peterl|{<p:> k a: t a h I a n o: a h au k a u 4 u a t u <p:> k I <p:> t e a k o m a N a o h a: 4 I a t a <p:>}|Kātahi anō ahau ka uru atu ki te akomanga o Hāriata. 
-segment_582_117|peterl|{<p:> h e a t i: m a t a Ai <p:> N a: p a: t Ai a h a: 4 I a t a <p:>}|Āhea tīmata ai?' ngā pātai a Hāriata.'
-segment_587_16|peterl|{<p:> k a h I k I <p:> I <p:> t o: n a 4 I N a <p:> k I t o: n a wa h a <p:> k a p a 4 a 4 e: <p:> k a: h o 4 e <p:> k a: h o 4 e <p:>}|Ka hiki i tōna ringa ki tōna waha, ka pararē, 'Kāhore! Kāhore!'
-segment_588_154|peterl|{<p:> k a: h o 4 e a h au I <p:> a h a <p:>}|Kāhore ahau i aha.
-segment_591_144|peterl|{<p:> e <p:> h e 4 a m a I 4 u N a a k e I a m a: t ou e f a f Ai a n a <p:>}| 'Āe. He rama i runga ake i a mātou e whawhai ana.'
-segment_633_84|peterl|{<p:> I <p:> f a k a a 4 o a k e au h e a h a N a: m a h I h i:a N a a 4 o n I n a: I a n Ae <p:>}|I whakaaro ake au, 'He aha ngā mahi hīanga a Ron i nāianei?' 
-segment_582_137|peterl|{<p:> h ae 4 e m Ai k ou 4 ua <p:> k Ae t u: 4 Ae t I t a: t ou <p:> t e <p:> k a 4 a N a m Ai a p a: p a: <p:>}|'Haere mai kourua, kei tūreiti tātou,' te karanga mai a Pāpā.
-segment_632_38|peterl|{<p:> I t a k u a f I N a I a I a k a p Ae a a h au k I <p:> m u 4 I <p:> m e t a k u o h o 4 e 4 e h o k I <p:>}|I taku awhinga i a ia, ka peia ahau ki muri me taku ohorere hoki. 
-segment_632_34|peterl|{<p:> k a: o <p:> k a: o <p:> I t a k u k I t e N a a t u I a 4 a: n I e 4 a k ua 4 e 4 e k e: t o: n a a: h ua <p:> I t e k a N a k a N a m Ai <p:>}|'Kāo! Kāo! I taku kitenga atu i a Rāniera, kua rerekē tōna āhua. I te kangakanga mai. 
-segment_640_21|peterl|{<p:> k a m a 4 I N I n o a a n o: N a: 4 oi m a t a o h I n e m o a k a t I 4 o a t u <p:> k I a h a: 4 I a t a <p:>}|Ka maringi noa anō ngā roimata o Hinemoa, ka tiro atu ki a Hāriata. 
-segment_589_10|peterl|{<p:> k au a h o k I e wa 4 e wa 4 e <p:> k o t a k u <p:> t au t ua t o 4 u <p:> t e: 4 a: e h ae 4 e Ai k I w I k I t o: 4 I a <p:>}|Kaua hoki e wareware, ko taku tau tuatoru tērā e haere ai ki Wikitōria. 
-segment_592_2|peterl|{<p:> o 4 a m u t u N a m a t ua 4 a N I <p:>}|'Ora mutunga, Matua Rangi. 
-segment_633_64|peterl|{<p:> k a <p:> t ae m a o k o h a 4 I <p:> k I t e p a p a k a n I k a n I m e t a k u t I n o h I a h I a k I a k o 4 e e m u t u t e: n Ae p o: f a k a h I 4 a h I 4 a <p:>}|Ka tae mao ko Hari ki te papa kanikani, me taku tino hiahia kia kore e mutu tēnei pō whakahirahira. 
-segment_591_23|peterl|{<p:> k a: h o 4 e <p:>}| 'Kāhore.'
-segment_590_54|peterl|{<p:> m o: t e f a 4 e h e 4 e h e 4 e <p:>}|Mō te whare herehere!'
-segment_638_40|peterl|{<p:> k a: h o 4 e a h au I m o: h I o h e f a n au N a k ou 4 ua <p:>}|Kāhore ahau i mōhio he whanaunga kourua.'
-segment_582_30|peterl|{<p:> e p a: <p:>}|'E Pā!'
-segment_592_41|peterl|{<p:> k o t e k a 4 a N a f a k a m u t u N a t e: n Ae <p:> m o: N a: t a: N a t a I 4 u N a I t e 4 e 4 e 4 a N I a o t e a 4 o a <usb> k I p oi h a: k e n a <p:>}|'Ko te karanga whaka- mutunga tēnei mō ngā tāngata i runga i te rererangi Aotearoa 756 ki Poihākena.' 
-segment_630_30|peterl|{<p:> e p Ai a n a 4 a: t ou n e: 4 a: <p:> t e p a: t Ai m a: h a 4 a h a 4 a a <p:> f ae a a nn e <p:>}|'E pai ana rātou nē rā?' te pātai māharahara a Whaea Anne.
-segment_584_41|peterl|{<p:> k a a: t a t I 4 o h I a e I a <p:> k a t u k ua m a o k I 4 o t o <p:>}|Ka āta tirohia e ia, ka tukua mao ki roto.
-segment_623_31|peterl|{<p:> <usb> t e m a n e k a m o: h I o t I a N a: h ua o: e: n Ae <p:>}|Ā te Mane ka mōhiotia ngā hua ō ēnei.
-segment_590_114|peterl|{<p:> m e a 4 a wa a t u <p:> I <p:> t a k u h u 4 I N a <p:> k I t o: n a m a: m a: <p:> k I t e a f I I a I a e t a N I m Ai a n a <p:>}|Mea rawa atu i taku huringa ki tōna māmā ki te awhi i a ia e tangi mai ana. 
-segment_588_147|peterl|{<p:> k ua t I n o N e N e <p:> k o o: k u ua ua e k a h a m a m ae a n a <p:>}|Kua tino ngenge, ko ōku uaua e kaha mamae ana. 
-segment_630_44|peterl|{<p:> k a: h o 4 e t e: n a: I t e <p:> t I k a <p:> t e f a k au t u a f ae a a nn e <p:>}|'Kāhore tēnā i te tika,' te whakautu a Whaea Anne. 
-segment_634_89|peterl|{<p:> k o 4 a N I m a: 4 I e e o m a a n a <p:> k I t e k u:a h a <p:>}|Ko Rangimārie e oma ana ki te kūaha.
-segment_587_21|peterl|{<p:> k a h ou a t u m a o k o h a: 4 I a t a <p:> k a k I t e a t u I N a: p I 4 I h I m a n a <p:> k a p a: t Ai a t u h e <p:> a h a t e m a t e <p:> e p a: <p:>}|Ka hou atu mao ko Hāriata ka kite atu i ngā pirihimana, ka pātai atu, 'He aha te mate, e Pā? 
-segment_635_74|peterl|{<p:> f a k a 4 a: 4 a N I m Ai <p:> t u: t I 4 a m Ai <p:>}|'Whakarārangi mai! Tūtira mai!
-segment_588_210|peterl|{<p:> h o k I a t u <p:> k I t o: a wa <p:> k I w Ai a p u <p:> k I t o: m au N a <p:> k I h I k u 4 a N I <p:> k I t o: m a 4 ae h o k I <p:>}|Hoki atu ki tō awa ki Waiapu, ki tō maunga ki Hikurangi, ki tō marae hoki. 
-segment_636_53|peterl|{<p:> k I a <p:> o 4 a k ou 4 ua k o 4 a t a m a 4 I n o a h au <p:>}|'Kia ora kourua, ko Rata Marino ahau. 
-segment_635_59|peterl|{<p:> h e k o: h I n e t I n o k a h a n Ae k I <p:> t e m a h I <p:> k o t a: h a: 4 I a t a <p:>}|He kōhine tino kaha nei ki te mahi,' ko tā Hāriata. 
-segment_591_155|peterl|{<p:> k a <p:> a: h ua h au 4 a N I <p:>}|ka āhua haurangi, 
-segment_636_28|peterl|{<p:> I t e m a: n u k a n u k a a h a: 4 I a t a <p:> m e t e f a k a a 4 o <p:> k ua a h a t I a k I a p e: n Ae 4 a wa t o: n a a: h ua <p:>}|I te mānukanuka a Hāriata. Me te whakaaro, 'Kuaahatia kia pēnei rawa tōna āhua?' 
-segment_639_166|peterl|{<p:> k a m e n e a t u a n a n <p:> h e <p:> t I k a <p:> t a: u e <p:> k o: <p:>}|Ka mene atu a Nancy, 'He tika tāu, e kō. 
-segment_592_86|peterl|{<p:> e <p:> t I k a <p:> e p o n o a n a <p:> k oe t e <p:> p a: t Ai m Ai a t e p I 4 I h I m a n a <p:>}|'E tika, e pono ana koe?' te pātai mai a te pirihimana. 
-segment_639_35|peterl|{<p:> k o a h au I t o a <p:>}|Ko ahau i toa. 
-segment_625_5|peterl|{<p:> n a: 4 Ae 4 a t e: n a: k ou t ou <p:> t e: n a: k ou t ou k I a <p:> o 4 a h u I h u I m Ai 4 a: <p:>}|Nā reira, tēnā koutou, tēnā koutou, kia ora huihui mai rā. 
-segment_634_3|peterl|{<p:> k ua f a k a t u: k e: t I a t e t e: n e t I 4 a h I I wa h o <p:>}|Kua whakatū kētia te tēneti rahi i waho.
-segment_589_12|peterl|{<p:> e p Ai a n a e t e <p:> t au h Ae <p:> t e a 4 a N a t e t i: m a t a N a o N a: 4 a: f a k a t a: <p:>}|E pai ana, e Te Tau hei te Aranga te tīmatanga o ngā rā whakatā.
-segment_629_84|peterl|{<p:> e k o 4 e 4 a: e m u t u N a: m I h I <p:> k I a <p:> k oe m o: t e f a k a p a: m Ai <p:> k I t e f a: n au <p:>}|E kore rā e mutu ngā mihi ki a koe mō te whakapā mai ki te whānau. 
-segment_625_45|peterl|{<p:> a n I e <p:> k au a <p:> 4 a wa k oe e k o: 4 e 4 o p e: n a: <p:> k I a m a t ua h a k I <p:>}|'Janice! Kaua rawa koe e kōrero pēnā ki a Matua Haki. 
-segment_592_89|peterl|{<p:> I p e: h e a e t e t au k o t a: n a <p:> k I a h au <p:>}|'I pēhea, e Te Tau?' ko tāna ki ahau.
-segment_632_36|peterl|{<p:> p o k o k o: h ua <p:> k Ai a t e k u 4 i: <p:> p o: k o: t I f a h e m a: o 4 I p a 4 u <p:> h e k u:a 4 e a h au n e: <p:>}|'Pokokōhua! Kai a te kurī! Pōkōtiwha! He Māori paru. He kūare ahau nē? 
-segment_631_29|peterl|{<p:> h e 4 a we a: m a: t ou k o: 4 e 4 o m e t e n o h o <p:> t a h I <p:>}|He rawe ā mātou kōrero me te noho tahi. 
-segment_637_31|peterl|{<p:> t e: 4 a: p e a m e m u t u t a: t ou I k o n Ae <p:>}|Tērā pea me mutu tātou i konei.
-segment_623_12|peterl|{<p:> k I a <p:> o 4 a <p:> k o h a: 4 I a t a t e: n Ae e a <p:> 4 a: n I e 4 a h e m I t a: m a t I <p:>}|'Kia ora, ko Hāriata tēnei. … Āe. … A Rāniera Hemi Tāmati? 
-segment_637_21|peterl|{<p:> e m a: <p:> I m e a a t u m a o k o h a: 4 I a t a k o t e t a N a t a <p:> k I a t I n o <p:> f Ai p a: N a <p:> t u k u I h o k o k oe <p:>}|'E Mā, i mea atu mao ko Hāriata ko te tangata kia tino whai pānga tuku iho, ko koe. 
-segment_584_56|peterl|{<p:> h e oi <p:> k a h o k I m a o k I t e k a: I N a <p:> o h a: 4 I a t a <p:>}|Heoi, ka hoki mao ki te kāinga o Hāriata.
-segment_635_9|peterl|{<p:> e N a 4 I m e m a h a 4 a m a: t a: ua t a h I t e: n Ae m a h I <p:> t e k i: m Ai a h a: 4 I a t a <p:>}|Engari me mahara mā tāua tahi tēnei mahi,' te kī mai a Hāriata.
-segment_638_17|peterl|{<p:> e N a 4 I I o 4 a a n o: a h au <p:>}|Engari, i ora anō ahau. 
-segment_640_130|peterl|{<p:> k o t o: p a: p a: <p:>}|'Ko tō pāpā.'
-segment_588_15|peterl|{<p:> h e <p:> t I n o k I n o t e <p:> f a 4 a <p:> o t e <p:> t au h Ae <p:> k o t e p I 4 I h I m a n a <p:>}|He tino kino te whara o Te Tau,' hei ko te pirihimana.
-segment_592_62|peterl|{<p:> k Ae m u 4 I <p:> k oe I t e: t a h I f a k a a t a <p:> t I 4 o <p:> t a h I <p:>}|Kei muri koe i tētahi whakaata tiro tahi. 
-segment_588_41|peterl|{<p:> k a w Ai a t a a h a: 4 I a t a I <p:> t a k u w Ai a t a N a: k au n u I <p:>}|Ka waiata a Hāriata i taku waiata ngākaunui. 
-segment_582_2|peterl|{<p:> k o t e m a h I n Ae h e h o n o a t u I t e: t a h I a t u 4 u: m a <p:> k I t e 4 u: m a h i: 4 e 4 e <p:> I t e f a 4 e o t e: t a h I <p:> f a: n au <p:> I N Ai o <p:>}|Ko te mahi nei he hono atu i tētahi atu rūma ki te rūma hīrere i te whare o tētahi whānau i Ngaio. 
-segment_587_7|peterl|{<p:> h e a h a t e m a t e <p:> e 4 e a n t w I n I h a n a <p:> t e p a: t Ai a <p:> p a: p a: <p:>}|He aha te mate Sergeant Winihana?' te pātai a Pāpā.
-segment_622_41|peterl|{<p:> k o m a o k o h a: 4 I a t a e a f I a n a <p:> k o t o: m a: t ou 4 o: p u: e p e k e p e k e a n a <p:> k o e: t a h I e t a N I a n a p e: 4 a: a n o: I t e n u I N a <p:> o N a: m a: t ua <p:>}|Ko mao ko Hāriata e awhi ana, ko tō mātou rōpū e pekepeke ana, ko ētahi e tangi ana, pērā anō i te nuinga o ngā mātua.
-segment_638_107|peterl|{<p:> k a a 4 u a t u a h au I m u 4 I I a I a <p:>}|Ka aru atu ahau i muri i a ia.
-segment_637_33|peterl|{<p:> h e p Ai t e: n a: e m a t ua h a k I <p:> k o t a: 4 o n <p:> e t u: a n a <p:>}|'He pai tēnā, e Matua Haki,' ko tā Ron, e tū ana.
-segment_423_35|peterl|{<p:> k o t o: k u m a: m a: e m a h I a n a m a: t e m a n a t u: h au o 4 a <p:>}|Ko tōku māmā e mahi ana mā Te Manatū Hauora. 
-segment_589_50|peterl|{<p:> I a m a o k o 4 o n e t a 4 Ai wa a n a <p:> k I t e k a: I N a <p:> k a <p:> k o: 4 e 4 o a t u a h au m o: o: k u h o a <p:>}|I a mao ko Ron e taraiwa ana ki te kāinga, ka kōrero atu ahau mō ōku hoa. 
-segment_634_58|peterl|{<p:> I m e a m Ai k ua we h e k e: 4 a o k o e m I <p:>}|I mea mai kua wehe kē rao ko Emily.'
-segment_640_101|peterl|{<p:> I n o h o a t u a p a: p a: k I t o: n a t a h a <p:>}|I noho atu a Pāpā ki tōna taha.'
-segment_639_91|peterl|{<p:> k a m e a a t u a h au a a a h e m e a h u n a h o k I t a: k u <p:> k I t e f a: k I a t u k I a k ou 4 ua <p:>}|Ka mea atu ahau, 'Aaa … he mea huna hoki tāku ki te whāki atu ki a kourua. 
-segment_445_46|peterl|{<p:> m e a 4 a wa <p:> k a h o p u k I n a e 4 e w I <p:> t e p a o 4 o <p:> p I 4 o a n a a I a <p:>}|Mea rawa, ka hopukina e Rewi te paoro, piro ana a ia.
-segment_640_205|peterl|{<p:> I 4 a N a h au t I a e au h e k u 4 a e a: f I n a a n a I N a: m a: m a: t a k a k au <p:>}|I rangahautia e au he kura e āwhina ana i ngā māmā takakau.
-segment_582_126|peterl|{<p:> k a m a h I k oe I N a: h a 4 a 4 Ae <p:>}|Ka mahi koe i ngā hararei. 
-segment_592_87|peterl|{<p:> e <p:> h Ae <p:> k o t a: k u <p:>}|'Āe,' hei ko tāku.
-segment_588_102|peterl|{<p:> k ua m e a k e: m Ai N a: 4 a t a <p:> e k o 4 e a h au e t a: k a 4 o 4 i: k I <p:> n a: t e m e a h e wa e a e h o n o a n a I e: t a h I o o: k u k o: I w I <p:> I o: k u wa e wa e <p:> m e e: 4 a: I <p:> t o: k u t ua 4 a: <p:>}|Kua mea kē mai ngā rata e kore ahau e tākaro rīki nā te mea he waea e hono ana i ētahi o ōku kōiwi, i ōku waewae me ērā i tōku tuarā. 
-segment_631_11|peterl|{<p:> k o h a: 4 I a t a t e: n Ae a m a 4 oo k o I a t o: k u <p:> t ua h I n e a 4 a: t e h o a p u: m au o t e <p:> t au h Ae <p:> k o <p:> t a: 4 o n <p:>}|'Ko Hāriata tēnei, Amaroo. Ko ia tōku tuahine, arā, te hoa pūmau o Te Tau,' hei ko tā Ron.
-segment_582_11|peterl|{<p:> I t e o n o k a 4 a k a I t e a t a <p:> k a <p:> t a N I m Ai t a k u 4 e o I 4 I 4 a N I <p:> f a k a o h o <p:>}|I te ono karaka i te ata, ka tangi mai taku reo irirangi whakaoho. 
-segment_589_16|peterl|{<p:> I <p:> t e a t a t o n u <p:> k a wa e a m Ai a n o: a h a: 4 I a t a m e t e k i: <p:>}|I te ata tonu, ka waea mai anō a Hāriata me te kī, 
-segment_640_233|peterl|{<p:> h e n u I t a k u a 4 o h a m o: n a <p:> k oi n a: t e t a k e I m oe t a h I Ai m a: ua <p:>}|He nui taku aroha mōna, koinā te take i moe tahi ai māua.'
-segment_588_29|peterl|{<p:> k a f Ai a t u h o k I au h Ae <p:> k o t a: h a: 4 I a t a <p:>}|'Ka whai atu hoki au,' hei ko tā Hāriata. 
-segment_577_72|peterl|{<p:> k a <p:> u m e 4 e m a: t ou k a t o a <p:>}|Ka umere mātou katoa.
-segment_582_85|peterl|{<p:> t I 4 o m i: h a 4 o m Ai a n a o: k u m a: t ua I t e 4 o N o n a <p:>}|Tiro mīharo mai ana ōku mātua i te rongona.
-segment_637_80|peterl|{<p:> h ou m Ai <p:> k I 4 o t o k I a h o 4 oi a a: k ou 4 ua m o t u m o t u <p:> t e t o h u t o h u m Ai a <p:> t e k Ai m a h I o <p:> t e <p:> f a 4 e k Ai <p:>}|Hou mai ki roto kia horoia ā kourua motumotu,' te tohutohu mai a te kaimahi o te wharekai.
-segment_577_59|peterl|{<p:> h e p e: 4 a: a n o: a 4 e w I <p:> h e k a k i: m a: 4 o: h o k I <p:>}|He pērā anō a Rewi, he kakī mārō hoki.
-segment_577_75|peterl|{<p:> k a <p:> f a k ae k e m a: t ou I <p:> t e p a p a f a k a t u: t u: wa e wa e <p:>}|Ka whakaeke mātou i te papa whakatūtū waewae.
-segment_592_115|peterl|{<p:> k a: h o 4 e a n o: a 4 o n <p:> k I a m u t u I t e m a h I <p:>}|Kāhore anō a Ron kia mutu i te mahi. 
-segment_640_236|peterl|{<p:> oo oo o <p:> h I n e m o a <p:>}|'Ooooo, Hinemoa!'
-segment_448_88|peterl|{<p:> I t e a t a o t e 4 a: t a p u k a <p:> h ae 4 e a h au k I t e k a: I N a o h a: 4 I a t a <p:> n a: t e m e a <p:> e h ae 4 e a n a m a o k I <p:> t e <p:> t a: o n e k Ai Ai <p:>}|I te ata o te Rātapu, ka haere ahau ki te kāinga o Hāriata, nā te mea, e haere ana mao ki te tāone, kai ai. 
-segment_590_88|peterl|{<p:> n a: t o: n a t I n o k a h a <p:> k I t e m a h I <p:> k a: h o 4 e e k o 4 e k a t u t u k I a: n a f a k a m a: t au t au <p:>}|Nā tōna tino kaha ki te mahi, kāhore e kore ka tutuki āna whakamātautau. 
-segment_632_58|peterl|{<p:> m Ai I t ou a 4 a: <p:> k a f a k a p o n o a h au e <p:> k o 4 e k oe e <p:> t u k u n a <p:> k I a p e: n Ae I a h au <p:> k a: h o 4 e h e f a: n au <p:> k a: h o 4 e h e h o a h Ae <p:> t au t o k o h Ae a: f I n a I a k oe <p:>}|Mai i toua rā, ka whakapono ahau e kore koe e tukuna kia pēnei i ahau, kāhore he whānau, kāhore he hoa hei tautoko, hei āwhina i a koe. 
-segment_635_36|peterl|{<p:> k a <p:> t u: m a: I a h Ae t I n o t au I 4 a m o: N a: <p:> t e: I n a <p:>}|Ka tū māia hei tino tauiramō ngā tēina. 
-segment_577_52|peterl|{<p:> h e k a k i: m a: 4 o: t o n u a h a: 4 I a t a <p:> k a k o: h e t e t I a t e 4 o: p u: <p:>}|He kakī mārō tonu a Hāriata, ka kōhetetia te rōpū,
-segment_636_51|peterl|{<p:> k o w Ai t e p a: p a: <p:> k o t a k u p a: t Ai <p:>}|'Ko wai te pāpā?' ko taku pātai.
-segment_634_12|peterl|{<p:> a n o: k I a h au k o t e f a k a p Ai k oe I N a: m e a k a t o a o wa h o <p:>}|Anō ki ahau ko te whakapai koe i ngā mea katoa o waho.'
-segment_640_146|peterl|{<p:> I t e k I t e N a a t u o t I n a I a h I n e m o a <p:> k a 4 e 4 e a t u k I t e a f I <p:>}|I te kitenga atu o Tina i a Hinemoa, ka rere atu ki te awhi. 
-segment_640_160|peterl|{<p:> h e oi a n o: k o t a: n a h e 4 u t u I a h au m Ai I t o: n a 4 I N a <p:>}|Heoi anō, ko tāna, he rutu i ahau mai i tōna ringa. 
-segment_640_227|peterl|{<p:> h e p Ai a k e k oe I <p:> t e: n a: <p:>}|He pai ake koe i tēnā. 
-segment_589_192|peterl|{<p:> k a h o m Ai h e k e: n e p I a k I <p:> a m a o k a I n u m I a <p:> k a t o a t I a <p:>}|Ka homai he kēne pia ki a mao. Ka inumia katoatia. 
-segment_585_0|peterl|{<p:> I t e o k e t o p a k a f a: n au m Ai N a: m a: h a N a a m e 4 e 4 a: ua k o 4 o n <p:>}|I te Oketopa, ka whānau mai ngā māhanga a Mere rāua ko Ron. 
-segment_592_149|peterl|{<p:> I k o: 4 e 4 o k e: a t u <p:> k I a m e 4 e <p:> k o t a: n a <p:> k I a h au k I a h ae 4 e t o: t I k a k I t e k o: 4 e 4 o <p:> I <p:> t o: t a: ua f a f Ai <p:>}|I kōrero kē atu ki a Mere, ko tāna ki ahau, kia haere tōtika ki te kōrero i tō tāua whawhai. 
-segment_445_191|peterl|{<p:> k o t o: k u t I n o <p:> h I a h I a k I a h ae 4 e n o a t e p a h I I t e h ua 4 a h I <p:>}|Ko tōku tino hiahia, kia haere noa te pahi i te huarahi.
-segment_629_18|peterl|{<p:> a n a: <p:> k o t e m e a t I n o k I n o 4 a wa a t u <p:> k a: h o 4 e I p a: t Ai m Ai m o: t o: n a o 4 a N a <p:>}|Anā, ko te mea tino kino rawa atu, kāhore i pātai mai mō tōna oranga. 
-segment_629_78|peterl|{<p:> k a w Ai h o a t u I a <p:> f ae a a nn e I t e t a h a o k a 4 a n I m a: <p:>}|Ka waiho atu i a Whaea Anne i te taha o Karanimā. 
-segment_635_92|peterl|{<p:> e t a k I a n a 4 a: ua <p:> I a 4 a: t ou <p:>}|E taki ana rāua i a rātou. 
-segment_632_91|peterl|{<p:> e m o: h I o a n a k o o: n a <p:> k o 4 e 4 o <p:> e m au t o n u a n a <p:> k I o: m a: t ou h I n e N a 4 o <p:>}|E mōhio ana ko ōna korero e mau tonu ana ki ō mātou hinengaro.
-segment_577_107|peterl|{<p:> k a h ae 4 e t a h I a t u 4 a: ua k I t e t I k I I t a n a t o h u <p:>}|Ka haere tahi atu rāua ki te tiki i tana tohu.
-segment_589_116|peterl|{<p:> k a m e a a t u <p:> e 4 o n <p:> k au a e t I n o 4 o a k a h o k I m Ai a n o: <p:>}|Ka mea atu, 'E Ron, kaua e tino roa, ka hoki mai anō. 
-segment_639_23|peterl|{<p:> k a m a: m I N a a t u a h au k I t e t a h a m a t au k a <p:> t a k a h I f a k a m ua <p:> k a t e 4 e t a k u h o k I f a k a m u 4 I <p:> k a t a t a 4 I m o: t a k u h o a 4 I 4 I <p:> k I t e a h u f a k a m ua m Ai <p:> e N a 4 I <p:> k i: h Ai I 4 I t e <p:>}|Ka māminga atu ahau ki te taha matau, ka takahi whakamua, ka tere taku hoki whakamuri, ka tatari mō taku hoariri ki te ahu whakamua mai, engari kīhai i rite. 
-segment_592_135|peterl|{<p:> I <p:> t e a t a n Ae a h au I m a h I Ai I t e: n Ae m a h I <p:>}|I te ata nei ahau i mahi ai i tēnei mahi.'
-segment_445_162|peterl|{<p:> I t o: 4 a: t ua t a h I <p:> m e N a: 4 a: o m u 4 I m Ai I t o: k u k I t e N a I a k ou 4 ua k o h a: 4 I a t a e <p:> t u: t a k I t a k I a n a <p:> e h ae 4 e <p:> t a h I a n a <p:> I t e h a 4 a we n e <p:> k a t o a a h au <p:>}|I tō rā tuatahi me ngā rā o muri mai i tōku kitenga i a kourua ko Hāriata e tūtakitaki ana, e haere tahi ana, i te harawene katoa ahau. 
-segment_590_70|peterl|{<p:> n a: t e m a h a o m a: t ou I h a: m e n e t I a <p:> k a: h o 4 e I <p:> u 4 u <p:> k I t e f a 4 e h e 4 e h e 4 e <p:> a n a: <p:> k a <p:> t u k ua <p:>}|Nā te maha o mātou i hāmenetia kāhore i uru ki te whare herehere, anā, ka tukua, 
-segment_584_74|peterl|{<p:> e <p:> h Ae k o t a: n a e <p:> k u h u a n a k I <p:> t o: n a m oe N a <p:>}|'Āe,' hei ko tāna e kuhu ana ki tōna moenga. 
-segment_445_161|peterl|{<p:> h e m e a m a t a N e 4 e N e 4 e t e: n Ae e t e <p:> t au <p:>}|'He mea matangerengere tēnei, e Te Tau. 
-segment_634_119|peterl|{<p:> k a p e: h e a 4 a: <p:> k a <p:> p Ai a t u I <p:> t e: n Ae <p:>}|Ka pēhea rā, ka pai atu i tēnei?
-segment_633_0|peterl|{<p:> e t a k u h o a p u: m au <p:> t o: k u k u 4 a p ou n a m u k o k oe t o: k u o 4 a N a <p:> m a: k u k oe e <p:> t I a k I m o: a k e <p:> t o n u <p:> a t u <p:>}|E taku hoa pūmau, tōku kura pounamu. Ko koe tōku oranga, māku koe e tiakimō ake tonu atu.
-segment_639_137|peterl|{<p:> k a p a h u: m Ai t a n a au e: m e t e t o 4 o N a a t u I <p:> t o: n a 4 I N a <p:> k I t e p a: t u: o t e k u:a h a k I a k o 4 e Ai e h I N a <p:>}|Ka pahū mai tana auē me te toronga atu i tōna ringa ki te pātū o te kūaha kia kore ai e hinga. 
-segment_628_77|peterl|{<p:> k au a e p a 4 a 4 e: <p:> k Ae o h o m Ai N a: m a: h a N a <p:> k o t a: h a: 4 I a t a <p:>}|'Kaua e pararē, kei oho mai ngā māhanga,' ko tā Hāriata. 
-segment_592_105|peterl|{<p:> k I a <p:> k oe h o k I <p:> n a: t e m e a <p:> k ua u 4 u m Ai <p:> t e: t a h I t a k e t I n o n u I n Ae <p:> k I 4 u N a I a I a <p:>}|ki a koe hoki, nā te mea, kua uru mai tētahi take tino nui nei ki runga i a ia.
-segment_639_30|peterl|{<p:> k a t i: m a t a a n o: <p:> k a h i: t e k I t e k I h ae 4 e <p:> k a f a n a m Ai t a k u h o a 4 I 4 I <p:> I t e <p:> t a h a o t o: k u k u: h a: <p:> I a h au e a h u f a k a m ua a n a <p:> k I t e m e k e <p:>}|Ka tīmata anō. Ka hītekiteki haere, ka whana mai taku hoariri i te taha o tōku kūhā i ahau e ahu whakamua ana ki te meke. 
-segment_418_31|peterl|{<p:> k a 4 u: 4 u: k a h o N I m a o <p:>}|Ka rūrū, ka hongi mao.
-segment_445_47|peterl|{<p:> k o t e: t a h I a t u h a: k I n a k I n a k Ae t e f Ai a h au k o t e k a 4 a t e <p:>}|Ko tētahi atu hākinakina kei te whai ahau, ko te karate. 
-segment_587_56|peterl|{<p:> e h I a h I a a n a a h au k I t e wa e a a t u k I t a k u 4 o: I a <p:> k I t e n o h o I t e t a h a o t e <p:> t au <p:>}|e hiahia ana ahau ki te waea atu ki taku rōia ki te noho i te taha o Te Tau, 
-segment_638_105|peterl|{<p:> k a: h o 4 e h Ae k o t a: k u <p:>}|'Kāhore,' hei ko tāku.
-segment_584_19|peterl|{<p:> h e k a h a m a o k o h a: 4 I a t a <p:> k I t e <p:> t a: w Ai I a 4 e w I <p:>}|He kaha mao ko Hāriata ki te tāwai i a Rewi.
-segment_589_185|peterl|{<p:> k Ae t e h ae 4 e a t u t Ai h o a 4 a: <p:>}|'Kei te haere atu, taihoa rā. 
-segment_640_22|peterl|{<p:> k o t e: 4 a: e t u N ou a n a <p:> I <p:> t o: n a m a: t e N a <p:>}|Ko tērā e tungou ana i tōna mātenga.
-segment_628_65|peterl|{<p:> I t e I wa k a 4 a k a k a wa e a a t u a h au k I a m a t ua h a k I <p:>}|I te iwa karaka, ka waea atu ahau ki a Matua Haki. 
-segment_588_134|peterl|{<p:> k a h ae 4 e a t u k I t e m o t o k a: <p:>}|Ka haereatu ki te motokā.
-segment_587_96|peterl|{<p:> h e t I k a m e m o: h I o a h au k I N a: a: h ua t a N a <p:> k a t o a e p a: a n a <p:> k I <p:> t e: n Ae f a f Ai o: k ou 4 ua <p:>}|He tika me mōhio ahau ki ngā āhuatanga katoa e pā ana ki tēnei whawhai ō kourua.'
-segment_584_68|peterl|{<p:> k a t a k o t o a t u a h au <p:> k I 4 u N a I a I a <p:>}|Ka takoto atu ahau ki runga i a ia. 
-segment_639_213|peterl|{<p:> k a: h o 4 e I 4 o a I m u 4 I m Ai <p:> k a we h e a t u m a: t ou m e t a: m a: t ou f a k a p o n o <p:> k a h o k I m Ai a n o: <p:>}|Kāhore i roa i muri mai ka wehe atu mātou me tā mātou whakapono ka hoki mai anō, 
-segment_592_46|peterl|{<p:> k a k I t e a h au I <p:> t e: t a h I wa h I n e m a: o 4 I <p:> a: h ua t u: w Ai n Ae <p:>}|Ka kite ahau i tētahi wahine Māori, āhua tūwai nei.
-segment_621_23|peterl|{<p:> h e k o: 4 e 4 o h i:a N a n o a I h o k o m a: t ou k a t o a e h ae 4 e <p:> a t u a n a <p:>}|'He kōrero hīanga noa iho. Ko mātou katoa e haere atu ana.'
-segment_592_205|peterl|{<p:> k a m e a m Ai a p a: p a: <p:> t e a: h ua n Ae k ua k I t e k e: a h au I a 4 o n <p:>}|Ka mea mai a Pāpā, 'Te āhua nei, kua kite kē ahau i a Ron?' 
-segment_423_1|peterl|{<p:> k o m a o t a h I e w Ai a t a <p:> a n a <p:>}|ko mao tahi e waiata ana,
-segment_582_51|peterl|{<p:> m e h e m e a e h I a h I a m o n I a n a a h au k a p a: t Ai a t u a h au k I <p:> t e: t a h I o o: k u <p:> m a: t ua <p:>}|Mehemea e hiahia moni ana ahau, ka pātai atu ahau ki tētahi o ōku mātua.
-segment_588_164|peterl|{<p:> e p Ai a n a k I a h ou a t u a h au e t e t au <p:> t e p a: t Ai a h a: 4 I a t a <p:>}|'E pai ana kia hou atu ahau, e Te Tau, te pātai a Hāriata. 
-segment_587_58|peterl|{<p:> e p Ai a n a t e: n a: <p:>}|E pai ana tēnā? 
-segment_587_61|peterl|{<p:> k I a o 4 a e t e t au k o <p:> o n t ae <p:> o h n o n o p oi h a: k e n a <p:> t e: n Ae <p:>}|'Kia ora, e Te Tau. Ko Constable Johnson o Poihākena tēnei. 
-segment_588_30|peterl|{<p:> k o m a: m a: 4 a: ua k o h a: 4 I a t a e <p:> t a N I h o t u h o t u a n a <p:> e p u p u 4 I a n a I o: k u 4 I N a <p:>}|Ko Māmā rāua ko Hāriata e tangi hotuhotu ana, e pupuri ana i ōku ringa. 
-segment_639_123|peterl|{<p:> k o t a: n a n <p:> m a h I h e <p:> a f I <p:> I t e f a k a a h ua I w Ai h o t I a m Ai e <p:> k oe <p:>}|Ko tā Nancy mahi he awhi i te whakaahua i waihotia mai e koe. 
-segment_423_120|peterl|{<p:> t u 4 u t u 4 u a n a N a: 4 oi m a t a <p:> p o 4 o a k I a n a m a: t ou k a t o a <p:> a h a k o a k a: h o 4 e I <p:> t I n o <p:> t a f I t I a <p:> k a 4 o 4 I <p:> I p o 4 I 4 ua <p:>}|Turuturu ana ngā roimata, poroaki ana mātou katoa ahakoa kāhore i tino tawhiti a Karori i Porirua. 
-segment_582_20|peterl|{<p:> e t e t au <p:> t e m e a t ua t a h I h e f a k a t I k a I t o: t u: 4 u <p:> k I a p Ai Ai <p:> t o: n o h o <p:>}|'E Te Tau, te mea tuatahi he whakatika i tō tūru kia pai ai tō noho. 
-segment_625_4|peterl|{<p:> m oe m Ai 4 a: e t e 4 a N a t I 4 a <p:>}|Moe mai rā, e te rangatira. 
-segment_634_43|peterl|{<p:> k ua t u h I 4 e t a a h au k I <p:> a I a <p:>}|Kua tuhi reta ahau ki a ia. 
-segment_423_53|peterl|{<p:> k a n o h o p u k u au k I <p:> t o: k u 4 u: m a m o: N a: 4 a: e h I a m Ai n Ae <p:> k a p u t a n a h e k I t e k Ai <p:>}|ka nohopuku au ki tōku rūma mō ngā rā e hia mai nei, ka puta nahe ki te kai. 
-segment_592_200|peterl|{<p:> k a a f I I o: k u m a: t ua <p:>}|ka awhi i ōku mātua. 
-segment_636_93|peterl|{<p:> e <p:>}|'Āe.'
-segment_625_9|peterl|{<p:> k a <p:> h ua k I n a e m a t ua h a k I t e: t a h I <p:> k o: p a k I <p:> k a h o: m Ai I e: t a h I k a p e k I a m a: t ou <p:>}|Ka huakina e Matua Haki tētahi kōpaki, ka hōmai i ētahi kape ki a mātou. 
-segment_590_18|peterl|{<p:> I t e p o: 4 a: I p oi h a: k e n a <p:>}|'I te pō rā i Poihākena, 
-segment_631_10|peterl|{<p:> e k o 4 e t o: k u f a: n au e wa 4 e wa 4 e I t a: u m a h I h Ae <p:> k o t a: n a <p:>}|E kore tōku whānau e wareware i tāu mahi,' hei ko tāna.
-segment_640_53|peterl|{<p:> n a: n a h o k I I f a: k I a t u t e m a t e a h I n e m o a <p:> k I a I a <p:>}|Nāna hoki i whāki atu te mate a Hinemoa ki a ia.
-segment_630_43|peterl|{<p:> I m e a m Ai a 4 o n k ua t u k u n a a: n a p a: N a <p:> t u k u I h o <p:> k I t e k a 4 a h I p I m a: t au 4 a N a m o: N a: u 4 I <p:> a p a: p a: <p:>}|'I mea mai a Ron, kua tukuna āna pānga tuku iho ki te karahipi mātauranga mō ngā uri a Pāpā.'
-segment_627_9|peterl|{<p:> e <p:> e m a: e p e: h e a a n a <p:> k oe <p:> k o t a: h a: 4 I a t a <p:>}|'Āe.''E Mā, e pēhea ana koe?' ko tā Hāriata. 
-segment_577_118|peterl|{<p:> N a: m I h I n u I <p:> k I a <p:> k ou t ou <p:>}|Ngā mihi nui ki a koutou.
-segment_588_49|peterl|{<p:> e t e t au <p:> k au a k oe e m a t e <p:>}|'E Te Tau, kaua koe e mate. 
-segment_634_40|peterl|{<p:> k o h I n e m o a 4 a: ua k o h a: 4 I a t a I a h u a t u k I N a: t u: 4 u n o h o k I t e f a: N Ai <p:> I a t e a h I <p:> 4 a o k o 4 a N I m a: 4 I e <p:>}|Ko Hinemoa rāua ko Hāriata i ahu atu ki ngā tūru noho ki te whāngai i a Te Ahi rao ko Rangimārie.
-segment_624_42|peterl|{<p:> k a m a h a 4 a a k e a h au I t au a t u: p o n o t a N a <p:>}|Ka mahara ake ahau i taua tūponotanga, 
-segment_445_43|peterl|{<p:> I f a n Ai a e au <p:> t e p a o 4 o k I N a: 4 a N I <p:> t u: h a: h a: 4 a: a n o: <p:>}|I whanaia e au te paoro ki ngā rangi tūhāhā rā anō. 
-segment_586_61|peterl|{<p:> n au m Ai h o k I m Ai <p:> t e k a 4 a N a a o: m a o m a: t ua e a f I a n a e <p:> k I h I a n a I a m a o <p:>}|'Nau mai, hoki mai!' te karanga a ō mao mātua e awhi ana, e kihi ana i a mao.'
-segment_591_21|peterl|{<p:> e <p:>}| 'Āe.'
-segment_591_62|peterl|{<p:> k a o m a a t u a h au k I t e a: f I n a I a I a <p:>}|ka oma atu ahau ki te āwhina i a ia.'
-segment_591_122|peterl|{<p:> I m ua a t u I a <p:> k oe I m e a m Ai a 4 o n e t o 4 u N a: p ou n a m u I I n u m I a e I a <p:>}|I mua atu i a koe, i mea mai a Ron, e toru ngā pounamu i inumia e ia.'
-segment_628_49|peterl|{<p:> m o: h I o t o n u a h au h e k a 4 e 4 e p o: u 4 I <p:> t o: 4 a: ua <p:>}|Mōhio tonu ahau he karere pōuri tō rāua. 
-segment_590_9|peterl|{<p:> k a f a k a t I k a t I k a m a o k o h a: 4 I a t a I t o: m a o <p:> f a 4 e <p:>}|Ka whakatikatika mao ko Hāriata i tō mao whare. 
-segment_587_0|peterl|{<p:> e t o 4 u w I k I <p:> I m u 4 I a t u <p:> k a 4 a N o n a <p:> t e: t a h I e p a: t o: t o: a n a <p:> I <p:> t e k u:a h a <p:>}|E toru wiki i muri atu ka rangona tētahi e pātōtō ana i te kūaha.
-segment_585_17|peterl|{<p:> k a <p:> h u 4 I k I t e m a: m a: o h a: 4 I a t a k a <p:> k i: a t u <p:>}|Ka huri ki te māmā o Hāriata, ka kī atu, 
-segment_589_86|peterl|{<p:> k a: h o 4 e a h au I <p:> k I t e I e: t a h I <p:> t a N a t a f e n ua <p:>}|Kāhore ahau i kite i ētahi tangata whenua. 
-segment_589_120|peterl|{<p:> e p i: 4 a N I <p:> k a t o a a n a o: k u k o: t I 4 o k I a <p:> k oe <p:>}|E pīrangi katoa ana ōku kōtiro ki a koe.' 
-segment_626_37|peterl|{<p:> t u 4 u t u 4 u m Ai a n a <p:> t e we 4 a we 4 a <p:> m e t a k u m o: h I o m a: 4 I k a <p:> k ua u 4 u a t u a h au <p:> k I t e f a k a t ae t ae a: m o t u <p:>}|Turuturu mai ana te werawera, me taku mōhio mārika kua uru atu ahau ki te whakataetae ā-motu. 
-segment_586_32|peterl|{<p:> k a p I k o a t u a a n I e <p:> k a <p:> p a: t Ai a t u h e a h a t a: u e p a: <p:>}|Ka piko atu a Janice ka pātai atu, 'He aha tāu, e Pā?'
-segment_585_55|peterl|{<p:> k a t I 4 o o h o 4 e 4 e a k e t e p a: p a: o 4 o n <p:> k a k o: h I m u a t u a nn e <p:>}|Ka tiro ohorere ake te pāpā o Ron, ka kōhimu atu, 'Anne.' 
-segment_625_52|peterl|{<p:> h o 4 o t o n u t e a h u a t u a 4 o n <p:> k I t o: n a <p:> t a h a <p:> e N a 4 I <p:> k a p Ae a a t u I a <p:> e a n I e <p:>}|Horo tonu te ahu atu a Ron ki tōna taha engari, ka peia atu ia e Janice, 
-segment_635_63|peterl|{<p:> k o I a t e k a: p e n e o t e t i: m a 4 i: k I o t o: n a k a 4 a p u <p:>}|'Ko ia te kāpene o te tīma rīki o tōna karapu. 
-segment_588_120|peterl|{<p:> I t o: n a we h e N a a t u k a <p:> k I h I a n o: I a I a h a: 4 I a t a <p:> e N a 4 I <p:> k a: h o 4 e I 4 u: 4 u: m Ai <p:>}|I tōna wehenga atu, ka kihi anō ia i a Hāriata, engari kāhore i rūrū mai.
-segment_588_122|peterl|{<p:> t e a: h ua n Ae e p i: 4 a N I a n a I a k I t e m oe I a <p:> k oe <p:>}|Te āhua nei, e pīrangi ana ia ki te moe i a koe. 
-segment_627_39|peterl|{<p:> k a n e k e t e 4 i: p e n e <p:> k I t e: t a h I a t u f a k a a t u 4 a N a <p:>}|Ka neke te rīpene ki tētahi atu whakaaturanga. 
-segment_636_114|peterl|{<p:> e h a 4 I <p:> k o m a: m a: k o t a: k u <p:>}|E Hari, ko Māmā,' ko tāku.
-segment_621_6|peterl|{<p:> h e t u 4 e a n o: t o: t e f e n ua m a: o 4 I <p:> t a: m a t ua h a k I <p:>}|'He ture anō tō te whenua Māori,' tā Matua Haki.
-segment_445_170|peterl|{<p:> k o 4 e w I h o k I e p a: t Ai t Ai a n a m o: t e f a f Ai I a m a: t ou e k Ai a n a <p:>}|Ko Rewi hoki, e pātaitai ana mō te whawhai i a mātou e kai ana.
-segment_634_114|peterl|{<p:> k a t I 4 o a t u N a: t o k o 4 ua k I a t e a h I e t a: k a 4 o t a h I a n a m e 4 a N I m a: 4 I e <p:>}|Ka tiro atu ngā tokorua ki a Te Ahi e tākaro tahi ana me Rangimārie.
-segment_577_103|peterl|{<p:> k o h a: 4 I a t a 4 a: t ou k o 4 e w I <p:> k o m e 4 e e n o h o a n a I <p:> t o: k u t a h a <p:>}|Ko Hāriata rātou ko Rewi, ko Mere e noho ana i tōku taha.
-segment_584_80|peterl|{<p:> e k o 4 e a h au e wa 4 e wa 4 e <p:> k I t e: n Ae p o: <p:>}|E kore ahau e wareware ki tēnei pō.
-segment_623_62|peterl|{<p:> k oi a n Ae t e h I a h I a a p a: p a: <p:> h Ae t a: <p:> h a: 4 I a t a <p:>}|Koia nei te hiahia a Pāpā,' hei tā Hāriata.
-segment_630_50|peterl|{<p:> Ai <p:> k ua t e k au k a 4 a k a <p:> k e: k o <p:> t a: k u <p:>}|'Ai, kua tekau karaka kē,' ko tāku.
-segment_589_131|peterl|{<p:> I t e h u 4 I N a <p:> I t e <p:> k o k o N a <p:> k a <p:> k I t e a t u m a o I N a: k o 4 o k e: t o k o f a: n Ae <p:> e k i: k I k I a n a I t e: t a h I a t u <p:> t a N a t a <p:>}|I te huringa i te kokonga, ka kite atu mao i ngā korokē tokowhā nei e kīkiki ana i tētahi atu tangata. 
-segment_589_129|peterl|{<p:> k a <p:> k a k e a t u m a o k I <p:> t e t e 4 Ae n a <p:>}|Ka kake atu mao ki te tereina. 
-segment_640_125|peterl|{<p:> m e h ae 4 e m Ai k oe k I t e t I k I I a t I n a <p:>}|Me haere mai koe ki te tiki i a Tina. 
-segment_628_19|peterl|{<p:> k o t e: n Ae p e a t a n a k a 4 a N a k I a a: f I n a t I a <p:> I a <p:>}|Ko tēnei pea tana karanga kia āwhinatia ia. 
-segment_577_14|peterl|{<p:> m o: t e k o 4 o w Ai o t e a t ua <p:>}|Mō te korowai o te atua.
-segment_592_211|peterl|{<p:> k a k Ai m a: t ou k a m e a a t u a h au <p:>}|Ka kai mātou ka mea atu ahau, 
-segment_626_48|peterl|{<p:> k a: h o 4 e I t e p Ai <p:> k o 4 o n k Ae t e p u k u 4 I 4 I <p:> t o n u <p:>}|'Kāhore i te pai. Ko Ron, kei te pukuriri tonu. 
-segment_639_149|peterl|{<p:> h e p o n o m a: 4 I k a <p:> k o t a: n a <p:> k I <p:> a n a n <p:>}|'He pono mārika,' ko tāna ki a Nancy.
-segment_587_91|peterl|{<p:> I wa h o k a m e a m Ai a p a: p a: <p:> e t e <p:> t au <p:> h e a h a <p:> k e: t e: n Ae <p:>}|I waho, ka mea mai a Pāpā, 'E Te Tau, he aha kē tēnei? 
-segment_577_19|peterl|{<p:> I m ua I <p:> t e f a k a m u t u N a o t e <p:> t au <p:> k a t ae m Ai <p:> t e p a: n u I <p:> k a t u: t e f a k a t ae t ae k a p a h a k a m o: N a: k u 4 a t ua 4 ua <p:> I t o: m a: t ou a k e k u 4 a <p:>}|I mua i te whakamutunga o te tau, ka tae mai te pānui ka tū te whakataetae kapa haka mō ngā kura tuarua i tō mātou ake kura.
-segment_639_49|peterl|{<p:> n a: m a: m a: t e: n Ae f a k a a 4 o <p:>}|'Nā Māmā tēnei whakaaro. 
-segment_640_18|peterl|{<p:> e h a 4 a a h au I t e k o: h I n e e k o: 4 e 4 o n Ae <p:> k ou 4 ua k o <p:> f ae a h a: 4 I a t a <p:> e m a: <p:>}|'Ehara ahau i te kōhine e kōrero nei kourua ko Whaea Hāriata, e Mā.'
-segment_592_80|peterl|{<p:> k a p o k o a n o: N a: 4 a m a <p:>}|Ka poko anō ngā rama. 
-segment_423_119|peterl|{<p:> m u t u 4 a wa t e k Ai k a f a k a t I k a m a: t ou k I t e we h e <p:> a t u <p:>}|Mutu rawa te kai, ka whakatika mātou ki te wehe atu.
-segment_589_43|peterl|{<p:> k o m a o k o 4 o n n a h e I m oe <p:> k I <p:> t o: n a f a 4 e <p:>}|Ko mao ko Ron nahe i moe ki tōna whare. 
-segment_582_102|peterl|{<p:> e <p:> k o t e u t u p e: 4 a: a n o: k I t o: t e t au h Ae k o t a n a 4 a N a t I 4 a <p:>}|'Āe, ko te utu, pērā anō ki tō Te Tau' hei ko tana rangatira.
-segment_630_64|peterl|{<p:> e p Ai a n a m a t ua k a n o h o m a o k o m a: m a: I t e t a h a o 4 o n 4 a o k o m e 4 e <p:>}|'E pai ana, Matua, ka noho mao ko Māmā i te taha o Ron rao ko Mere.' 
-segment_590_112|peterl|{<p:> h a: 4 I a t a m I t h e t e k a 4 a N a a <p:> t e k Ai h au t u: <p:>}|'Hāriata Mitchell,' te karanga a te kaihautū. 
-segment_589_103|peterl|{<p:> k a a h u a t u m a o <p:> k a k a 4 a N a m Ai t e: t a h I e n o h o a n a I <p:> t e p ae <p:>}|Ka ahu atu mao, ka karanga mai tētahi e noho ana i te pae, 
-segment_636_80|peterl|{<p:> k a 4 e 4 e a t u <p:> k I t e a f I I a <p:> I a <p:>}|Ka rere atu ki te awhi i a ia.
-segment_638_112|peterl|{<p:> k a: h o 4 e a h au I <p:> f a k au t u a t u <p:>}|Kāhore ahau i whakautu atu.
-segment_638_21|peterl|{<p:> h a: N Ai <p:> t o n u t a k u t I 4 o k I a <p:> I a <p:> k a m a: m I N a <p:> k I t e h u 4 I <p:> k I t e <p:> f a n a <p:> m e <p:> t a k u m a: m I N a p o 4 o <p:>}|Hāngai tonu taku tiro ki a ia, ka māminga ki te huri ki te whana me taku māminga poro. 
-segment_591_106|peterl|{<p:> k I a o 4 a e t e t au <p:>}|'Kia ora, e Te Tau.'
-segment_591_1|peterl|{<p:> k a m e a m Ai <p:> e t e t au <p:> k ua t ae m Ai t e p a: n u I a t e k o: t I <p:> I p oi h a: k e n a <p:>}|ka mea mai, 'E Te Tau, kua tae mai te pānui a te Kōti i Poihākena.
-segment_582_101|peterl|{<p:> k a p a: t Ai a t u a p a: p a: <p:> e h I a h I a a n a <p:> k oe <p:> k I t e: n Ae <p:> k Ai m a h I m o: N a: w I k I f a k a t a: k a t o a o t e <p:> t au <p:>}|Ka pātai atu a Pāpā, 'E hiahia ana koe ki tēnei kaimahi mō ngā wiki whakatā katoa o te tau?'
-segment_587_110|peterl|{<p:> k a: h o 4 e a h au I t I n o p i: 4 a N I <p:> k I t e wa e a a t u <p:> e N a 4 I <p:> n a: t e t I n o n u I o t e t a k e n Ae <p:> h e <p:> t I k a m e <p:> k o: 4 e 4 o a t u a h au k I a I a <p:>}|Kāhore ahau i tino pīrangi ki te waea atu engari, nā te tino nui o te take nei he tika me kōrero atu ahau ki a ia.
-segment_448_105|peterl|{<p:> k a m e a m Ai a m e 4 e <p:> k I t o: k u n Ae m o: h I o n o: 4 au k a wa o: n a m a: t ua <p:> t e: n a: p e a <p:> k a <p:> t a k o t o <p:> k I <p:> 4 Ae 4 a p o: p o: k a m o: h I o t I a <p:>}|Ka mea mai a Mere, 'Ki tōku nei mōhio, nō Raukawa ōna mātua. Tēnā pea, ka takoto ki reira. Āpōpō, ka mōhiotia.'
-segment_592_142|peterl|{<p:> k a: h o 4 e a h au I p a k u m o: h I o k o t e m u t u p e: n Ae m Ai <p:>}|'Kāhore ahau i paku mōhio ko te mutu pēnei mai.
-segment_627_4|peterl|{<p:> k o m a t ua h a k I <p:> e t e t au <p:>}|'Ko Matua Haki, e Te Tau. 
-segment_590_95|peterl|{<p:> h e t I n o p Ai t o: m a o n o h o t a h I <p:>}|He tino pai tō mao noho tahi. 
-segment_585_8|peterl|{<p:> t e t au h au m a n a 4 a N I <p:> t e k a 4 a N a a t e k Ai h o a t u <p:> t o h u <p:>}|'Te Tau Haumana Rangi!' te karanga a te kaihoatu tohu.
-segment_592_37|peterl|{<p:> k a m e a a t u a h au <p:> e p Ai a n a <p:>}|Ka mea atu ahau, 'E pai ana. 
-segment_577_17|peterl|{<p:> k Ae <p:> k o n Ae m a: t ou k a t o a <p:> I 4 u N a I <p:> t o: k a 4 a N a e <p:> t e p o: f a k a N a h au <p:> k ua h u Ai n a e m a: t ou <p:> k o t e p o: n u I a 4 a N I <p:>}|Kei konei mātou katoa i runga i tō karanga e, te pō whakangahau kua huaina e  mātou ko Te Pō nui a Rangi. 
-segment_639_143|peterl|{<p:> m o: t a k u h e: <p:> e m o k o <p:> m o: t a k u h e: <p:>}|Mō taku hē, e moko! Mōtaku hē!'
-segment_588_172|peterl|{<p:> k a t o h ua k I t a n a f a k a a h ua k a m e a a t u a h au k o w Ai k Ae t o: f a k a a h ua n a: <p:>}|'Ka tohua ki tana whakaahua, ka mea atu ahau, 'Ko wai kei tō whakaahua nā?'
-segment_635_13|peterl|{<p:> k o t e t u k u n a m Ai e I a N a: p e p a f a k a m a: 4 a m a <p:>}|Ko te tukuna mai e ia ngā pepa whakamārama. 
-segment_631_52|peterl|{<p:> k I a o 4 a m a t ua h a k I <p:> e <p:> I <p:> k o n Ae a a n I e <p:> e N a 4 I n a: k u I a I p a n a a t u <p:>}|'Kia ora, Matua Haki. … Āe, i konei a Janice engari nāku ia i pana atu.'
-segment_587_54|peterl|{<p:> e h I a h I a a n a 4 a: t ou k I t e wa e a m Ai k I <p:> t e t Ae h a n a n Ae <p:> k o: 4 e 4 o Ai k I a k oe <p:> t e k i: <p:> a e 4 e a n t w I n I h a n a <p:>}|E hiahia ana rātou ki te waea mai ki te teihana nei, kōrero ai ki a koe,' te kī a Sergeant Winihana.
-segment_638_166|peterl|{<p:> k a h o k I m Ai a n o: a h au <p:> I m ua I t a k u h o k I N a <p:> k I t e f a N a n u I a t a 4 a <p:>}|Ka hoki mai anō ahau i mua i taku hokinga ki Te Whanganui-a-Tara.'
-segment_585_25|peterl|{<p:> e h a: 4 I <p:> t o: k u k u 4 u <p:> p ou n a m u <p:> e f a k a ae m Ai a n a k oe h Ae <p:> h o a t au m au m a: k u <p:>}|'E Hāri, tōku kuru pounamu, e whakaae mai ana koe hei hoa taumau māku?'
-segment_591_117|peterl|{<p:> e <p:>}| 'Āe.'
-segment_629_31|peterl|{<p:> e t e t au <p:> k I a o 4 a a n o: m o: t o: t a 4 I I a m a o <p:> k o m a: m a: <p:> k I t e t u: t a k I I t o: m a: ua f a: n au <p:>}|'E Te Tau, kia ora anō mō tō tari i a mao ko Māmā ki te tūtaki i tō māua whānau. 
-segment_634_30|peterl|{<p:> e p Ai a n a e f ae a <p:> k I a m u t u t e h a: k a 4 I <p:> k I a m oe a: t a: ua n Ae p e: p I <p:> k a <p:> k o: 4 e 4 o Ai t a o <p:>}|'E pai ana, e Whaea, kia mutu te hākari, kia moe ā tāua nei pēpi ka kōrero ai tao. 
-segment_582_68|peterl|{<p:> k a t I 4 o a t u a h au k I <p:> t o: n a <p:> k a n o h I <p:>}|Ka tiro atu ahau ki tōna kanohi. 
-segment_588_20|peterl|{<p:> k I a o 4 a <p:> k ou 4 ua h ou m Ai <p:> k I 4 o t o <p:>}|'Kia ora kourua. Hou mai ki roto. 
-segment_635_52|peterl|{<p:> k o t e: t a h I a t u a: h ua t a N a <p:> p Ai <p:> n a: 4 a o a n o: I a: 4 a h I <p:> I a k I a k I N a: <p:> t e: I n a <p:>}|Ko tētahi atu āhuatanga pai, nā rao anō i ārahi, i akiaki ngā tēina. 
-segment_445_55|peterl|{<p:> I t e: t a h I p o: <p:> e t a t a 4 I a n a m a: t ou k I o: m a: t ou m a: t ua <p:>}|I tētahi pō, e tatari ana mātou ki ō mātou mātua,
-segment_632_2|peterl|{<p:> I t au a p o: <p:> I t e m oe N a a N a: m a: h a N a k a n o h o m a: t ou k I <p:> t e k o: 4 e 4 o 4 e 4 o n o a I h o a 4 a: <p:> t e h o k I m a h a 4 a <p:>}|I taua pō, i te moenga a ngā māhanga, ka noho mātou ki te kōrerorero noa iho, arā, te hoki mahara. 
-segment_423_26|peterl|{<p:> e 4 ua N a: t au I p a h u 4 e k a t u p u t I k a a: m a: t ou k u: m a 4 a <p:> n a: t e m e a I <p:> t i: k I n a e p a: p a: <p:> N a: o n e o n e m Ai I t e a wa <p:> o f a k a t I k I <p:>}|E rua ngā tau i pahure, ka tupu tika ā mātou kūmara nā te mea i tīkina e Pāpā ngā oneone mai i te awa o Whakatiki. 
-segment_589_203|peterl|{<p:> e 4 o n <p:> e m a h a 4 a a n a k oe <p:> k o t e k o t a h I <p:> k a 4 a k a <p:> k a <p:> t au m Ai t e wa k a 4 e 4 e 4 a N I o t o: p a: p a: <p:> 4 a: ua k o <p:> a n I e <p:>}|E Ron, e mahara ana koe, ko te kotahi karaka ka tau mai te waka rererangi o tō pāpā rāua ko Janice. 
-segment_636_148|peterl|{<p:> k o t e f a: k I a t u k I t o: n a m a: m a: a: p o: p o: k o t a: h a: 4 I a t a <p:>}|Ko te whāki atu ki tōna māmā āpōpō,' ko tā Hāriata.
-segment_588_143|peterl|{<p:> I <p:> k Ai k ou 4 ua I m ua I <p:> t o: n a we h e N a a t u <p:>}|'I kai kourua i mua i tōna wehenga atu?'
-segment_637_134|peterl|{<p:> k a w Ai h o k I a k oe I n a: I a n Ae e m a t ua <p:> t e k i: a 4 o n <p:>}|Ka waiho ki a koe i nāianei, e Matua,' te kī a Ron.
-segment_445_163|peterl|{<p:> I t e f Ai f Ai au I a h a: 4 I a t a <p:> e N a 4 I <p:> k a <p:> t ae m Ai n Ae <p:> k oe <p:> a: m a m ae a n a <p:> t o: k u f a t u m a n a wa <p:>}|I te whaiwhai au i a Hāriata, engari ka tae mai nei koe, ā, mamae ana tōku whatumanawa. 
-segment_639_6|peterl|{<p:> <usb> t e t e k au k a 4 a k a h Ae t e a t a <p:> k o t a k u f a f Ai <p:> t au m a t a t ua 4 ua k o t a: k u <p:>}|'Ā te tekau karaka hei te ata. Ko taku whawhai taumatatuarua,' ko tāku.
-segment_588_202|peterl|{<p:> k ua m o: h I o a h au I n a: I a n Ae <p:> h e a h a <p:> I <p:> h I a h I a Ai <p:> k I t e h o k I m Ai k I <p:> k o n Ae <p:> h Ae <p:> k o t a: h a: 4 I a t a <p:>}|Kua mōhio ahau i nāianei, he aha i hiahia ai ki te hoki mai ki konei,' hei ko tā Hāriata.'
-segment_636_68|peterl|{<p:> k a h ae 4 e a h a: 4 I a t a 4 a: ua k o h I n e m o a k I <p:> t e I n u k a f e <p:> m e t e <p:> t I a k a 4 e t e we 4 a <p:> I m ua I t e h o k I N a a h I n e m o a <p:> k I t e k u 4 a <p:>}|Ka haere a Hāriata rāua ko Hinemoa ki te inu kawhe me te tiakarete wera i mua i te hokinga a Hinemoa ki te kura. 
-segment_630_47|peterl|{<p:> I h ae 4 e <p:> k e: I a <p:> k I t e: t a h I t a N I h a N a I p I 4 I p a n e <p:> k o t a: h a: 4 I a t a <p:>}|I haere kē ia ki tētahi tangihanga i Piripane,' ko tā Hāriata. 
-segment_590_46|peterl|{<p:> k a m e a m Ai <p:> e t e t au <p:> k ua m au h e 4 e t I a a 4 o n <p:>}|Ka mea mai, 'E Te Tau, kua mauheretia a Ron. 
-segment_622_33|peterl|{<p:> k Ae 4 u N a n o a a t u a: k ou t ou n Ae m a h I <p:>}|Kei runga noa atu ā koutou nei mahi.'
-segment_639_73|peterl|{<p:> I <p:> t e f a: k a 4 a k a <p:> k o t a k u f a f Ai f I 4 I N a f a: I t I <p:>}|I te whā karaka, ko taku whawhai whiringa whāiti. 
-segment_423_133|peterl|{<p:> e f a: N a: 4 u: m a m oe <p:> e 4 ua N a: 4 u: m a n o h o <p:> h e 4 u: m a <p:> k Ai <p:> m e t e k i: h I n I n u I 4 a wa a t u <p:>}|E whā ngā rūma moe, e rua ngā rūma noho, he rūma kai me te kīhini nui rawa atu. 
-segment_582_134|peterl|{<p:> m o: 4 e n a e t o: k u a n a h e 4 a <p:> t o: t I n o a: t a a h ua h o k I <p:>}|'Mōrena e tōku anahera, tō tino ātaahua hoki. 
-segment_635_85|peterl|{<p:> k a t I 4 o p u: a t u a h I n e m o a <p:> k I a 4 a N I <p:> k a m e n e a t u <p:> k a m e a m Ai <p:> n a: u 4 a: t e n u I N a o N a: <p:> k u p u I <p:> t I t o e 4 a N I <p:>}|Ka tiro pū atu a Hinemoa ki a Rangi, ka mene atu, ka mea mai, 'Nāu rā te nuinga o ngā kupu i tito, e Rangi.' 
-segment_633_29|peterl|{<p:> h e h o: n o 4 e t I n o n u I t e: n Ae <p:> k I t e t u: I m ua I a <p:> k ou t ou <p:>}|He hōnore tino nui tēnei ki te tū i mua i a koutou. 
-segment_636_29|peterl|{<p:> k a n o h o N a: t o k o 4 ua <p:> n a: w Ai a: <p:> k a m u t u t e t a N I h o t u h o t u a h I n e m o a <p:>}|Ka noho ngā tokorua, nāwai ā, ka mutu te tangi hotuhotu a Hinemoa. 
-segment_592_31|peterl|{<p:> k o m a o k o h a: 4 I a t a I m u 4 I <p:>}|Ko mao ko Hāriata i muri. 
-segment_592_35|peterl|{<p:> k a h u 4 I a h au k I a h a: 4 I a t a k a p o: h I 4 I a t u k I <p:> a <p:> I a <p:>}|Ka huri ahau ki a Hāriata, ka pōhiri atu ki a ia. 
-segment_623_39|peterl|{<p:> t Ai h o a a k e e m a: <p:> t a t a h o k I t e wa 4 e wa 4 e <p:> k Ae a k oe <p:> t a k u t I f I k e t e 4 a: f a: n au k a p Ai <p:>}|Taihoa ake, e Mā, tata hoki te wareware, kei a koe taku tiwhikete rā whānau? Ka pai.' 
-segment_448_42|peterl|{<p:> n a: t o: k u h o a t u h I I <p:> t u k u m Ai I a m e 4 I k a <p:> m e t e: n Ae o <p:> eI <p:>}|'Nā tōku hoa tuhi i tuku mai i Amerika, me tēnei o Elvis. 
-segment_590_29|peterl|{<p:> k o t e m e a t I k a <p:> m e w Ai h o m a: t e k o: t I <p:> e f a k a t I k a <p:>}|Ko te mea tika me waiho mā te Kōti e whakatika?'
-segment_636_128|peterl|{<p:> k I t e m a: m a: n a h e <p:>}|'Ki te māmā nahe. 
-segment_636_84|peterl|{<p:> k o p a: p a: <p:> k e: <p:>}|Ko Pāpā kē. 
-segment_633_11|peterl|{<p:> I 4 Ae 4 a a 4 o n <p:> t o: k u h o a p o n o e m e n e m e n e a n a <p:>}|I reira a Ron, tōku hoa pono, e menemene ana. 
-segment_448_43|peterl|{<p:> k o I a t e t I n o k Ai w Ai a t a k I a <p:> m a: m a: h Ae <p:> k o t a: h a: 4 I a t a <p:>}|Ko ia te tino kaiwaiata kia Māmā,' hei ko tā Hāriata.
-segment_629_82|peterl|{<p:> a h a k o a I m a h I m u n a a h au k I t e 4 a p u I N a: m a: t ua o <p:> f ae a a nn e <p:> k o t e m e a n u I <p:> k ua f a: n au k o t a h I a n o: <p:>}|Ahakoa i mahi muna ahau ki te rapu i ngā mātua o Whaea Anne, ko te mea nui kua whānau kotahi anō.' 
-segment_584_45|peterl|{<p:> k a t u: m Ai t e k o 4 o k e: 4 a: k a h o N I <p:> k a 4 u: 4 u: <p:>}|Ka tū mai te korokē rā, ka hongi, ka rūrū.
-segment_448_125|peterl|{<p:> k a we h e a t u N a: p a h I <p:> k I <p:> t e m a 4 ae o 4 a N I <p:>}|Ka wehe atu ngā pahi ki te marae o Rangi. 
-segment_588_146|peterl|{<p:> k a h i: 4 e 4 e a h au k a <p:> t a k o t o a t u k I <p:> t o: k u m oe N a <p:>}|Ka hīrere ahau, ka takoto atu ki tōku moenga. 
-segment_423_6|peterl|{<p:> e t e t au <p:> h e 4 o a n Ae au e t a 4 Ai wa a n a <p:>}|'E Te Tau, he roa nei au e taraiwa ana. 
-segment_584_0|peterl|{<p:> k a p a h u 4 e N a: t au e 4 ua <p:>}|Ka pahure ngā tau e rua. 
-segment_445_82|peterl|{<p:> a h a k o a k o t a h I m e n e t I <p:> e t oe a n a <p:> I k o: k I 4 I m Ai <p:> t e t i: m a o 4 a N I e 4 ua t e k au m I t a p e a <p:> I t e 4 a: 4 a N I p I 4 o <p:>}|Ahakoa kotahi meneti e toe ana, i kōkiri mai te tīma o Rangi e rua tekau mita pea i te rārangi piro.
-segment_423_132|peterl|{<p:> k ua w Ai h o k e: a k u <p:> m o: t u: k I 4 Ae 4 a m e <p:> t e m i: h I n I o m a a m a: m a: <p:>}|Kua waiho kē aku mōtū ki reira me te mīhini oma a Māmā. 
-segment_628_6|peterl|{<p:> I <p:> k o: a t u I t e h a: f e h a: o 4 a a m a t ua h a k I <p:> e k o: 4 e 4 o a n a <p:> m o: t e t a k e n Ae <p:>}|'I kō atu i te hāwhe hāora a Matua Haki e kōrero ana mō te take nei. 
-segment_639_95|peterl|{<p:> k Ae a m a: m a: t e <p:> t I k a N a <p:>}|'Kei a Māmā te tikanga.
-segment_638_90|peterl|{<p:> k a t i: m a t a k I t e: 4 a: o k I 4 I k I 4 I 4 o a <p:> k I t e u 4 u <p:>}|Ka tīmata ki tērā o Kirikiriroa ki te uru. 
-segment_638_82|peterl|{<p:> e k o t a k u f a k au t u <p:>}|'Āe,' ko taku whakautu.
-segment_631_77|peterl|{<p:> k a <p:> t I 4 o m Ai a 4 o n <p:> k I a m a: t ou e m e n e a n a k a m o: h I o t o n u I a k ua f a k a ae k a t o a <p:> m a: t ou <p:>}|'Ka tiro mai a Ron ki a mātou e mene ana, ka mōhio tonu ia kua whakaae katoa mātou. 
-segment_584_50|peterl|{<p:> k a h u 4 I a a 4 a p e 4 a k I t o: n a h o a wa h I n e <p:> k a m e a m Ai <p:> k o a 4 I t e: n Ae <p:>}|'Ka huri a Arapera ki tōna hoa wahine, ka mea mai, 'Ko Ari tēnei.'
-segment_637_61|peterl|{<p:> k ua n a f e e: n Ae <p:> k o: 4 e 4 o m o: N a: k i: 4 e h e 4 a: <p:> m e h o k I t a: t ou k I t e k a: I N a k Ai Ai <p:>}|'Kua nawhe ēnei kōrero mō ngā kīrehe rā. Me hoki tātou ki te kāinga kai ai. 
-segment_445_33|peterl|{<p:> I t u: t a k I o: n a m a: t ua I t e k u 4 a <p:> I N a: p a 4 a k I t I h I <p:> k a p a h a k a <p:>}|I tūtaki ōna mātua i te kura i ngā parakitihi kapa haka.
-segment_639_54|peterl|{<p:> k oi a t e I 4 a: m u t ua t o: k u h o a wa h I n e <p:>}|Koia te irāmutua tōku hoa wahine. 
-segment_590_62|peterl|{<p:> k ua 4 o a k e: a h au e 4 I 4 I a n a <p:> k I au a t I n o t a k e <p:>}|'Kua roa kē ahau e riri ana ki aua tino take, 
-segment_624_54|peterl|{<p:> I a h au e k a k e a n a <p:> k I 4 o t o I t e <p:> t a: k I h I k a <p:> p a: t Ai m Ai a 4 o n m o: a n I e <p:>}|I ahau e kake ana ki roto i te tākihi ka pātai mai a Ron mō Janice. 
-segment_582_147|peterl|{<p:> k Ae 4 u N a n o a a t u <p:> t e k o a o m a o k o h a: 4 I a t a <p:>}|Kei runga noa atu te koa o mao ko Hāriata. 
-segment_623_27|peterl|{<p:> I m e a m Ai a m a t ua h a k I <p:> a h a k o a k a: h o 4 e a p a: p a: I <p:> t I n o k au m a: t ua h e n u I N a: f e n ua m e o: n a <p:> f a 4 e 4 i: h I <p:> I p e 4 t h <p:> m e p oi h a: k e n a h e <p:> t a N a t a <p:> k a h a k I t e <p:> t I a k I m o n I <p:>}|I mea mai a Matua Haki, ahakoa kāhore a Pāpā i tino kaumātua, he nui ngā whenua me ōna whare rīhi i Perth me Poihākena, he tangata kaha ki te tiaki moni.
-segment_625_38|peterl|{<p:> k o o: n a k a 4 u e p u t e: m Ai a n a k I a m a t ua h a k I <p:>}|Ko ōna karu e putē mai ana ki a Matua Haki. 
-segment_591_27|peterl|{<p:> k a t ae k ou 4 ua k I t e t Ae h a n a <p:> k a a h a <p:> k ou 4 ua <p:>}|'Ka tae kourua ki te teihana, ka aha kourua?' 
-segment_585_22|peterl|{<p:> k a t u: N ou m Ai t e m a: t e N a o f ae a a nn e <p:> k I t e f a k a ae m Ai <p:>}|Ka tūngou mai te mātenga o Whaea Anne ki te whakaae mai. 
-segment_640_187|peterl|{<p:> k a h u 4 I a t u a h I n e m o a <p:> k I t o: n a p a: p a: k a <p:> k i: <p:> a 4 o h a m Ai e p a: n o: k u <p:> t e: n Ae m a h I h e: I <p:> t i: m a t a <p:>}|Ka huri atu a Hinemoa ki tōna Pāpā, ka kī, 'Aroha mai, e Pā. Nōku tēnei mahi hē i tīmata.
-segment_631_57|peterl|{<p:> a 4 o h a m Ai e t e f a: n au <p:>}|'Aroha mai, e te whānau.
-segment_639_1|peterl|{<p:> k oi n Ae <p:> t o: u t au <p:> t ua t a h I <p:> k a <p:> u 4 u <p:> k I N a: f a k a t ae t ae a: m o t u <p:>}|Koinei tōu tau tuatahi ka uru ki ngā whakataetae ā-motu?'
-segment_629_17|peterl|{<p:> a 4 o h a m Ai e t e <p:> t au <p:> e m o: h I o a n a k oe h e a h a e k o: 4 e 4 o p e: n Ae Ai a n a a h au <p:>}|Aroha mai e Te Tau, e mōhio ana koe he aha e kōrero pēnei ai ana ahau. 
-segment_639_198|peterl|{<p:> k a t u: a h au k I <p:> t e a f I I a <p:> I a <p:>}|Ka tū ahau ki te awhi i a ia. 
-segment_623_41|peterl|{<p:> I m u 4 I a t u I <p:> t e o n o k a 4 a k a <p:> k a t a N I m Ai t e wa e a <p:>}|I muri atu i te ono karaka, ka tangi mai te waea. 
-segment_640_58|peterl|{<p:> k a a h u p e: 4 a: a t u I a <p:> k I t e 4 u: m a k Ai <p:>}|Ka ahu pērā atu ia ki te rūma kai.
-segment_640_20|peterl|{<p:> h e a h a t e t a k e k a k o: 4 e 4 o p e: n a: m Ai k oe t e k o h e t e a t o: n a f ae a <p:>}|He aha te take ka kōrero pēnā mai koe?' te kohete a tōna whaea.
-segment_626_55|peterl|{<p:> h e h ae p e a <p:> k I a <p:> k ou 4 ua k o t o: m a: m a: <p:> au a h o k I <p:>}|He hae pea ki a kourua ko tō māmā? Aua hoki.' 
-segment_633_92|peterl|{<p:> k a <p:> au e: k a 4 e 4 e a t u a h a: 4 I a t a <p:> k I t e t a h a o t o: n a <p:> p a: p a: <p:>}|Ka auē, ka rere atu a Hāriata ki te taha o tōna pāpā. 
-segment_589_114|peterl|{<p:> au e: <p:> k ua wa 4 u k a 4 a k a <p:> k e: <p:>}|'Auē, kua waru karaka kē. 
-segment_625_28|peterl|{<p:> k I a m o: h I o m Ai 4 a: k ou t ou h e t a N a t a t I n o k a h a a m a t ua 4 a: n I e 4 a <p:> k I t e <p:> t I a k I <p:> m o n I <p:> m e t e f Ai h ae 4 e I N a: p a: k I h I f Ai 4 a wa h Ae <p:> t a: p u I a t u <p:> I a: n a m o n I <p:>}|Kia mōhio mai rā koutou he tangata tino kaha a Matua Rāniera ki te tiaki moni me te whai haere i ngā pākihi whai rawa hei tāpui atu i āna moni. 
-segment_637_14|peterl|{<p:> e p Ai a n a e 4 o n <p:>}|'E pai ana, e Ron. 
-segment_423_36|peterl|{<p:> e <p:> f a: N a: 4 a: I I a w I k I <p:> h ae 4 e Ai I a <p:> k I t e m a h I <p:>}|E whā ngā rā i ia wiki haere ai ia ki te mahi. 
-segment_635_12|peterl|{<p:> I o h o 4 e 4 e I a I t a k u m e a N a a t u <p:> e <p:> t o n o a n a t a: ua <p:> m o: t e t u: 4 a N a k Ai a: 4 a h I <p:>}|I ohorere ia i taku meanga atu e tono ana tāua mō te tūranga kaiārahi. 
-segment_445_173|peterl|{<p:> a 4 o h a m Ai e t e m a t ua k o 4 a N I a h au <p:> k o a h au t e t a k e I p e: n Ae Ai o: m a o a: h ua <p:>}|'Aroha mai, e te matua. Ko Rangi ahau. Ko ahau te take i pēnei ai ō mao āhua.'
-segment_423_64|peterl|{<p:> I <p:> p a: t Ai m Ai <p:> k ou 4 ua I m ua I t e f a k a 4 I t e N a k I a h o k o n a t e f a 4 e 4 a: <p:>}|I pātai mai kourua i mua i te whakaritenga kia hokona te whare rā? 
-segment_639_147|peterl|{<p:> t e t au <p:> h e p Ai k I <p:> au e: <p:> k a: h o 4 e <p:> k a: h o 4 e <p:> t e t a N I <p:> a <p:> n a n <p:>}|Te Tau he pai ki … Auē! Kāhore, kāhore,' te tangi a Nancy. 
-segment_640_9|peterl|{<p:> k ua p a k e k e k e: n Ae <p:> t o: n a t I 4 o h a N a <p:> k I t e a o <p:> f a: n u I <p:> k o t a: h a: 4 I a t a <p:>}|Kua pakeke kē nei tōna tirohanga ki te ao whānui,' ko tā Hāriata.
-segment_640_40|peterl|{<p:> 4 e k a h Ae t a: t I n a <p:> e a h u a t u a n a <p:> k I <p:> t e <p:> k i: h I n I <p:>}|'Reka,' hei tā Tina, e ahu atu ana ki te kīhini.
-segment_423_43|peterl|{<p:> e a k o t o n u a n a 4 a: t ou I <p:> t e 4 e o I t au a k u 4 a <p:>}|E ako tonu ana rātou i te reo i taua kura. 
-segment_445_39|peterl|{<p:> k o t e m e a t I n o p Ai <p:> m u t u a n a t e k e: m u k ua h ae 4 e m a: t ou k a t o a k I t e f a 4 e 4 i: k I <p:> k I t e k Ai <p:> t a h I m e t e f a k a 4 o N o a t u <p:> I 4 I 4 o I a w Ai t e <p:> t o a o t e 4 a: <p:> t e k Ai t a: k a 4 o h e a h e a h o k I <p:> m e t e k i: wa h a o t e 4 a: <p:>}|Ko te mea tino pai, mutu ana te kēmu, kua haere mātou katoa ki te whare rīki ki te kai tahi me te whakarongo atu i riro i a wai te toa o te rā, te kaitākaro heahea hoki, me te kīwaha o te rā.
-segment_640_185|peterl|{<p:> e <p:> f a: h a: o 4 a I m u 4 I a t u k a <p:> t ae t e m a: m a: 4 a o k o t e p a: p a: o h I n e m o a <p:> k I t e k a: I N a <p:>}|E whā hāora i muri atu, ka tae te māmā rao ko te pāpā o Hinemoa ki te kāinga. 
-segment_418_38|peterl|{<p:> k a <p:> k I t e a n o: t e k a 4 a N a m Ai a h a: 4 I a t a <p:> m e t a n a o m a a t u k I o: n a h o a <p:>}|Ka kite anō, te karanga mai a Hāriata me tana oma atu ki ōna hoa.
-segment_590_154|peterl|{<p:> k au a e wa 4 e wa 4 e <p:>}|Kaua e wareware.
-segment_639_124|peterl|{<p:> k Ae t e h o k I a t u k oe k I p o: n e k e a: k ua n Ae <p:>}|Kei te hoki atu koe ki Pōneke ākuanei?'
-segment_592_9|peterl|{<p:> e t e <p:> t au <p:> k ua t ae m Ai t e h a: m e n e a t e k o: t I o p oi h a: k e n a <p:>}|'E Te Tau, kua tae mai te hāmene a te Kōti o Poihākena. 
-segment_418_15|peterl|{<p:> h e k a k a 4 a h o k I o: n a h u 4 u h u 4 u <p:> m e t o: n a 4 au t a N I <p:>}|He kakara hoki ōna huruhuru, me tōna rautangi.
-segment_589_14|peterl|{<p:> e k o 4 e e 4 o a k a e a h e t i: k I t I m a: t a: ua h Ae <p:> k o t a: h a: 4 I a t a a n o: <p:>}|E kore e roa ka ea he tīkiti mā tāua,' hei ko tā Hāriata anō.
-segment_448_107|peterl|{<p:> k a k o: 4 e 4 o m a o k I o: k u m a: t ua m o: 4 a N I <p:> k a <p:> wa e a a t u a h a: 4 I a t a <p:> k I <p:> t o: n a m a: m a: <p:>}|Ka kōrero mao ki ōku mātua mō Rangi. Ka waea atu a Hāriata ki tōna māmā. 
-segment_589_209|peterl|{<p:> k a we h e a t u a 4 o n <p:>}|Ka wehe atu a Ron.
-segment_591_176|peterl|{<p:> k a <p:> t u: a k e N a: t a: N a t a k ua h a 4 a m o: t e k o: h u 4 u <p:> I a <p:> <usb> <p:> k a <p:> k a N a m Ai k I <p:> a m a o k o 4 o n <p:> p o: k o k o h ua <p:> k a m a t e k ou 4 ua <p:> m e a: k ou 4 ua t a 4 a h a t I <p:>}|'Ka tū ake ngā tāngata kua hara mō te kōhuru i a JD, ka kanga mai ki a mao ko Ron, 'Pōkokohua ka mate kourua me ā kourua tarahati!
-segment_640_202|peterl|{<p:> k a: h o 4 e <p:> k a: h o 4 e e p a: <p:>}|'Kāhore, kāhore, e Pā. 
-segment_640_174|peterl|{<p:> e p Ai a n a <p:> I p e: h e a t e h ae 4 e o a: u k o: 4 e 4 o k I t o: p a: p a: e h I n e <p:>}|'E pai ana. I pēhea te haere o āu kōrero ki tō pāpā, e Hine?' 
-segment_630_9|peterl|{<p:> k o a h au t e: n a: k o t a: k u <p:> e t I 4 o a n a <p:> k I t e p a: n u I m o: t e f a k a t ae t ae a: m o t u I k I 4 I k I 4 I 4 o a <p:> a t e m a 4 a m a o o k e t o p a <p:> e h e k e m Ai n Ae <p:>}|'Ko ahau tēnā,' ko tāku, e tiro ana ki te pānui mō te whaka- taetae ā-motu i Kirikiriroa a te marama o Oketopa e heke mai nei. 
-segment_628_34|peterl|{<p:> h e t I k a n a: <p:> a n I e <p:> t o: t a: t ou p a: p a: I <p:> t I a k I <p:> k a: h o 4 e I a I k o m e k o m e <p:>}|He tika. Nā Janice tō tātou pāpā i tiaki, kāhore ia i komekome. 
-segment_624_11|peterl|{<p:> k ua u: h I a 4 a: t o: f a: n au I t e k a p ua p o: u 4 I <p:>}|Kua ūhia rā tō whānau i te kapua pōuri.
-segment_582_106|peterl|{<p:> k au a e we h e n o a <p:>}|Kaua e wehe noa.'
-segment_589_36|peterl|{<p:> f uu t e <p:> we 4 a h o k I t a k u k i: k I a 4 o n <p:> I <p:> t a k u m a 4 a N a a k e I <p:> t e a t a <p:>}|'Whuu, te wera hoki,' taku kī ki a Ron i taku maranga ake i te ata.
-segment_582_42|peterl|{<p:> e o n o w I k I <p:> m a o k o p a: p a: e m a h I a n a I N Ai o <p:>}|E ono wiki mao ko Pāpā e mahi ana i Ngaio. 
-segment_592_134|peterl|{<p:> k o t a: k u h e f a k a a t u I N a: k Ai k o: h u 4 u a <p:> <usb> <p:>}|Ko tāku, he whakaatu i ngā kaikōhuru a JD. 
-segment_588_69|peterl|{<p:> m a: t e p e: n Ae m a: t e k I t e N a k a m au t o n u N a: t a o N a <p:> t a p u a N a: t u: p u n a e <p:> a N a: t u: p u n a e <p:>}|Mā te pēnei mā te kitengaKa mau tonu ngā taonga tapu a ngā tūpuna e,a ngā tūpuna e.
-segment_582_77|peterl|{<p:> k a f a k a a 4 o a h au <p:> k ua p a k e k e k e: N a: f a k a a 4 o o h a: 4 I a t a <p:>}|Ka whakaaro ahau, kua pakeke kē ngā whakaaro o Hāriata. 
-segment_632_46|peterl|{<p:> k o m a o t a h I N a: k a: p e n e o ou a t i: m a <p:>}|Ko mao tahi ngā kāpene o oua tīma. 
-segment_590_45|peterl|{<p:> k ua a h a t I a a 4 o n k ua f a 4 a <p:> k ua a h a <p:>}|Kua ahatia a Ron? Kua whara, kua aha?' 
-segment_592_42|peterl|{<p:> k a we h e a t u a h au <p:>}|Ka wehe atu ahau. 
-segment_632_56|peterl|{<p:> I t o: f a: n au t a N a m Ai e h a 4 I <p:> I m e a m Ai o: k u m a: t ua <p:> k I a <p:> f a: N Ai t I a k oe k I <p:> t e: t a h I a t u f a: n au <p:>}|I tō whānautanga mai e Hari, i mea mai ōku mātua kia whāngaitia koe ki tētahi atu whānau. 
-segment_623_15|peterl|{<p:> 4 u: p a h u <p:> n e: 4 a: <p:> h e p o n o m a: 4 I k a a: u k o: 4 e 4 o e m a t ua <p:> h a k I e m a: k u t o: k u m a: m a: e wa e a <p:> a t u <p:>}|'Rūpahu! … Nē rā? … He pono mārika āu kōrero e Matua Haki? … Āe, māku tōku Māmā e waea atu. 
-segment_639_195|peterl|{<p:> k a h u 4 I a t u a h au k I t e wa h I n e 4 a: <p:> f ae a a n a <p:>}|Ka huri atu ahau ki te wahine rā, 'Whaea Ana!'
-segment_636_94|peterl|{<p:> e N a 4 I e <p:> f ae a <p:> k ua f I f I I a <p:> k oe t o: t o h u m a: t au 4 a N a h e h o a t a: n e p Ai t o: u h o k I <p:> k o t a: h I n e m o a f a k a h o k I <p:>}|'Engari, e Whaea, kua whiwhi i a koe tō tohu mātauranga, he hoa tāne pai tōu hoki,' ko tā Hinemoa whakahoki.
-segment_591_10|peterl|{<p:> e <p:>}|'Āe.'
-segment_640_228|peterl|{<p:> k a: h o 4 e a h au e f a k a p o n o a n a I m oe h u n a <p:> k ou 4 ua <p:>}|Kāhore ahau e whakapono ana i moe huna kourua. 
-segment_588_75|peterl|{<p:> k a: h o 4 e k Ae <p:> t e k a: I N a k e: <p:> I a <p:>}|Kāhore, kei te kāinga kē ia. 
-segment_623_25|peterl|{<p:> k au a e t e k a m Ai h Ae k o t a: k u <p:>}|'Kaua e teka mai,' hei ko tāku.
-segment_448_96|peterl|{<p:> I a h a t I a e 4 e w I <p:>}|'I ahatia, e Rewi?'
-segment_640_136|peterl|{<p:> e h ae 4 e a n a I a k I t e t Ae h a n a p I 4 I h I m a n a <p:>}|E haere ana ia ki te teihana pirihimana.' 
-segment_634_108|peterl|{<p:> a 4 o h a m Ai <p:> k I a m o: h I o m Ai k ou 4 ua I t a k u 4 o N o N a <p:> k I t e: n Ae k a f a k a p ae k o t e: n Ae t e t a k e I h I a h I a Ai a h au k I t e h o k I m Ai k I k o n Ae <p:> t e k i: a 4 a N I <p:>}|'Aroha mai. Kia mōhio mai kourua, i taku rongonga ki tēnei, ka whakapae, ko tēnei te take i hiahia ai ahau ki te hoki mai ki konei,' te kī a Rangi. 
-segment_638_154|peterl|{<p:> k a: h o 4 e a h au e m o: h I o a n a h e a h a <p:> t e <p:> t a k e I h ae 4 e m Ai Ai k oe <p:> e N a 4 I <p:> k I a h au h e m e a m i: h a 4 o h e m e a f a k a h I 4 a h I 4 a <p:> k o t a: t e k u I a 4 a: <p:>}|Kāhore ahau e mōhio ana he aha te take i haere mai ai koe, engari ki ahau, he mea mīharo, he mea whakahirahira,' ko tā te kuia rā. 
-segment_445_101|peterl|{<p:> m e t a n a <p:> k a 4 a N a a k e a n o: <p:> k ua m u t u <p:>}|Me tana karanga ake anō, 'Kuamutu!'
-segment_584_86|peterl|{<p:> k I a h i: 4 e 4 e k ou 4 ua <p:> k a h ae 4 e m Ai k I t e p a 4 a k u I h I <p:> t e <p:> k i: <p:> a <p:> t o: n a m a: m a: <p:>}|'Kia hīrere kourua, ka haere mai ki te parakuihi,' te kī a tōna māmā. 
-segment_587_106|peterl|{<p:> o h o 4 e 4 e a n a a h au I t a n a <p:> k o: 4 e 4 o p e: n a: n a: <p:>}|Ohorere ana ahau i tana kōrero pēnā nā. 
-segment_640_105|peterl|{<p:> I f a: k I m Ai I a m o: t a n a m a h I k I <p:> a <p:> k oe <p:> a 4 a: <p:> m e t e m a h I a t I n a <p:> k I t e t I a k I <p:> I a k oe <p:>}|'I whāki mai ia mō tana mahi ki a koe, arā, me te mahi a Tina ki te tiaki i a koe. 
-segment_628_7|peterl|{<p:> k a m u t u <p:> k a p u t a a k e t e k a N a <p:> a 4 o n <p:>}|Ka mutu, ka puta ake te kanga a Ron.
-segment_635_73|peterl|{<p:> k a p u t a a n o: t e h a: p a 4 a N I a 4 a N I <p:> k I a 4 I t e <p:> k I a 4 I t e <p:> k I a m au <p:> k a p u: k a n a a t u I a k I t e 4 o: p u: <p:> m u t u k au a n a t e k o: 4 e 4 o 4 e 4 o a <p:> t e 4 o: p u: <p:>}|Ka puta anō te hāparangi a Rangi, 'Kia rite! Kia rite! Kia mau!' Ka pūkana atu ia ki te rōpū. Mutu kau ana te kōrerorero a te rōpū. 
-segment_586_4|peterl|{<p:> k I a <p:> k oe e t a k u <p:> t au t a k u <p:> a 4 o h a <p:> e <p:>}|Ki a koe e taku tau taku aroha e
-segment_582_92|peterl|{<p:> m a: k u I a e wa e a a t u a: p o: p o: m e h e m e a e <p:> h I a h I a k Ai m a h I a n a I a I N a: w I k I <p:> f a k a t a: <p:>}|Māku ia e waea atu āpōpō mehemea e hiahia kaimahi ana ia i ngā wiki whakatā.' 
-segment_590_35|peterl|{<p:> e t o 4 u k a 4 a k a I t e a h I a h I <p:> t a n a f a k au t u <p:>}|'E toru karaka i te ahiahi,' tana whakautu.
-segment_637_75|peterl|{<p:> k o N a: t o k o 4 ua t au 4 e k a 4 e k a 4 a: e: 4 a: <p:>}|'Ko ngā tokorua taurekareka rā ērā. 
-segment_639_78|peterl|{<p:> h Ae a h a <p:> e t a k u t au <p:> a: t e: 4 a: t au p e a <p:> t e k i: m Ai a h a: 4 I a t a <p:>}|'Hei aha, e taku tau, ā tērā tau pea,' te kī mai a Hāriata. 
-segment_639_50|peterl|{<p:> e h ae 4 e k oe k I t e h i: 4 e 4 e <p:> k Ae m a k a 4 I 4 I h o k I <p:> k oe <p:> k I a m u t u <p:> k a <p:> k o: 4 e 4 o Ai <p:> t a: t ou <p:> k o t a: h a: 4 I a t a <p:>}|E haere koe ki te hīrere, keimakariri hoki koe, kia mutu, ka kōrero ai tātou,' ko tā Hāriata. 
-segment_448_8|peterl|{<p:> k a m e n e m e n e m Ai a h a: 4 I a t a <p:> k a m e a m Ai <p:> f a k a m a: <p:>}|Ka menemene mai a Hāriata, ka mea mai, 'Whakamā! 
-segment_589_175|peterl|{<p:> k ua m a: 4 u: k a t o a o: n a <p:> k a 4 u <p:> t o t o k a t o a t o: n a <p:> k a n o h I <p:>}|Kua mārū katoa ōna karu, toto katoa tōna kanohi.
-segment_636_3|peterl|{<p:> k I a m o: h I o m Ai <p:> k Ae t au m a t a <p:> k e: t e f a k a t ae t ae a: m o t u <p:>}|Kia mōhio mai, kei taumata kē te whakataetae ā- motu. 
-segment_637_102|peterl|{<p:> e h o a m a: <p:> h e t I k a m e a 4 o t a: t ou k I N a: t a k e p a: N a <p:> t u k u I h o a p a: p a: <p:>}|'E hoa mā, he tika me aro tātou ki ngā take pānga tuku iho a Pāpā. 
-segment_589_215|peterl|{<p:> h e h a: f e h a: o 4 a n o a I h o t e t a f I t I I <p:> k o n Ae <p:>}|He hāwhe hāora noa iho te tawhiti i konei. 
-segment_592_219|peterl|{<p:> p e: h e a <p:> k oe h a: 4 I a t a <p:>}|'Pēhea koe, Hāriata?'
-segment_638_18|peterl|{<p:> k a a 4 o a t u k I t e m a h I t o n u <p:>}|Ka aro atu ki te mahi tonu. 
-segment_626_53|peterl|{<p:> m o: t e p u: t e a k a: h o 4 e <p:> h e t I n o 4 a h I t o: n a p u t e a t u k u N a <p:>}|Mō te pūtea? Kāhore. He tino rahi tōna putea tukunga. 
-segment_588_106|peterl|{<p:> h e t I n o k Ai k a: a h au k I a o 4 a <p:> k I a <p:> k a h a <p:> k I a t ae a e au t e t i: m a t a o: k u m a h I I w I k I t o: 4 I a <p:>}|He tino kaikā ahau kia ora, kia kaha, kia taea e au te tīmata ōku mahi i Wikitōria. 
-segment_577_85|peterl|{<p:> k a p a 4 a 4 e: m Ai a 4 e w I <p:> k I a m au <p:>}|Ka pararē mai a Rewi, 'Kia mau!' 
-segment_626_66|peterl|{<p:> k a n u I t a k u <p:> a 4 o h a m o: u e h a 4 I <p:>}|'Ka nui taku aroha mōu, e Hari. 
-segment_592_81|peterl|{<p:> k a k a: m Ai a n o: <p:> e N a 4 I <p:> k a 4 u: 4 u: a t u a h au k I <p:> t e p I 4 I h I m a n a <p:> k a m e a a t u <p:> k a: h o 4 e h e t a N a t a o t e: n Ae 4 o: p u: e m o: h I o t I a a n a <p:> e au <p:>}|Ka kā mai anō, engari ka rūrū atu ahau ki te pirihimana, ka mea atu, 'Kāhore he tangata o tēnei rōpū e mōhiotia ana e au.'
-segment_591_17|peterl|{<p:> I h ae 4 e m Ai <p:> k oe h Ae <p:> k Ai t au t o k o I t e 4 o: p u: m a: 4 e n a <p:> o 4 o n <p:> t h o m a <p:> 4 a: ua k o m e 4 e n o: p e 4 a <p:>}|i haere mai koe hei kaitautoko i te rōpū mārena o Ron Thomas rāua ko Mere Nōpera.'
-segment_631_18|peterl|{<p:> k a n u I <p:> t e <p:> a 4 o h a m o: t o: p a: p a: <p:> k ua we h e a t u <p:> k I t e p o: m oe m oe a: <p:>}|Ka nui te aroha mō tō pāpā, kua wehe atu ki te pō moemoeā. 
-segment_640_88|peterl|{<p:> n a: u t e: n Ae m a h I <p:> k o t e <p:> t I k a N a k o k oe t e m e a e h ae 4 e a n a <p:> k I t e h o: h I p e 4 e <p:> t e p a 4 a 4 e: a t o: n a p a: p a: <p:>}|Nāu tēnei mahi, ko te tikanga, ko koe te mea e haere ana ki te hōhipere,' te pararē a tōna pāpā.
-segment_423_12|peterl|{<p:> h e k au <p:> h e k au <p:> a a a I I I <p:> k oi a n Ae t a k u t a N I f a k a m u t u N a <p:> I m ua I <p:> t o: m a o t u k I N a <p:> I <p:> t e p a 4 e N a <p:>}|'He kau! He kau! Aaa … iii!'Koia nei taku tangi whakamutunga i mua i tō mao tukinga i te parenga. 
-segment_577_34|peterl|{<p:> m Ai I t e 4 a: t a p u e h e k e m Ai n Ae <p:> k a t i: m a t a t a: t a: t ou a k o a k o I N a: w Ai a t a <p:> I N a: h a k a <p:> I N a: w Ai a t a a: 4 I N a <p:> a 4 a: <p:> a t u <p:>}|Mai i te Rātapu e heke mai nei, ka tīmata tā tātou akoako i ngā waiata, i ngā haka, i ngā waiata ā-ringa, arā atu. 
-segment_638_86|peterl|{<p:> m o: 4 e n a <p:> e 4 a p u a n a a h au I N a: p u k a p u k a 4 a: 4 a N I p o: t I m o: a o t e a 4 o a <p:> k o t a: k u <p:>}|'Mōrena, e rapu ana ahau i ngā pukapuka rārangi pōti mō Aotearoa,' ko tāku.
-segment_577_40|peterl|{<p:> k a h u I m a: t ou <p:>}|Ka hui mātou.
-segment_582_140|peterl|{<p:> m a: k u p e a t o: t a: t ou m o t o k a: e t a 4 Ai wa I <p:> t e: n Ae a t a <p:> t e <p:> k i: a <p:> p a: p a: <p:>}|'Māku pea tō tātou motokā e taraiwa i tēnei ata,' te kī a Pāpā.
-segment_630_53|peterl|{<p:> p e: h e a o: u f a k a a 4 o m o: a: u a k e <p:> p a: N a t u k u I h o e h a 4 I <p:> t a k u <p:> p a: t Ai I a m a o e t a 4 Ai wa a n a <p:> k I t e k a: I N a <p:>}|'Pēhea ōu whakaaro mō āu ake pānga tuku iho, e Hari?' taku pātai i a mao e taraiwa ana ki te kāinga.
-segment_588_183|peterl|{<p:> I t u p u I t e 4 e o o N a: p u h I <p:> t e m I h I a t u a h a: 4 I a t a <p:>}|I tupu i te reo o Ngāpuhi,' te mihi atu a Hāriata. 
-segment_592_189|peterl|{<p:> I a m a o e h o k I a n a <p:> k I t e k a: I N a <p:> k a N a h o 4 o m Ai a: n a p a: t Ai <p:>}|I a mao e hoki ana ki te kāinga ka ngahoro mai āna pātai. 
-segment_423_13|peterl|{<p:> k o t e t au h au m a n a 4 a N I <p:> t o: k u I N o a <p:>}|Ko Te Tau Haumana Rangi tōku ingoa. 
-segment_627_24|peterl|{<p:> e m o: h I o a n a <p:> k ou t ou <p:> e t au t o h e t o n u a n a a a n I e <p:> I N a: p a: N a t u k u I h o <p:> a m a t ua 4 a: n I e 4 a <p:>}|E mōhio ana koutou e tautohe tonu ana a Janice i ngā pānga tuku iho a Matua Rāniera. 
-segment_582_104|peterl|{<p:> p o: p o: h Ae k o t a: k u <p:>}|'Āpōpō!' hei ko tāku.
-segment_445_87|peterl|{<p:> e 4 I m a m I t a p e a m Ai I t e 4 a: 4 a N I p I 4 o <p:> k a 4 e 4 e m Ai a 4 a N I I <p:> t e k a k a 4 I <p:>}|E rima mita pea mai i te rārangi piro, ka rere mai a Rangi i te kakari. 
-segment_625_33|peterl|{<p:> k o t a: k u e h I a h I a a n a k I a <p:> a: t a p a: n u I t I a e k ou t ou <p:> t e w I 4 a a: <p:> h Ae <p:> t e t a: I t e k a h u I a n o: <p:> t a: t ou <p:>}|'Ko tāku e hiahia ana, kia āta pānuitia e koutou te wira, ā, hei te Tāite ka hui anō tātou. 
-segment_635_44|peterl|{<p:> p e: n Ae I a h au <p:> n e: t e <p:> t au <p:> k o t a: h a: 4 I a t a e f a: t e 4 o m Ai a n a k I a h au <p:>}|Pēnei i ahau, nē Te Tau?' ko tā Hāriata, e whātero mai ana ki ahau.
-segment_584_29|peterl|{<p:> k Ae <p:> t e m oe m Ai k oe I t e k a: I N a n e: e t e t au <p:>}|Kei te moe mai koe i te kāinga, nē e Te Tau?' 
-segment_629_2|peterl|{<p:> e a: h ua p o: 4 a 4 u 4 a 4 u a n a k o t a: f ae a a nn e <p:>}|'E āhua pōraruraru ana,' ko tā Whaea Anne.
-segment_577_99|peterl|{<p:> t e m a n a h au h o k I o m a: t ou k a t o a <p:>}|Te manahau hoki o mātou katoa. 
-segment_634_103|peterl|{<p:> k o t a: n a I m e a m Ai a h a k o a k a a h a k a t au t o k o I a <p:> I a m a: ua k o t e a h I n Ae h I a h I a <p:>}|Ko tāna, i mea mai, 'Ahakoa ka aha, ka tautoko ia i a māua ko Te Ahi nei hiahia.' 
-segment_582_138|peterl|{<p:> k a a N a p e: 4 a: a t u m a o k I t e m o t o k a: e p u p u 4 I 4 I N a a n a <p:>}|Ka anga pērā atu mao ki te motokā e pupuri ringa ana.
-segment_592_30|peterl|{<p:> k o p a: p a: 4 a: ua k o m a: m a: I m ua <p:>}|Ko Pāpā rāua ko Māmā i mua. 
-segment_625_44|peterl|{<p:> h e t e k a <p:> h e 4 u: p a h u <p:> e <p:> k o 4 e a h au e f a k a p o n o k I a <p:> k oe <p:> t e p a 4 a 4 e: a t u a n o: a a n I e <p:>}|'He teka! He rūpahu! E kore ahau e whakapono ki a koe,' te pararē atu anō a Janice. 
-segment_589_124|peterl|{<p:> m e h o k I m Ai a n o: <p:> t e k i: a <p:> t e p a: p a: <p:>}|Me hoki mai anō,' te kī a te Pāpā. 
-segment_592_148|peterl|{<p:> k a: h o 4 e h o k I h e t o 4 o N a <p:> t au n a k I <p:> k o: 4 e 4 o <p:>}|Kāhore hoki he toronga taunaki kōrero. 
-segment_638_158|peterl|{<p:> k a p u t a t e p a: t Ai a <p:> t e m a t ua o f ae a a nn e <p:> e t e t au k I o: u n Ae f a k a a 4 o k a h I a h I a a a nn e 4 a: ua k o h a: 4 I a t a k I t e t u: t a k I I a m a o <p:>}|Ka puta te pātai a te matua o Whaea Anne, 'E Te Tau, ki ōu nei whakaaro ka hiahia a Anne rāua ko Hāriata ki te tūtaki i a mao?' 
-segment_629_23|peterl|{<p:> k I a h au n Ae <p:> k o t e m e a n u I k ua h o n o a n o: k ou 4 ua k o m a: m a: <p:> k I t o: <p:> f a: n au <p:> a n a: <p:> I p a: t Ai m Ai o: u k a 4 a n I <p:> k I a m u 4 ua o: 4 a: ua n Ae h a 4 a <p:>}|'Ki ahau nei, ko te mea nui kua hono anō kourua ko Māmā ki tō whānau, anā, i pātai mai ōu karani kia murua ō rāua nei hara. 
-segment_418_81|peterl|{<p:> h o 4 I a n a <p:> t e f I n a <p:> e t e t au t e: n a: k ou t ou N a: k a n o h I <p:> h ou <p:> k o p a: e 4 ue 4 a a h au <p:>}|Horiana! Te Āwhina! E Te tau! Tēnā koutou ngā kanohi hou, ko Pā Eruera ahau.
-segment_582_78|peterl|{<p:> k Ae m ua n o a a t u I a I a h au m o: t e f a k a t a k o t o 4 au t a k I <p:>}|Kei mua noa atu ia i ahau mō te whakatakoto rautaki. 
-segment_629_50|peterl|{<p:> k o w Ai t e: 4 a: t e k i: a h a: 4 I a t a <p:> I a m a o e h ou a t u a n a <p:> k I t e m o: t e: 4 a <p:>}|'Ko wai tērā?' te kī a Hāriata, i a mao e hou atu ana ki te mōtēra.
-segment_418_23|peterl|{<p:> k a p a: t Ai m Ai a h a: 4 I a t a <p:> k oi n Ae t o: 4 a: t ua t a h I <p:> k I t e k a: 4 e t I o p o: n e k e <p:>}|Ka pātai mai a Hāriata "Koinei tō rā tuatahi ki te kāreti o Pōneke?"
-segment_591_166|peterl|{<p:> h e t I n o p Ai a: u f a k au t u <p:>}|He tino pai āu whakautu. 
-segment_585_47|peterl|{<p:> k o t e t ua h I n e o 4 o n e p Ae m Ai a n a I <p:> t o: 4 a: ua p a: p a: <p:> I 4 o t o I <p:> t o: n a <p:> t u: 4 u <p:>}|Ko te tuahine o Ron e pei mai ana i tō rāua pāpā i roto i tōna tūru. 
-segment_635_61|peterl|{<p:> e h ae 4 e t o n u a n a I a <p:> k I t e k u 4 a wa e N a <p:>}|E haere tonu ana ia ki te kura waenga.'
-segment_627_70|peterl|{<p:> k a m u t u t e k o: 4 e 4 o a 4 o n k a m e a m Ai <p:> e h I a h I a a n a a m a t ua h a k I <p:> k I t e t u: t a k I I a <p:> t a: t ou <p:> a: t e t e k au k a 4 a k a a: p o: p o: <p:> I t e h o: t e: 4 a: o k a: p e n e <p:> k u k I <p:>}|'Ka mutu te kōrero a Ron, ka mea mai, 'E hiahia ana a Matua Haki ki te tūtaki i a tātou ā te tekau karaka āpōpō i te hōtērā o Kāpene Kuki.'
-segment_630_52|peterl|{<p:> h e t I k a t a: u e m a: h Ae <p:> k o n a: <p:> k o t a: m a o p o 4 o a k I <p:>}|'He tika tāu, e Mā. Hei konā,' ko tā mao poroaki.
-segment_640_213|peterl|{<p:> e k o 4 e 4 a wa <p:> k o t a k u o a t I <p:> t e: n Ae k I <p:> a k oe e h I n e <p:>}|'E kore rawa. Ko taku oati tēnei ki a koe e Hine.' 
-segment_448_51|peterl|{<p:> I t e 4 a: t a p u k a <p:> t ae m Ai a h a: 4 I a t a 4 a: ua k o t o: n a m a: m a: <p:>}|I te Rātapu, ka tae mai a Hāriata rāua ko tōna māmā. 
-segment_418_4|peterl|{<p:> k I a p Ai t o: 4 a: e t e t au <p:> t e m I h I m Ai a: o: k u m a: t ua <p:> I a h au e h ae 4 e a t u a n a <p:> k I t e <p:> t u: N a p a h I <p:>}|Kia pai tō rā, e Te Tau, te mihi mai ā ōku mātua i ahau e haere atu ana ki te tūnga pahi.
-segment_589_102|peterl|{<p:> t e: n a: p e a k Ae t e k a: I N a I a <p:> h ae 4 e m Ai <p:> t e k i: a 4 o n <p:>}|Tēnā pea, kei te kāinga ia. Haere mai,' te kī a Ron.
-segment_418_66|peterl|{<p:> k a <p:> p o: h I 4 I m Ai 4 a: t ou <p:> k a p o: h I 4 I a t u a h au <p:> e k o: h I m u h I m u a n a o: n a h o a <p:>}|Ka pōhiri mai rātou, ka pōhiri atu ahau, e kōhimuhimu ana ōna hoa.
-segment_635_116|peterl|{<p:> k a p a h u: m Ai t e h a k a o e: 4 a: <p:>}|'Ka pahū mai te haka o ērā.
-segment_622_10|peterl|{<p:> k a t u k u k a 4 a k I a a h au <p:> I m ua I t o: 4 a: t ou f a k ae k e t a N a k I t e p a p a t u: wa e wa e <p:>}|Ka tuku karakia ahau i mua i tō rātou whakaeketanga kite papatūwaewae.
-segment_634_104|peterl|{<p:> k o t e m e a n u I <p:> k ua t u: t a k I a 4 a N I <p:> k I <p:> t a n a t a m a <p:>}|Ko te mea nui kua tūtaki a Rangi ki tana tama.
-segment_625_49|peterl|{<p:> h e oi k a <p:> t I 4 o a t u a h au k I t e k a n o h I o <p:> a n I e <p:>}|Heoi, ka tiro atu ahau ki te kanohi o Janice. 
-segment_587_97|peterl|{<p:> k a k o: 4 e 4 o a t u a h au <p:>}|Ka kōrero atu ahau. 
-segment_626_39|peterl|{<p:> h e p Ai k I <p:> t e 4 o N o I t o: 4 e o <p:>}|He pai ki te rongo i tō reo. 
-segment_584_59|peterl|{<p:> k ua u 4 u k e: a h a: 4 I a t a <p:> k I <p:> t o: n a 4 u: m a <p:> k I t e f a k a m au <p:> I o: n a k a: k a h u m oe <p:>}|Kua uru kē a Hāriata ki tōna rūma ki te whakamau i ōna kākahu moe. 
-segment_589_150|peterl|{<p:> k a m e a a t u a h au <p:> m au 4 I a a t u o: h o a <p:> I m ua I <p:> t o: k u <p:> f a n a f a n a a t u <p:> I a <p:> k ou t ou k a t o a <p:>}|Ka mea atu ahau, 'Mauria atu ō hoa i mua i tōku whanawhana atu i a koutou katoa.' 
-segment_639_76|peterl|{<p:> a h a k o a <p:> k o au t e: 4 a: e p u t u a n a <p:> k o t e m e a n u I k a: h o 4 e I m ou m ou n o a <p:> t a k u m a h I <p:>}|Ahakoa, ko au tērā e putu ana, ko te mea nui kāhore i moumou noa taku mahi.
-segment_636_149|peterl|{<p:> e p Ai a n a e m a: <p:>}|'E pai ana, e Mā. 
-segment_635_83|peterl|{<p:> n a: m a o k o h I n e m o a h o 4 e k au a: m a: t ou k Ai a k o k a p a h a k a I m ua I t o: k ou 4 ua t ae N a m Ai <p:> a n a: <p:> k a f a k a 4 I t e a e m a t ua e 4 ue 4 a m a: m a o k o h I n e m o a e <p:> t a k I <p:>}|'Nā mao ko Hinemoa. Horekau ā mātou kaiako kapa haka i mua i tō kourua taenga mai, anā, ka whakaritea e Matua Eruera mā mao ko Hinemoa e taki. 
-segment_634_65|peterl|{<p:> h e 4 a: a: t a a h ua e h a 4 I <p:>}|'He rā ātaahua, e Hari.
-segment_577_45|peterl|{<p:> e h o a m a: <p:> k I t e k o 4 e h e k a p a h a k a o t o: t a: t ou k u 4 a <p:> k a a h a t a: t ou <p:>}|E hoa mā, ki te kore he kapa haka o tō tātou kura, ka aha tātou? 
-segment_626_71|peterl|{<p:> e m a h a 4 a a n a <p:> k oe I m au h e 4 e t I a I t e t a h a o t e: t a h I a t u <p:>}|E mahara ana, koe i mauheretia i te taha o tētahi atu. 
-segment_628_64|peterl|{<p:> h o 4 o t o n u t a k u a h u a t u k I a h a: 4 I a t a <p:> k a f a: k I I t e k a 4 e 4 e p o: u 4 I a N a: p I 4 I h I m a n a <p:>}|Horo tonu taku ahu atu ki a Hāriata, ka whāki i te karere pōuri a ngā pirihimana.
-segment_626_51|peterl|{<p:> p e: h e a <p:> o: u a k e f a k a a 4 o e t e t au t e p a: t Ai m Ai a h a: 4 I a t a <p:>}|Pēhea ōu ake whakaaro, e Te Tau?' te pātai mai a Hāriata. 
-segment_636_86|peterl|{<p:> h e m a h a 4 a wa N a: k o: h I n e t Ai o h I m a: o 4 I e h a p u: a n a <p:>}|He maha rawa ngā kōhine taiohi Māori e hapū ana.'
-segment_590_58|peterl|{<p:> e t I n o p e: n a: a n a o: k u n Ae f a k a a 4 o k I o: n a <p:>}|E tino pēnā ana ōku nei whakaaro ki ōna. 
-segment_590_108|peterl|{<p:> p e: 4 a: <p:> k I t e f a k a n u I <p:> f a 4 e <p:>}|pērā ki te whakanui whare. 
-segment_631_76|peterl|{<p:> k a m e a a t u a 4 o n <p:> e t I k a a n a <p:> k oe <p:> m a t ua h a k I <p:> m e: n a: k o e: n a: N a: t o h u a p a: p a: h e t I k a <p:> k I a m a h I a e k oe I <p:> 4 a 4 o I N a: t u 4 e t u k u N a <p:>}|Ka mea atu a Ron, 'E tika ana koe, Matua Haki, mēnā ko ēnā ngā tohu a Pāpā, he tika kia mahia e koe i raro i ngā ture tukunga.
-segment_445_134|peterl|{<p:> k a <p:> t I 4 o a n o: a h au <p:> ee e k o k oe <p:> t e: n a: e 4 a N I <p:>}|Ka tiro anō ahau, 'Eee ko koe tēnā, e Rangi?'
-segment_633_36|peterl|{<p:> a n a: <p:> k a t a 4 I a a t u e au k I t e k a: I N a o o: k u h o a <p:>}|anā, ka taria atu e au ki te kāinga o ōku hoa.
-segment_628_33|peterl|{<p:> k ua f a k a m a: k a t o a a h au m o: t a k u p a h u: t a N a <p:>}|'Kua whakamā katoa ahau mō taku pahūtanga. 
-segment_636_50|peterl|{<p:> k o I a t e m e a e m o: h I o a n a m e a h a <p:>}|Ko ia te mea e mōhio ana me aha.'
-segment_592_212|peterl|{<p:> m a: k u a h a: 4 I a t a e f a k a h o k I <p:> k I t o: n a <p:> k a: I N a <p:>}|'Māku a Hāriata e whakahoki ki tōna kāinga, 
-segment_582_144|peterl|{<p:> m o: 4 e n a <p:> k ou 4 ua <p:> t e: n a: h o k I k oe h a: 4 I a t a <p:>}|'Mōrena kourua. Tēnā hoki koe, Hāriata. 
-segment_445_84|peterl|{<p:> k o au e p a 4 a 4 e: a n a <p:> k I a h o k I f a k a m u 4 I N a: p ou p ou <p:> k I t e a: 4 Ai a t u I <p:> t e h u N a <p:> k a k a 4 I <p:>}|Ko au e pararē ana kia hoki whakamuri ngā poupou ki te ārai atu i te hunga kakari. 
-segment_636_43|peterl|{<p:> k oi a n Ae I <p:> f a: k I m Ai <p:> k I a h au <p:>}|Koia nei i whāki mai ki ahau.' 
-segment_639_156|peterl|{<p:> k a a f I a t u I t o: n a m a: m a: <p:> k o 4 a: ua t a h I e t a N I h o t u h o t u a n a <p:>}|Ka awhi atu i tōna māmā, ko rāua tahi e tangi hotuhotu ana. 
-segment_628_53|peterl|{<p:> k o k oe a 4 o n t h o m a <p:> k a t u N ou a t u a 4 o n <p:>}|'Ko koe a Ron Thomas?' Ka tungou atu a Ron. 
-segment_639_150|peterl|{<p:> k a t u f e 4 a a t u N a: 4 I N a 4 I N a w I 4 I w I 4 I o <p:> n a n <p:>}|Ka tuwhera atu ngā ringaringa wiriwiri o Nancy. 
-segment_590_151|peterl|{<p:> k a <p:> p a: t Ai <p:> f a k a h i: h i: m Ai t e: t a h I o o: m a o h o a <p:> p e: h e a <p:> k ou 4 ua e t e t au <p:>}|Ka pātai whakahīhī mai tētahi o ō mao hoa, 'Pēhea kourua, e Te Tau? 
-segment_588_37|peterl|{<p:> k o t e m e a p Ai <p:> k I a <p:> k o: 4 e 4 o t o n u k I a t e t au <p:>}|'Ko te mea pai, kia kōrero tonu ki a Te Tau. 
-segment_585_41|peterl|{<p:> a <p:> a n I e <p:> k I <p:> t e: n Ae <p:> a h a k o a k a: h o 4 e a n o: 4 a: ua k I a t u: t a k I k I t e f a: n au o t o: 4 a: ua p a: p a: <p:>}|a Janice ki tēnei ahakoa kāhore anō rāua kia tūtaki ki te whānau o tō rāua pāpā.
+segment_582_20|peterl|{e t e t a u t e m e a t u a t a h i h e f a k a t i k a i t o: t u: r u k i a p a i a i t o: n o h o}|'e te tau, te mea tuatahi he whakatika i tō tūru kia pai ai tō noho. 
+segment_418_8|peterl|{k a r a w e h o k i k a a h u a t u a h a u k i t e m i h i k i a i a}|ka rawe hoki. ka ahu atu ahau ki te mihi ki a ia.
+segment_577_38|peterl|{n a: t e: n e i k a r i r i a h a: r i a t a r a: u a k o r e w i}|nā tēnei, ka riri a hāriata rāua ko rewi. 
+segment_590_31|peterl|{m e h e m e a n a: u t e t a m a i t i i k o: h u r u t i a k a a h a k o e h e i k o t a: n a}|mehemea nāu te tamaiti i kōhurutia, ka aha koe?' hei ko tāna.
+segment_635_67|peterl|{i m e a a t u a h a u k i a f a: i a e i a t e: t a h i a t u m a h i}|i mea atu ahau kia whāia e ia tētahi atu mahi. 
+segment_582_12|peterl|{a h a k o a h e m o a t a r a w a k a k a r ŋ a m a i a p a: p a:}|ahakoa he moata rawa, ka karanga mai a pāpā, 
+segment_588_0|peterl|{k a w a e a m a i a r e w i e h o a e h i a h i a a n a k o e k i t e h a e r e k i t e w a i r a r a p a k i t e r u k u k a i m o a n a}|ka waea mai a rewi, 'e hoa, e hiahia ana koe ki te haere ki te wairarapa ki te ruku kaimoana?'
+segment_577_64|peterl|{h e m a h a ŋ a: m a: t u a i t a e m a i k i t e f i n a}|he maha ngā mātua i tae mai ki te āwhina.
+segment_589_88|peterl|{k a m e a m a i i a t e n u ŋ a o t e t ŋ a t a e n o h o a n a i t e: r a: t a h a o t e t a: o n e h e n u i r a w a h o k i t e u t u o ŋ a: f a r e k i t e: n e i t a h a}|ka mea mai ia, 'te nuinga o te tangata e noho ana i tērā taha o te tāone, he nui rawa hoki te utu o ngā whare ki tēnei taha.
+segment_629_33|peterl|{h e n u i t a k u a r o h a m o: u}|he nui taku aroha mōu.'
+segment_586_76|peterl|{e m a: k u a t a e m a i a t e t a u m e ŋ a: f a k a a h u a t e k a r ŋ a a t u a h a: r i a t a}|'e mā, kua tae mai a te tau me ngā whakaahua!' te karanga atu a hāriata.
+segment_582_139|peterl|{k a t i r o a k e k i t e f a r e k a p o: h i r i a t u k i a m a: m a:}|ka tiro ake ki te whare, ka pōhiri atu ki a māmā.
+segment_630_68|peterl|{k o m a t u a h a k i t e: r a: i w a e a m a i}|'ko matua haki tērā i waea mai. 
+segment_589_22|peterl|{i t a u a p o: k a t u: t a k i m a o k o h a: r i a t a k i t e h o a o m e r e k i a r o n}|i taua pō, ka tūtaki mao ko hāriata ki te hoa o mere, ki a ron. 
+segment_624_44|peterl|{i r ŋ o a h a u i n o h o a n o: t e k o: t i p i: r a k a: h o r e i t a u t i k a ŋ a r i e k o r e a h a u e w a r e w a r e k i t a: r a: t o u m a h i k i n o a: t o: n a w a: k a e a h e i k o t a: r o n}|i rongo ahau i noho anō te kōti pīra.''kāhore i tau tika. engari e kore ahau e wareware ki tā rātou mahi kino. ā tōna wā, ka ea,' hei ko tā ron. 
+segment_589_1|peterl|{i w a e a m a i a m e r e i t e p o: r a:}|'i waea mai a mere i te pō rā. 
+segment_638_125|peterl|{h e p o n o m a: r i k a a k u k o: r e r o}|'he pono mārika aku kōrero. 
+segment_634_17|peterl|{r ŋ i m a: r i e t e k a r ŋ a a ŋ a: m a: h ŋ a e o m a a n a k i r o t o k o m e r e e a r u a t u a n a}|'rangimārie!' te karanga a ngā māhanga e oma ana ki roto, ko mere e aru atu ana.
+segment_582_97|peterl|{e h o a e p o k e a a n a a h a u e t e m a h i}|e hoa, e pokea ana ahau e te mahi. 
+segment_589_96|peterl|{a n a: m e h e k e t a: u a i k o n e i}|'anā, me heke tāua i konei.'
+segment_587_31|peterl|{k o m a o k o t e t a u k i t o: k u m o t o k a: t e k i: a t o: k u p a: p a:}|ko mao ko te tau ki tōku motokā,' te kī a tōku pāpā.
+segment_590_21|peterl|{e a i k i t e k a i k o: r e r o i m a h i p e: n e i a i r a: t o u n a: t e m e a i t u k u n a ŋ a: t ŋ a t a k o r o k e: k u a h a r a k i a h a e r e}|'e ai ki te kaikōrero, i mahi pēnei ai rātou nā te mea i tukuna ngā tāngata korokē kua hara kia haere. 
+segment_634_97|peterl|{k i a o r a e m a t u a e p a i a n a k o t a: r ŋ i}|'kia ora, e matua. e pai ana,' ko tā rangi.
+segment_625_24|peterl|{k o e: n e i a k u k o: r e r o f a k a m u t ŋ a k i t o: k u r o: i a k i t o: k u h o a h o k i a h a k i r e w i r i}|ko ēnei aku kōrero whakamutunga ki tōku rōia, ki tōku hoa hoki, a haki rewiri. 
+segment_592_33|peterl|{k a k i h i m a o}|ka kihi mao.
+segment_635_93|peterl|{k a k i t e a t u i t e t o h ŋ a t ŋ a o r ŋ i k i t e h a k a}|ka kite atu i te tohungatanga o rangi ki te haka. 
+segment_635_18|peterl|{k a t a u ŋ a: f a k a r i t e k a t a e a t u m a o k o h a: r i a t a k i t e k u r a k i t e p a r a k a t i h i o t e k a p a h a k a}|ka tau ngā whakarite, ka tae atu mao ko hāriata ki te kura ki te parakatihi o te kapa haka. 
+segment_577_32|peterl|{h e m a h i n u i t e: n e i m o: t o: t a: t o u k u r a m o: t a: t o u h o k i e t a u t o k o a n a i ŋ a: m a h i t u k u i h o a o: t a: t o u m a: t u a t u: p u n a}|'he mahi nui tēnei mō tō tātou kura, mō tātou hoki e tautoko ana i ngā mahi tuku iho a ō tātou mātua tūpuna.
+segment_589_122|peterl|{e r o n k o t e: n e i t o: k a: ŋ a}|'e ron, ko tēnei tō kāinga.
+segment_636_58|peterl|{a: e k o t a: h i n e m o a}|'āe,' ko tā hinemoa.
+segment_591_118|peterl|{e h i a ŋ a: p o u n a m u p i a i i n u m i a e k o e i r e i r a}|'e hia ngā pounamu pia i inumia e koe i reira?' 
+segment_590_85|peterl|{k a: h o r e m a o i r ŋ o a t u a n o: i a r o n}|kāhore mao i rongo atu anō i a ron. 
+segment_629_66|peterl|{k o k a r a n i p a: e n o h o a n a i t o: n a t a h a}|ko karanipā e noho ana i tōna taha.
+segment_588_193|peterl|{h e r a: h i r a h i r a t e: n e i t e k i: a p a: p a:}|he rā hirahira tēnei,' te kī a pāpā.
+segment_634_66|peterl|{k a k o: r e r o r e r o ŋ a: t o k o r u a n e i}|'ka kōrerorero ngā tokorua nei.
+segment_624_15|peterl|{n o: r e i r a h o k i a t u k i t e w a: h i ŋ a r o k i t o: m o ŋ a r o a}|nō reira, hoki atu ki te wāhi ngaro ki tō moenga roa.
+segment_638_135|peterl|{i f a k a p a e m a o k u a w e h e k e: a t u k i t a: w a: h i k u a f e t u: r ŋ i k e: t i a p e a}|i whakapae mao kua wehe kē atu ki tāwāhi, kua whetūrangi kētia pea. 
+segment_592_152|peterl|{h e h ŋ a e m o: h i o t i a a n a e ŋ a: p i r i h i m a n a}|he hunga e mōhiotia ana e ngā pirihimana. 
+segment_445_11|peterl|{k a: h o r e a h a u i r ŋ o i a i a e h o u m a i a n a k a m i h i a t u i a k i a m a: m a:}|kāhore ahau i rongo i a ia e hou mai ana. ka mihi atu ia ki a māmā.
+segment_631_20|peterl|{k o h a: r i a t a r a: u a k o t e t a u e: n e i k o t a: r o n}|'ko hāriata rāua ko te tau ēnei,' ko tā ron.
+segment_586_1|peterl|{k o r o n i t o: k u t a h a e t i r o a: m a i m a i a n a k i t o: n a m a t a w a:}|ko ron i tōku taha e tiro āmaimai ana ki tōna matawā.
+segment_637_0|peterl|{n a u m a i h a e r e m a i r a: k o w a i h o k i e: n e i a n a h e r a t e m i h i a m a t u a h a k i i a i a e p i k o a n a k i t e f i i ŋ a: m a: h ŋ a}|'nau mai, haere mai rā. ko wai hoki ēnei anahera?' te mihi a matua haki, i a ia e piko ana ki te awhi i ngā māhanga.
+segment_445_79|peterl|{k o t e k a t o a o t e k u r a e m a: t a k i a n a i t o: m a: t o u k e: m u}|ko te katoa o te kura e mātaki ana i tō mātou kēmu. 
+segment_587_8|peterl|{e h i a h i a a n a m a o k i t e k o: r e r o a t u k i a i a}|'e hiahia ana mao ki te kōrero atu ki a ia. 
+segment_623_7|peterl|{i t e t a ŋ a m a i o h a: r i a t a k a m e a a t u a h a u i w a e a m a i t e: t a h i r o: i a m a i i p o i h a: k e n a}|i te taenga mai o hāriata, ka mea atu ahau, 'i waea mai tētahi rōia mai i poihākena.'
+segment_639_193|peterl|{ŋ a r i p e: r a: i m a o k o p a: p a: k a: h o r e i t u t u k i}|engari pērā i mao ko pāpā, kāhore i tutuki.'
+segment_625_8|peterl|{e m a: r a m a a n a k o u t o u k i t e: n e i}|e mārama ana koutou ki tēnei?'
+segment_588_23|peterl|{k a: o k a: o t e p a r a r e: a h a: r i a t a}|'kāo! kāo!' te pararē a hāriata.
+segment_629_57|peterl|{e a h a a n a k o u r u a k o t a: f a e a a n n e}|e aha ana kourua?' ko tā whaea anne.
+segment_588_7|peterl|{ŋ a r i k i a t u: p a t o k o u r u a}|engari kia tūpato kourua.
+segment_590_108|peterl|{p e: r a: k i t e f a k a n u i f a r e}|pērā ki te whakanui whare. 
+segment_589_199|peterl|{k a k i t e h o k i i t e r a m a o t e w a e a e m u r a m u r a m a i a n a}|ka kite hoki i te rama o te waea e muramura mai ana. 
+segment_630_6|peterl|{n a: t e: n e i k a m o: h i o a u k a: h o r e a h a u e t i n o k a h a a n a}|nā tēnei, ka mōhio au kāhore ahau e tino kaha ana. 
+segment_623_11|peterl|{k a k a t a a h a: r i a t a p a k a k a t ŋ i m a i t e w a e a}|ka kata a hāriata. paka, ka tangi mai te waea.
+segment_582_70|peterl|{h e a h a t e m a t e t a k u p a: t a i}|'he aha te mate?' taku pātai.
+segment_639_12|peterl|{k u a t e k a u k a r a k a k e: i t e p o: o t e p a r a i r e}|kua tekau karaka kē i te pō o te paraire.
+segment_639_134|peterl|{k a h u r i a h a u k i a f a e a a n n e r a: u a k o h a: r i a t a e n o h o a: h u a a n i p a: a n a}|'ka huri ahau ki a whaea anne rāua ko hāriata, e noho āhua anipā ana.
+segment_638_132|peterl|{i h a e r e m a o k i t e k a: ŋ a i n o h o a i i a m o: ŋ a: w a: h i n e h a p u: m o t u h a k e ŋ a r i i r a r o i ŋ a: t u r e k a: h o r e e t a e a e r a: t o u t e f a: k i m a i i h a e r e a a n n e k i h e a}|i haere mao ki te kāinga i noho ai ia mō ngā wāhine hapū motuhake engari, i raro i ngā ture, kāhore e taea e rātou te whāki mai i haere a anne ki hea. 
+segment_588_30|peterl|{k o m a: m a: r a: u a k o h a: r i a t a e t ŋ i h o t u h o t u a n a e p u p u r i a n a i o: k u r ŋ a}|ko māmā rāua ko hāriata e tangi hotuhotu ana, e pupuri ana i ōku ringa. 
+segment_588_188|peterl|{e h a: r i k a: h o r e k o e i m e a m a i e t i n o ŋ a: k a u n u i a n a k o e k i e: n e i t a k e e p a: a n a k i t e i w i m a: o r i k i t e t i r i t i h o k i}|'e hāri, kāhore koe i mea mai e tino ngākaunui ana koe ki ēnei take e pā ana ki te iwi māori, ki te tiriti hoki. 
+segment_445_29|peterl|{k a: h o r e a n o: a h a: r i a t a k i a k i t e i t o: n a p a: p a: t a e n o a k i t e: n e i r a:}|kāhore anō a hāriata kia kite i tōna pāpā tae noa ki tēnei rā. 
+segment_592_130|peterl|{k e i t e a h a k o e i k o: n e i}|kei te aha koe i kōnei? 
+segment_577_84|peterl|{k a m a u t e w e h i}|ka mau te wehi.
+segment_587_12|peterl|{h e w a i m a r i e r a: k a: h o r e a h a u e a k o a n a i t e: n e i r a: h e i k o t a: p a: p a:}|he waimarie rā, kāhore ahau e ako ana i tēnei rā,' hei ko tā pāpā.
+segment_585_56|peterl|{k o m a: t o u k a t o a h o k i i o h o r e r e i t e r ŋ o n a a t u i a i a}|ko mātou katoa hoki i ohorere i te rongona atu i a ia. 
+segment_636_28|peterl|{i t e m a: n u k a n u k a a h a: r i a t a m e t e f a k a a r o k u a a h a t i a k i a p e: n e i r a w a t o: n a a: h u a}|i te mānukanuka a hāriata. me te whakaaro, 'kuaahatia kia pēnei rawa tōna āhua?' 
+segment_584_81|peterl|{m o: r e n a k o u r u a t e k a r ŋ a m a i a t e m a: m a: o h a: r i a t a}|'mōrena kourua,' te karanga mai a te māmā o hāriata. 
+segment_592_155|peterl|{h e o i e h o a h e t i n o p a i k i t e k i t e i a k o e}|heoi e hoa, he tino pai ki te kite i a koe.' 
+segment_639_112|peterl|{k a r o a k a p a: t a i m a i a f a e a a n n e h e p o n o m a: r i k a e h i a h i a a n a o: k u m a: t u a k i t e t u: t a k i i a h a u t e p a: t a i m a i a f a e a a n n e}|'ka roa, ka pātai mai a whaea anne, 'he pono mārika, e hiahia ana ōku mātua ki te tūtaki i ahau?' te pātai mai a whaea anne. 
+segment_635_113|peterl|{k e i r ŋ a n o a a t u k o u t o u}|kei runga noa atu koutou.'
+segment_635_30|peterl|{k a: o r e e k o r e k a k i t e a o: n a a: h u a t ŋ a i r o t o i a k o e k o t a: k u k i a r ŋ i}|kāore e kore ka kitea ōna āhuatanga i roto i a koe,' ko tāku ki a rangi.
+segment_637_65|peterl|{a a a a a a a h a: r i a t a t a k u p a r a r e:}|'aaaaaaa, hāriata!' taku pararē.
+segment_577_35|peterl|{k o p a: e r u e r a t o: t a: t o u p o u a k o f i n a i t e: n e i w a:}|ko pā eruera tō tātou pouako āwhina i tēnei wā.'
+segment_630_44|peterl|{k a: h o r e t e: n a: i t e t i k a t e f a k a u t u a f a e a a n n e}|'kāhore tēnā i te tika,' te whakautu a whaea anne. 
+segment_418_25|peterl|{e t o r u t a u a h a u e h a e r e a i k i t e: n e i k u r a}|e toru tau ahau e haere ai ki tēnei kura.
+segment_639_164|peterl|{k i: h a i i r o a k a o t i k a h o k i a n o: m a o k i t e r u: m a n o h o}|kīhai i roa, ka oti, ka hoki anō mao ki te rūma noho. 
+segment_423_134|peterl|{k e i w a h o a n o: t e: t a h i a t u w a: h i h e i k a i h e i t u n u h o k i}|kei waho anō tētahi atu wāhi hei kai, hei tunu hoki. 
+segment_634_33|peterl|{k a h a e r e a t u a h a u k o t e a: h u a n e i h e k a u p a p a n u i}|ka haere atu ahau. ko te āhua nei he kaupapa nui.
+segment_628_74|peterl|{k u a h a p u: a h a u e t o r u m a r a m a}|'kua hapū ahau! e toru marama.'
+segment_639_63|peterl|{i t o a h o k i i a a: k a p u t a k i t e t a u m a t a t u a r u a}|i toa hoki ia, ā, ka puta ki te taumata tuarua.
+segment_423_11|peterl|{a h a k o a t e p a i o r e w i k i t e t a r a i w a k a: h o r e e t a u a n a k i a h a u k i t e t e r e o t e h a e r e p e: n e i n a:}|ahakoa te pai o rewi ki te taraiwa, kāhore e tau ana ki ahau ki te tere o te haere pēnei nā.
+segment_590_5|peterl|{n o: t e h o a o h e: m i t e: n e i f a r e t e f a k a u t u a h a: r i a t a}|nō te hoa o hēmi tēnei whare,' te whakautu a hāriata.
+segment_582_90|peterl|{i i a h a r a r e i k a n o h o a t u i a k i t e k a: ŋ a k i t e t i a k i i a: n a t a m a r i k i}|i ia hararei, ka noho atu ia ki te kāinga ki te tiaki i āna tamariki. 
+segment_582_34|peterl|{ŋ a r i i p a i t a k u h a e r e a t u i t o: m a: t o u f a r e k i t e r o r i k i: h a i i h a e r e r u t u r u t u n o a}|engari, i pai taku haere atu i tō mātou whare ki te rori, kīhai i haere ruturutu noa. 
+segment_445_162|peterl|{i t o: r a: t u a t a h i m e ŋ a: r a: o m u r i m a i i t o: k u k i t ŋ a i a k o u r u a k o h a: r i a t a e t u: t a k i t a k i a n a e h a e r e t a h i a n a i t e h a r a w e n e k a t o a a h a u}|i tō rā tuatahi me ngā rā o muri mai i tōku kitenga i a kourua ko hāriata e tūtakitaki ana, e haere tahi ana, i te harawene katoa ahau. 
+segment_589_144|peterl|{k a h i k i t o: n a r ŋ a k i t e m e k e i a h a u}|'ka hiki tōna ringa ki te meke i ahau. 
+segment_626_53|peterl|{m o: t e p u: t e a k a: h o r e h e t i n o r a h i t o: n a p u t e a t u k ŋ a}|mō te pūtea? kāhore. he tino rahi tōna putea tukunga. 
+segment_584_26|peterl|{n a: t o: n a m a: m a: m a o i h a r i k i t e t a: o n e}|nā tōna māmā mao i hari ki te tāone.
+segment_577_73|peterl|{k a t u: a k e k o h a: r i a t a k i a o r a k o u t o u k a t o a}|ka tū ake ko hāriata, 'kia ora koutou katoa. 
+segment_632_85|peterl|{k o t a: n a f a k a h o k i m a i k i a k a u a a n o: a h a u e t u h i a t u n a: t e m e a k u a f a k a m a: k a t o a t o: k u f a: n a u i o: k u m a h i k i n o}|ko tāna whakahoki mai kia kaua anō ahau e tuhi atu, nā te mea kua whakamā katoa tōku whānau i ōku mahi kino.' 
+segment_586_49|peterl|{h e t i n o r o a t o: n a p u p u r i i o: n a r ŋ a}|he tino roa tōna pupuri i ōna ringa.
+segment_423_128|peterl|{e r u a r a: a n o: ŋ a: m o t o k a: k a u r u a t u k i t e: n a: k a r a: t i}|e rua rā anō ngā motokā ka uru atu ki tēnā karāti. 
+segment_640_158|peterl|{k a a h u a t u a h a u k i t e k i: h i n i k a k i t e i a i a e h i k i a n a i t o: n a r ŋ a k i t e p a t u i a h i n e m o a}|ka ahu atu ahau ki te kīhini ka kite i a ia e hiki ana i tōna ringa ki te patu i a hinemoa, 
+segment_589_118|peterl|{i r ŋ o m a: t o u h e w a h i n e a: t a a h u a t e k i: a t e m a: m a:}|i rongo mātou he wahine ātaahua,' te kī a te māmā.
+segment_588_187|peterl|{i a m a o e h o k i a n a k i t e k a: ŋ a k a p a: t a i a t u a h a u}|i a mao e hoki ana ki te kāinga, ka pātai atu ahau, 
+segment_423_43|peterl|{e a k o t o n u a n a r a: t o u i t e r e o i t a u a k u r a}|e ako tonu ana rātou i te reo i taua kura. 
+segment_588_70|peterl|{k e i h e a r a: a h a u h e a h a k e: e: r a: e m u r a m a i r a:}|kei hea rā ahau? he aha kē ērā e mura mai rā? 
+segment_640_212|peterl|{k a r o a k a m e a a t u a h i n e m o a k a u a k o e e f a: k i a t u k i a p a: p a: r a: u a k o m a: m a:}|ka roa, ka mea atu a hinemoa, 'kaua koe e whāki atu ki a pāpā rāua ko māmā.'
+segment_592_0|peterl|{m a t u a r ŋ i k o t i m u h e: n a r e t e: n e i t o: r o: i a}|'matua rangi, ko timu hēnare tēnei, tō rōia.' 
+segment_592_102|peterl|{e p e: h e a a n a a h a: r i a t a m e o: k o u r u a f a: n a u}|e pēhea ana a hāriata me ō kourua whānau? 
+segment_635_115|peterl|{t e: n a: k o t e w a: h ŋ a t u a t o r u k o t e k a: r e t i o ŋ a: m a n u k o: r i h i}|'tēnā, ko te wāhanga tuatoru, ko te kāreti o ngā manu kōrihi.
+segment_635_100|peterl|{k a: h o r e h e h o a n o a i h o r a o k a u a e k o: r e r o p e: n a: k o t a: k u}|'kāhore. he hoa noa iho rao. kaua e kōrero pēnā,' ko tāku.
+segment_625_9|peterl|{k a h u a k i n a e m a t u a h a k i t e: t a h i k o: p a k i k a h o: m a i i e: t a h i k a p e k i a m a: t o u}|ka huakina e matua haki tētahi kōpaki, ka hōmai i ētahi kape ki a mātou. 
+segment_636_83|peterl|{e p a i a n a t o: k u m a: m a:}|e pai ana tōku māmā. 
+segment_577_43|peterl|{i t e t i: m a t ŋ a r i m a t e k a u t e h ŋ a i u r u m a i}| i te tīmatanga, rima tekau te hunga i uru mai.
+segment_590_99|peterl|{k o t e m e a k a k i t e a h a u k o ŋ a: t i k ŋ a e p a: a n a k i t e w a i h ŋ a f a r e}|ko te mea ka kite ahau ko ngā tikanga e pā ana ki te waihanga whare. 
+segment_445_40|peterl|{i t e: t a h i o a: m a: t o u k e: m u i t a e m a i o: k u m a: t u a i r i r o i a r e w i t e t o a o t e r a:}|i tētahi o ā mātou kēmu i tae mai ōku mātua, i riro i a rewi te toa o te rā. 
+segment_591_2|peterl|{k u a h a: m e n e t i a a n o: k o e h e i k a i m a t a a r a m o: t e k a f a k f i u}|kua hāmenetia anō koe hei kaimataara mō te kaiwhakawhiu. 
+segment_626_76|peterl|{i m a u ŋ a: m a h i a ŋ a: t o k o r u a r a: i t e k a: m e r a}|i mau ngā mahi a ngā tokorua rā i te kāmera. 
+segment_585_40|peterl|{e f a k a a e a n a t o: n a t a m a: h i n e}|e whakaae ana tōna tamāhine, 
+segment_626_0|peterl|{m a t u a t e t a u m a t u a t e t a u k i a o r a}|'matua te tau! matua te tau! kia ora. 
+segment_635_86|peterl|{a: e ŋ a r i n a: u t e r ŋ i m e t e t a k i e h i n e k o t a: r ŋ i}|'āe, engari nāu te rangi me te taki, e hine,' ko tā rangi. 
+segment_423_84|peterl|{i t a u a w a: m a t a p o: u r i k a t a e m a i t e k a u m a: t u a r a: u a k o t e k u i a o t e m a r a e i p o r i r u a}|i taua wā matapōuri, ka tae mai te kaumātua rāua ko te kuia o te marae i porirua. 
+segment_640_64|peterl|{k o i a n a: t a: u f a k a u t u h e t ŋ i}|'koia nā tāu whakautu, he tangi. 
+segment_582_47|peterl|{h e n u i r a w a t e h ŋ a e f a r a a n a m o: t e k o r e n o a i h o h e i k o t a: n a}|'he nui rawa te hunga e whara ana mō te kore noa iho,' hei ko tāna.
+segment_585_6|peterl|{k a t i n o h a r i a h a: r i a t a}|ka tino hari a hāriata. 
+segment_623_58|peterl|{m a: m e h a e r e m a i k o e k i t e k o r e m e n o h o k a t o a t a: t o u k i t e k a: ŋ a t e k o h e t e a h a: r i a t a}|'mā! me haere mai koe. ki te kore, me noho katoa tātou ki te kāinga,' te kohete a hāriata.
+segment_638_45|peterl|{i h a e r e m a i a r ŋ i m o: ŋ a: f a k a t a e t a e k o t a: a r a p e r a}|'i haere mai a rangi mō ngā whakataetae,' ko tā arapera. 
+segment_448_118|peterl|{k a: t a h i a n o: a h a u k a u r u a t u k i t e a k o m ŋ a o h a: r i a t a}|kātahi anō ahau ka uru atu ki te akomanga o hāriata. 
+segment_418_57|peterl|{i t a u a w a: t o n u k a t u: m a i ŋ a: h o a o r e w i k i t o: k u t a h a k a m e a m a i k i a h a u e h o a k u a t u: t a k i k o e k i a r ŋ i w a h a n u i}|i taua wā tonu ka tū mai ngā hoa o rewi ki tōku taha, ka mea mai ki ahau, "e hoa, kua tūtaki koe ki a rangi wahanui?"
+segment_635_88|peterl|{k a k a r ŋ a a n o: t e: t a h i a t u k i a r i t e k i a r i t e k i a m a u}|ka karanga anō tētahi atu, 'kia rite! kia rite! kia mau!'
+segment_590_143|peterl|{e h o a m a: f a k a k i: i a o: k o u t o u k a r a: h e h e m i h i t a: k u}|'e hoa mā, whakakīia ō koutou karāhe, he mihi tāku.'
+segment_577_79|peterl|{p i u p i u h a e r e a n a ŋ a: p a t u m e ŋ a: p o i a ŋ a: k o: t i r o}| piupiu haere ana ngā patu me ngā poi a ngā kōtiro.
+segment_635_109|peterl|{k i a o r a r a: t a: t o u k u a h u i h u i m a i i r ŋ a i t e k a r ŋ a o t e r a:}|'kia ora rā tātou kua huihui mai i runga i te karanga o te rā. 
+segment_423_125|peterl|{h e f a t a k a: k a h u u r u a t u t o: r a: u a a h a k o a t o r u t o r u n o a i h o ŋ a: k a: k a h u o p a: p a: h e i f a k a t a r e}|he whata kākahu uru atu tō rāua, ahakoa torutoru noa iho ngā kākahu o pāpā hei whakatare. 
+segment_634_53|peterl|{k a: h o r e a h a: r i a t a i m o: h i o m e p e: h e a i t e r ŋ ŋ a i t e: n e i h e a h a o: u k a r e a: r o t o m o: r ŋ i t a: h a: r i a t a}|'kāhore a hāriata i mōhio me pēhea i te rongonga i tēnei.'he aha ōu kare ā-roto mō rangi?' tā hāriata.'
+segment_587_82|peterl|{a: e}|'āe.'
+segment_588_205|peterl|{k a k a p o m a i a h a: r i a t a i t o: k u r ŋ a k a t a u m a i t o: n a m a: t ŋ a k i t o: k u p o k o h i w i k a k o: h i m u m a i h e p a i t e: n a: e t e t a u}|ka kapo mai a hāriata i tōku ringa, ka tau mai tōna mātenga ki tōku pokohiwi, ka kōhimu mai, 'he pai tēnā, e te tau.'
+segment_582_61|peterl|{i t e: t a h i r a: i t o: n a k a: ŋ a m a o k a p a: t a i a t u a h a u}|i tētahi rā, i tōna kāinga mao, ka pātai atu ahau, 
+segment_591_155|peterl|{k a a: h u a h a u r ŋ i}|ka āhua haurangi, 
+segment_592_192|peterl|{k i t e h a: m e n e t i a k o e h e i k a i m a t a a r a e h a e r e a n a a h a u i t o: t a h a}|ki te hāmenetia koe hei kaimataara e haere ana ahau i tō taha. 
+segment_625_14|peterl|{k a t a e k i t e w a: h i t o h a t o h a o ŋ a: p ŋ a t u k u i h o k a a: t a p a: n u i t i a m a i e m a t u a h a k i}|ka tae ki te wāhi tohatoha o ngā pānga tuku iho, ka āta pānuitia mai e matua haki.
+segment_588_146|peterl|{k a h i: r e r e a h a u k a t a k o t o a t u k i t o: k u m o ŋ a}|ka hīrere ahau, ka takoto atu ki tōku moenga. 
+segment_627_70|peterl|{k a m u t u t e k o: r e r o a r o n k a m e a m a i e h i a h i a a n a a m a t u a h a k i k i t e t u: t a k i i a t a: t o u a: t e t e k a u k a r a k a a: p o: p o: i t e h o: t e: r a: o k a: p e n e k u k i}|'ka mutu te kōrero a ron, ka mea mai, 'e hiahia ana a matua haki ki te tūtaki i a tātou ā te tekau karaka āpōpō i te hōtērā o kāpene kuki.'
+segment_638_94|peterl|{t i h e i m a u r i o r a m e a n e i m e a n e i}|tihei mauri ora! mea nei, mea nei. 
+segment_448_3|peterl|{a: e h e w a i m a r i e k o e e h a: r i k u a r o a k e: t a: u a e f a i a n a h e i k o t a: k u}| 'āe. he waimarie koe e hāri, kua roa kē tāua e whai ana,' hei ko tāku.
+segment_592_196|peterl|{k o a h a u e f a k a u t u a n a i a: n a p a: t a i k a t o a}|ko ahau e whakautu ana i āna pātai katoa.
+segment_631_67|peterl|{h e p a i m e w a i h o h e i k o: r e r o r e r o m a: k o u r u a k o m e r e e r o n k o t a: h a r i k u a a: h u a p u k u r i r i n e i k i t o: n a t ŋ a: n e}|'he pai me waiho hei kōrerorero mā kourua ko mere, e ron,' ko tā hari kua āhua pukuriri nei ki tōna tungāne.
+segment_588_102|peterl|{k u a m e a k e: m a i ŋ a: r a t a e k o r e a h a u e t a: k a r o r i: k i n a: t e m e a h e w a e a e h o n o a n a i e: t a h i o o: k u k o: i w i i o: k u w a e w a e m e e: r a: i t o: k u t u a r a:}|kua mea kē mai ngā rata e kore ahau e tākaro rīki nā te mea he waea e hono ana i ētahi o ōku kōiwi, i ōku waewae me ērā i tōku tuarā. 
+segment_590_75|peterl|{k a: h o r e o: k u a: w ŋ a w ŋ a t e f a k a u t u a r o n}|'kāhore ōku āwangawanga,' te whakautu a ron.
+segment_423_13|peterl|{k o t e t a u h a u m a n a r ŋ i t o: k u ŋ o a}|ko te tau haumana rangi tōku ingoa. 
+segment_640_132|peterl|{e h a e r e a n a a h a u k i t e t i k i a t u i a i a a: t e t e k a u m a: r u a k a r a k a}|'e haere ana ahau ki te tiki atu i a ia ā te tekau mā rua karaka.'
+segment_628_14|peterl|{k e i t e p e: r a: t o n u t e p a: t a i a m a t u a h a k i}|kei te pērā tonu?' te pātai a matua haki.
+segment_632_81|peterl|{n o: r e i r a h o k i t o: m a o p a: p a:}|nō reira hoki tō mao pāpā. 
+segment_634_19|peterl|{k o ŋ a: m a: h ŋ a e t o t o h e a n a k o w a i k a t i a k i i a i a}|ko ngā māhanga e totohe ana ko wai ka tiaki i a ia.
+segment_625_50|peterl|{k u a f e r o k a t o a o: n a k a r u h e t i n o f e r f e r o o: n a p a: p a: r ŋ a k u a t i: m a t a h o k i t e w i r i w i r i o t o: n a t i n a n a m e t o: n a r e o}|kua whero katoa ōna karu, he tino wherowhero ōna pāpāringa. kua tīmata hoki te wiriwiri o tōna tinana, me tōna reo. 
+segment_592_218|peterl|{i i n u a h a u i m u a i t o: k u w e h ŋ a m a i i t e k a: ŋ a k o t a k u f a k a u t u a t u}|i inu ahau i mua i tōku wehenga mai i te kāinga,' ko taku whakautu atu.
+segment_639_85|peterl|{i a m a: t o u e t a t a r i a n a i ŋ a: k a i k a m e a m a i a f a e a a n n e}|'i a mātou e tatari ana i ngā kai, ka mea mai a whaea anne. 
+segment_640_220|peterl|{h e k o: h i n e t a t a t o: n a}|he kōhine tata tōna.
+segment_631_38|peterl|{e h a r a k o e i t o: k u t u a h i n e}|ehara koe i tōku tuahine. 
+segment_638_62|peterl|{k a p a i h o k i h e t i n o t o a k o e k o t a: k u}|'ka pai hoki. he tino toa koe!' ko tāku. 
+segment_589_59|peterl|{k a: h o r e a n o: i a k i a h o k i a t u k i a o t e a r o a m a i i t a u a w a: a h a k o a t e h i a h i a o t o: k u m a: m a: k i t e t o r o a t u k i r e i r a}|kāhore anō ia kia hoki atu ki aotearoa mai i taua wā, ahakoa te hiahia o tōku māmā ki te toro atu ki reira.
+segment_584_1|peterl|{i m a h i h o k i m a: t o u k o p a: p a: k o h a: r i a t a m o: i a w a: h ŋ a f a k a t a:}|i mahi hoki mātou ko pāpā, ko hāriata mō ia wāhanga whakatā. 
+segment_445_25|peterl|{i i a a t a k u a t u: t a k i m a o k o h a: r i a t a i t e t ŋ a p a h i}|i ia ata kua tūtaki mao ko hāriata i te tūnga pahi.
+segment_590_87|peterl|{k o t e t a u f a k a m u t ŋ a t e: n e i m o: h a: r i a t a}|ko te tau whaka- mutunga tēnei mō hāriata. 
+segment_423_65|peterl|{k a: h o r e m e f a k f i t f i t i k o: r e r o k e: t a: t o u i e: n e i p u r a r i t a k e n u i}|kāhore! me whakawhitiwhiti kōrero kē tātou i ēnei purari take nui. 
+segment_637_1|peterl|{t e: n a: m e t i: m a t a t a: t o u h e i k o t a: m a t u a h a k i i a m a: t o u h e n o h o n o h o a n a i t o: n a t a r i}|'tēnā, me tīmata tātou,' hei ko tā matua haki, i a mātou he nohonoho ana i tōna tari.
+segment_592_104|peterl|{i m e a m a i i a k i a w a e a a t u a h a u k i a k o u t o u}|i mea mai ia kia waea atu ahau ki a koutou, 
+segment_591_107|peterl|{k a t i r o a t u t e k a f i u k i t e r o: i a o ŋ a: t o k f a: r a: k a m e a a t u}|ka tiro atu te kaiwhiu ki te rōia o ngā tokowhā rā ka mea atu, 
+segment_589_184|peterl|{k a t ŋ i m a i t a n a w a e a p u: k o r o}|ka tangi mai tana waea pūkoro.
+segment_592_189|peterl|{i a m a o e h o k i a n a k i t e k a: ŋ a k a ŋ a h o r o m a i a: n a p a: t a i}|i a mao e hoki ana ki te kāinga ka ngahoro mai āna pātai. 
+segment_624_18|peterl|{k o h a: r i a t a r a: u a k o f a e a a n n e e t u: a n a i t o: k u t a h a}|ko hāriata rāua ko whaea anne e tū ana i tōku taha. 
+segment_626_70|peterl|{a: e k u a m a u h e r e t i a m o: t e t e k a u t a u}|'āe.''kua mauheretia mō te tekau tau. 
+segment_634_116|peterl|{h e r a w e e: n a: k o: r e r o k i a m o: h i o m a i k o u r u a k e i k o n e i m a o k i t e k o: r e r o k i t e f i n a i a k o u r u a}|'he rawe ēnā kōrero. kia mōhio mai kourua kei konei mao ki te kōrero, ki te āwhina i a kourua. 
+segment_624_51|peterl|{k u a h o k i k e: m a i a r o n m a: i t e h o: h i p e r e}|kua hoki kē mai a ron mā i te hōhipere.
+segment_640_114|peterl|{m o: a: p o: p o: k a k o: r e r o t a h i a i t a: t o u}|mō āpōpō, ka kōrero tahi ai tātou. 
+segment_584_62|peterl|{m a u a n a t o: k u h a: i t e k i t ŋ a a t u i a i a i r o t o i o: n a k a: k a h u m o e n a: t e m e a k a k i t e a k a t o a e a u i t e a: h u a o t o: n a t i n a n a}|mau ana tōku hā i te kitenga atu i a ia i roto i ōna kākahu moe, nā te mea, ka kitea katoa e au i te āhua o tōna tinana. 
+segment_637_113|peterl|{k a p a i m a: t o u k a n u i t e o r a}|ka pai. mātou? ka nui te ora.
+segment_639_53|peterl|{k e i k o n e i a h a u e t a u t o k o a n a i a r ŋ i}|'kei konei ahau e tautoko ana i a rangi.
+segment_627_4|peterl|{k o m a t u a h a k i e t e t a u}|'ko matua haki, e te tau. 
+segment_586_52|peterl|{k a t i r o a k e a n o: t e k o r o u a r a: k a r u: r u: i t o: n a m a: t ŋ a m e t e m e n e m a i}|ka tiro ake anō te koroua rā, ka rūrū i tōna mātenga me te mene mai. 
+segment_629_65|peterl|{k a h a e r e a t u k i t e k i h i m e t e f i i a i a k a n o h o}|ka haere atu ki te kihi me te awhi i a ia, ka noho. 
+segment_632_80|peterl|{i h a e r e k e: i a k i t e: t a h i k u r a n o h o m o: ŋ a: t a m a t a: n e i o: t a u t a h i}|i haere kē ia ki tētahi kura noho mō ngā tamatāne i ōtautahi.
+segment_634_88|peterl|{k o w a i h o k i t e: r a: e p a: t o: t o: m a i r a: t e p a: t a i a h a: r i a t a}|'ko wai hoki tērā e pātōtō mai rā,' te pātai a hāriata. 
+segment_636_150|peterl|{h e k o: t i r o k a h a a h i n e m o a n e: t e t a u}|he kōtiro kaha a hinemoa. nē, te tau?' 
+segment_634_31|peterl|{a n a: k e i t e p o: h i r i m a i a f a e a a n n e k i a k o e k o t a: h i n e m o a}|anā, kei te pōhiri mai a whaea anne ki a koe,' ko tā hinemoa.
+segment_630_1|peterl|{k a p a: n u i h i a e a u n a: t e k a r a p u k a r a t e o t e t a: o n e}|ka pānuihia e au, 'nā te karapu karate o te tāone. 
+segment_628_7|peterl|{k a m u t u k a p u t a a k e t e k ŋ a a r o n}|ka mutu, ka puta ake te kanga a ron.
+segment_633_24|peterl|{k o t o: h o a p u: m a u a h a: r i a t a e m a n a a k i a n a e t a u t o k o a n a i a k o e}|ko tō hoa pūmau, a hāriata, e manaaki ana, e tautoko ana i a koe. 
+segment_589_128|peterl|{e p a i a n a e h o a h e i k o t a: r o n}|'e pai ana, e hoa,' hei ko tā ron.
+segment_625_36|peterl|{k a n o h o w a h ŋ u: m a: t o u}|ka noho wahangū mātou. 
+segment_584_8|peterl|{k o r e w i e h a e r e a n a k i t e m a h i i t e p a: m u o o: n a k a r a n i}|ko rewi e haere ana ki te mahi i te pāmu o ōna karani. 
+segment_585_16|peterl|{k a t u: a k e a h a u}|ka tū ake ahau.
+segment_625_19|peterl|{k o h a: r i a t a h o k i e t i r o p u: a n a k i a h a u}|ko hāriata hoki e tiro pū ana ki ahau. 
+segment_423_63|peterl|{m u t u k a u t e k o: r e r o a t o: k u p a: p a: k a m e a a t u a u p e h e a n e i a h a u}|mutu kau te kōrero a tōku pāpā, ka mea atu au, 'pehea nei ahau?
+segment_588_49|peterl|{e t e t a u k a u a k o e e m a t e}|'e te tau, kaua koe e mate. 
+segment_622_32|peterl|{h e m a h i t i n o u a u a t e f a k a w a: i ŋ a: r o: p u: i t e: n e i t a u}|he mahi tino uaua te whakawā i ngā rōpū i tēnei tau. 
+segment_640_36|peterl|{i t a u a w a: t o n u k a h u a k i n a m a i t e k u: a h a o w a h o m e t e p a r a r e: m a i o t e: t a h i a t u k e i h e a k o u t o u}|i taua wā tonu, ka huakina mai te kūaha o waho me te pararē mai o tētahi atu, 'kei hea koutou? 
+segment_639_13|peterl|{h e i a h a a: t e a t a p e a k a w a e a a t u a n o: k e i t e f a r e p i k i t i a p e a ŋ a: t o k o r u a n e i k o t o: k u f a k a a r o}|hei aha. ā te ata pea ka waea atu anō, kei te whare pikitia pea ngā tokorua nei,' ko tōku whakaaro.
+segment_630_46|peterl|{i m e a m a i a r o n k a f a k a p a: m a i a m a t u a h a k i a: p o: p o:}|'i mea mai a ron, ka whakapā mai a matua haki āpōpō. 
+segment_632_41|peterl|{n a: t o: k o u r u a m a: r e n a t ŋ a e r o n i k i t e a h a u i a i a i r o t o i ŋ a: f a k a a h u a a n a: k a m o: h i o i h e a i a e n o h o a n a}|nā tō kourua mārenatanga, e ron, i kite ahau i a ia i roto i ngā whakaahua, anā, ka mōhio i hea ia e noho ana.'
+segment_584_41|peterl|{k a a: t a t i r o h i a e i a k a t u k u a m a o k i r o t o}|ka āta tirohia e ia, ka tukua mao ki roto.
+segment_589_146|peterl|{k a r e r e m a i t e: t a h i a t u k a w e p u a h o k i t e: n a:}|ka rere mai tētahi atu, ka wepua hoki tēnā. 
+segment_626_28|peterl|{k a: t a h i k a k a r f i u a m a i t e: t a h i p o r o k i t o: k u t i n a n a n a: t e t e r e o t o: n a p o r o i u: a i k i t o: k u u m a a h a k o a t o: k u h u: p e k e f a k a m u r i k a f f i m a: k a i a}|kātahi ka karawhiua mai tētahi poro ki tōku tinana nā te tere o tōna poro i ū ai ki tōku uma, ahakoa tōku hūpeke whakamuri, ka whiwhi māka ia.
+segment_591_49|peterl|{h e i t a: t e r o: i a}| hei tā te rōia.
+segment_624_35|peterl|{k o t a: k u h e t i r o m i: h a r o a t u k i a r o n r a: u a k o h a: r i a t a n a: t e m e a h e t i n o r i t e o: r a: u a a: h u a o: r a: u a r e o m e a: r a: u a k a t a ŋ a: m o m o m e a k a t o a}|ko tāku, he tiro mīharo atu ki a ron rāua ko hāriata, nā te mea, he tino rite ō rāua āhua, ō rāua reo, me ā rāua kata, ngā momo mea katoa. 
+segment_640_56|peterl|{e h i n e k i a h o r o t o: h a e r e m a i k i k o n e i}|'e hine! kia horo tō haere mai ki konei!'
+segment_445_84|peterl|{k o a u e p a r a r e: a n a k i a h o k i f a k a m u r i ŋ a: p o u p o u k i t e a: r a i a t u i t e h ŋ a k a k a r i}|ko au e pararē ana kia hoki whakamuri ngā poupou ki te ārai atu i te hunga kakari. 
+segment_640_0|peterl|{e m a: k u a t u: t a k i k e: k o e i a f a e a h a: r i a t a t e k i: a h i n e m o a}|'e mā, kua tūtaki kē koe i a whaea hāriata,' te kī a hinemoa. 
+segment_591_106|peterl|{k i a o r a e t e t a u}|'kia ora, e te tau.'
+segment_639_111|peterl|{k a: h o r e a h a u i m o: h i o e h a e r e m a i a n a k o u r u a k i k i r i k i r i r o a}|'kāhore ahau i mōhio e haere mai ana kourua ki kirikiriroa.
+segment_640_210|peterl|{k a p a: t a i a t u a t i n a e h i n e k o w a i t e p a: p a:}|ka pātai atu a tina, 'e hine, ko wai te pāpā?'
+segment_423_41|peterl|{k o t a: m a: m a: k i a e k e a o: m a: t o u m o e m o e a:}|ko tā māmā, kia ekea ō mātou moemoeā. 
+segment_640_59|peterl|{h e a h a k e: t e: n e i k o: r e r o k u a h a p u: k e: k o e}|'he aha kē tēnei kōrero, kua hapū kē koe? 
+segment_591_178|peterl|{h e o i k a h a e r e m a: t o u k i t e: t a h i f a r e k a i}|heoi, ka haere mātou ki tētahi wharekai. 
+segment_582_101|peterl|{k a p a: t a i a t u a p a: p a: e h i a h i a a n a k o e k i t e: n e i k a i m a h i m o: ŋ a: w i k i f a k a t a: k a t o a o t e t a u}|ka pātai atu a pāpā, 'e hiahia ana koe ki tēnei kaimahi mō ngā wiki whakatā katoa o te tau?'
+segment_631_7|peterl|{a: e k o t a k u f a k a u t u}|'āe,' ko taku whakautu.
+segment_628_15|peterl|{k o m a: t o u k a t o a e t i r o a n a k i a f a e a a n n e}|ko mātou katoa e tiro ana ki a whaea anne.
+segment_630_18|peterl|{e t i n o p a i k a t o a a n a m a: t o u}|e tino pai katoa ana mātou. 
+segment_582_29|peterl|{k a t a e a t u t a: u a k i ŋ a i o h e i k o t a: p a: p a:}|ka tae atu tāua ki ngaio,' hei ko tā pāpā. 
+segment_636_29|peterl|{k a n o h o ŋ a: t o k o r u a n a: w a i a: k a m u t u t e t ŋ i h o t u h o t u a h i n e m o a}|ka noho ngā tokorua, nāwai ā, ka mutu te tangi hotuhotu a hinemoa. 
+segment_592_53|peterl|{e p u p u r i a n a r a: t o u i e: t a h i n a m a}|e pupuri ana rātou i ētahi nama. 
+segment_592_78|peterl|{e t u: t i r a m a i a n a t e: t a h i a t u r o: p u: t ŋ a t a}|e tūtira mai ana tētahi atu rōpū tāngata. 
+segment_423_133|peterl|{e f a: ŋ a: r u: m a m o e e r u a ŋ a: r u: m a n o h o h e r u: m a k a i m e t e k i: h i n i n u i r a w a a t u}|e whā ngā rūma moe, e rua ngā rūma noho, he rūma kai me te kīhini nui rawa atu. 
+segment_445_110|peterl|{i t e o n o k a r a k a k a w a: k e a t u a h a u k i t e t o a}|i te ono karaka, ka wāke atu ahau ki te toa. 
+segment_640_101|peterl|{i n o h o a t u a p a: p a: k i t o: n a t a h a}|i noho atu a pāpā ki tōna taha.'
+segment_638_32|peterl|{k o a r a p e r a t o: k u h o a n o h o t a t a i a m a: t o u e n o h o a n a i p o r i r u a}|ko arapera tōku hoa noho tata i a mātou e noho ana i porirua.
+segment_623_59|peterl|{k a: t a h i a n o: a h a u k a r ŋ o i a h a: r i a t a e k o: r e r o p e: n a: a n a k i t o: n a m a: m a:}|kātahi anō ahau ka rongo i a hāriata e kōrero pēnā ana ki tōna māmā.
+segment_577_17|peterl|{k e i k o n e i m a: t o u k a t o a i r ŋ a i t o: k a r ŋ a e t e p o: f a k ŋ a h a u k u a h u a i n a e m a: t o u k o t e p o: n u i a r ŋ i}|kei konei mātou katoa i runga i tō karanga e, te pō whakangahau kua huaina e mātou ko te pō nui a rangi. 
+segment_589_32|peterl|{n e: t e: n a: p e a k o t e: t a h i a t u h e r i t e n e i t e h ŋ a k i a i a h e i k o t a: h a: r i a t a}|'nē? tēnā pea, ko tētahi atu he rite nei te hanga ki a ia,' hei ko tā hāriata.
+segment_589_208|peterl|{a: e k e i t e p a i k a h o k i a n o: a h a u k i t e m o e}|'āe, kei te pai, ka hoki anō ahau ki te moe.'
+segment_418_2|peterl|{k i a h o r o n a: k u a r i t e n o a a t u t o: p a: p a: k i t e h a e r e k i t o: n a k u r a h e i k o: t a: m a: m a:}|kia horo nā. kua rite noa atu tō pāpā ki te haere ki tōna kura, hei kō tā māmā.
+segment_577_0|peterl|{i t e a t a o t e r a: t u a t a h i i t e k u r a k a t u: t a k i m a o k o h a: r i a t a k i a r e w i i t e t ŋ a p a h i}|i te ata o te rā tuatahi i te kura, ka tūtaki mao ko hāriata ki a rewi i te tūnga pahi.
+segment_622_9|peterl|{k i a k a h a k i a m a n a w a n u i m a: t e r ŋ a r a w a t a: t o u k a t o a e a: r a h i e m a n a a k i e t a u t o k o i r o t o i a: t a: t o u m a h i i t e: n e i r a:}|kia kaha, kia manawanui, mā te runga rawa tātou katoa e ārahi, e manaaki, e tautoko i roto i ā tātou mahi i tēnei rā.
+segment_631_6|peterl|{k o t e t a u n e: r a: h e i k o t a: n a}|'ko te tau, nē rā?' hei ko tāna. 
+segment_640_163|peterl|{e p o n o a n a a: u k o: r e r o e t i n a}|'e pono ana āu kōrero, e tina?' 
+segment_589_71|peterl|{p u r a r i p a k a k u a r o a r a: t o u e m o: h i o a n a k o t e r i: h i h u: t u t a: u a m o: t e m a: r e n a}| 'purari paka, kua roa rātou e mōhio ana ko te rīhi hūtu tāua mō te mārena.
+segment_588_38|peterl|{t e: n a: p e a k a o h o r e r e k i t e r ŋ o m a i k i o: k o u t o u r e o}|tēnā pea, ka ohorere ki te rongo mai ki ō koutou reo. 
+segment_582_24|peterl|{a: e h e i k o t a: k u m e t a k u h i: k a k a k a t o a}|'āe,' hei ko tāku me taku hīkaka katoa. 
+segment_634_72|peterl|{a r o h a m a i i t a e a k e t a: k o u r u a t o n o k i a m a: t o u ŋ a r i k u a h u: n u k u k e: m a o k o a n a h e r a k i t e: t a h i a t u k a: ŋ a i t a: m a k i}|'aroha mai. i tae ake tā kourua tono ki a mātou, engari kua hūnuku kē mao ko anahera ki tētahi atu kāinga i tāmaki. 
+segment_586_73|peterl|{k u a t u k u n a k e: m a i e r o n r a: u a k o m e r e ŋ a: f a k a a h u a i t ŋ o h i a e t e k a i t ŋ o f a k a a h u a k i a o t i e: r a: k o t a: h a: r i a t a}|kua tukuna kē mai e ron rāua ko mere ngā whakaahua i tangohia e te kaitango whakaahua kia oti ērā,' ko tā hāriata. 
+segment_589_54|peterl|{e o r a t o n u a n a t o: k u p a: p a: ŋ a r i k e i r o t o t u: r u w i: r a k e: i n a: i a n e i h e k a: t e t e h a u a:}|e ora tonu ana tōku pāpā, engari kei roto tūru wīra kē i nāianei, he kātete hauā. 
+segment_640_34|peterl|{k u a t i: m a t a a n o: a h i n e m o a k i t e h o t u h o t u}|kua tīmata anō a hinemoa ki te hotuhotu. 
+segment_590_93|peterl|{k i w i k i t o: r i a k i t e f a k a m u t u h e i t a u f a k a h o: n o r e i t a n a t o h u p a e t a h i r o: i a}|ki wikitōria ki te whakamutu hei tau whakahōnore i tana tohu paetahi rōia,
+segment_636_46|peterl|{e t a r i a a n a a h i n e m o a e a u k i t e r a t a k i a f a k a m a: t a u h i a m e h e m e a e h a p u: a n a i a}|e taria ana a hinemoa e au ki te rata kia whakamātauhia mehemea e hapū ana ia.'
+segment_586_37|peterl|{h e t i n o r e k a ŋ a: k a i m e t e p e: n e h o k i}|he tino reka ngā kai me te pēne hoki. 
+segment_592_184|peterl|{i h a e r e m a i m a: r ŋ a i t o: m a: t o u m o t o k a:}|i haere mai mā runga i tō mātou motokā. 
+segment_577_68|peterl|{k a t u: a r e w i k i t e m i h i m a i}|ka tū a rewi ki te mihi mai.
+segment_639_191|peterl|{a n n e k o a n n e e t i r o a t u a n a k i t o: n a t ŋ a: n e e t ŋ o u a t u a n a i t o: n a m a: t ŋ a}|'anne?'ko anne e tiro atu ana ki tōna tungāne, e tungou atu ana i tōna mātenga. 
+segment_638_39|peterl|{a i a r a p e r a k o r ŋ i t e k a e a o t o: m a: t o u r o: p u: k a p a h a k a i p o: n e k e}|ai, arapera, ko rangi te kaea o tō mātou rōpū kapa haka i pōneke. 
+segment_591_163|peterl|{k a: h o r e h e i k o t a: k u}|'kāhore,' hei ko tāku.
+segment_636_11|peterl|{k a t i: m a t a ŋ a: m a h i f a k a h a r a t a u}|ka tīmata ngā mahi whakaharatau.
+segment_585_50|peterl|{h e k e a n a ŋ a: r o i m a t a o h a: r i a t a i t e h a r i k o a}|heke ana ngā roimata o hāriata i te harikoa. 
+segment_587_101|peterl|{i t e t a ŋ a a t u o m a o k o p a: p a: k i t e k a: ŋ a k a p u t a ŋ a: p a: t a i a m a: m a:}|i te taenga atu o mao ko pāpā ki te kāinga ka puta ngā pātai a māmā. 
+segment_631_27|peterl|{a i k i a o r a r a: ŋ a: m i h i n u i k i a k o e k o t a: n a}|ai, kia ora rā, ngā mihi nui ki a koe,' ko tāna.
+segment_628_32|peterl|{k a k i: m a i a r o n e p u p u: a n a o: n a r o i m a t a}|ka kī mai a ron, e pupū ana ōna roimata, 
+segment_592_65|peterl|{i t e i w a k a r a k a i t e a t a k a w e h e a t u m a o k o k e r i k i t e t e i h a n a p i r i h i m a n a}|i te iwa karaka i te ata, ka wehe atu mao ko keri ki te teihana pirihimana. 
+segment_589_0|peterl|{k i a o r a t a i h o a e t e t a u k o h a: r i a t a t e k a r ŋ a m a i a p a: p a:}|'kia ora. taihoa. e te tau, ko hāriata,' te karanga mai a pāpā. 
+segment_631_43|peterl|{p a r a t i w a h i n e k o r e t a k e k o w a i i a k i t e h a e r e m a i k i k o n e i h e i k o t a: r o n e n o h o a n a}|'parati wahine koretake. ko wai ia ki te haere mai kikonei?' hei ko tā ron, e noho ana.
+segment_640_153|peterl|{i m e a m a i t o: k o u r u a p a: p a: t e t a k e i f a r a a i k o e e t i n a}|'i mea mai tō kourua pāpā te take i whara ai koe, e tina. 
+segment_640_232|peterl|{m e t a k u m o: h i o m a: r i k a h e n u i a t u i t e: r a:}|me taku mōhio mārika he nui atu i tērā. 
+segment_587_17|peterl|{k a o m a a t u a p a: p a: k i t e f i k a m e a a t u a r o h a m a i e p a i a n a}|ka oma atu a pāpā ki te awhi, ka mea atu, 'aroha mai, e pai ana. 
+segment_590_66|peterl|{k o w a i h o k i t e: r a: e w a e a m a i a n a h e m o a t a r a w a t o: k u f a k a a r o i a a u e h i k i a k e a n a i t e w a e a k i t o: k u t a r ŋ a}|ko wai hoki tērā e waea mai ana, he moata rawa, tōku whakaaro i a au e hiki ake ana i te waea ki tōku taringa.
+segment_640_110|peterl|{e m a: e k o r e r a w a a h a u e f a k a a e k i t e: n a:}|e mā, e kore rawa ahau e whakaae ki tēnā!
+segment_626_46|peterl|{m a: k u e w a e a a t u a: m a o n e i f a k a r i t ŋ a}|māku e waea atu ā mao nei whakaritenga.' 
+segment_634_80|peterl|{i t e f i t u k a r a k a k a w e h e a t u o: m a o m a n u h i r i}|i te whitu karaka, ka wehe atu ō mao manuhiri. 
+segment_588_209|peterl|{m o e m a i r a: i t e t a h a o o: t a: t o u m a: t u a t u: p u n a}|moe mai rā i te taha o ō tātou mātua tūpuna. 
+segment_589_104|peterl|{e h o a k a r o a t e w a: e a h a k e: a n a k o e i k o n e i}|'e hoa, ka roa te wā. e aha kē ana koe i konei?' 
+segment_635_16|peterl|{k o t e n u ŋ a h e k o: h i n e}|ko te nuinga he kōhine. 
+segment_637_96|peterl|{k o w a i t e: n a: t e p a: t a i a r o n}|'ko wai tēnā?' te pātai a ron.
+segment_640_27|peterl|{k a a h u a t u a h a: r i a t a k a n o h o k i t o: n a t a h a k a p u p u r i i t e r ŋ a o h i n e m o a}|ka ahu atu a hāriata, ka noho ki tōna taha, ka pupuri i te ringa o hinemoa.
+segment_589_178|peterl|{m a: o: k u h o a e t i a k i a h a u}|mā ōku hoa e tiaki ahau.
+segment_631_45|peterl|{p o k o k o: h u a r a: n i k o t a: r o n}|'pokokōhua rāni!' ko tā ron.
+segment_591_109|peterl|{k a t u: a k e t a u a r o: i a k a p a: t a i m a i}|'ka tū ake taua rōia, ka pātai mai, 
+segment_577_34|peterl|{m a i i t e r a: t a p u e h e k e m a i n e i k a t i: m a t a t a: t a: t o u a k o a k o i ŋ a: w a i a t a i ŋ a: h a k a i ŋ a: w a i a t a a: r ŋ a a r a: a t u}|mai i te rātapu e heke mai nei, ka tīmata tā tātou akoako i ngā waiata, i ngā haka, i ngā waiata ā-ringa, arā atu. 
+segment_625_46|peterl|{h e h o a t i n o t a t a r a: u a k o p a: p a: k o t a: r o n}|he hoa tino tata rāua ko pāpā,' ko tā ron.
+segment_640_58|peterl|{k a a h u p e: r a: a t u i a k i t e r u: m a k a i}|ka ahu pērā atu ia ki te rūma kai.
+segment_631_32|peterl|{i a m a: t o u e p a r a k u i h i a n a k a r ŋ o i t e: t a h i e p a: t o: t o: m a i a n a i t e k u: a h a}|i a mātou e parakuihi ana, ka rongo i tētahi e pātōtō mai ana i te kūaha.
+segment_630_76|peterl|{k o i r a: h o k i t e w i k i k a t i: m a t a ŋ a: r a: f a k a t a: o ŋ a: k u r a}|koirā hoki te wiki ka tīmata ngā rā whakatā o ngā kura.
+segment_588_111|peterl|{i t e: t a h i r a: i a m a o e k a i a n a i t e t a k u t a i k a a h u m a i t e: t a h i t a m a t a: n e p a: k e h a: e k a w e p a p a f a k a h e k e ŋ a r u a n a k i t o: m a o t a h a}|i tētahi rā i a mao e kai ana i te takutai, ka ahu mai tētahi tamatāne pākehā e kawe papa whakaheke ngaru ana ki tō mao taha. 
+segment_630_43|peterl|{i m e a m a i a r o n k u a t u k u n a a: n a p ŋ a t u k u i h o k i t e k a r a h i p i m a: t a u r ŋ a m o: ŋ a: u r i a p a: p a:}|'i mea mai a ron, kua tukuna āna pānga tuku iho ki te karahipi mātauranga mō ngā uri a pāpā.'
+segment_640_73|peterl|{k a r u: r u: a n o: a h i n e m o a k i t o: n a p a: p a:}|'ka rūrū anō a hinemoa ki tōna pāpā.
+segment_639_11|peterl|{k e i h e a r a: u a}|'kei hea rāua? 
+segment_587_76|peterl|{i k o: r e r o a t u k o e m o: t e: n e i f f a i k i e: t a h i a t u}|'i kōrero atu koe mō tēnei whawhai ki ētahi atu?' 
+segment_633_2|peterl|{e t e t a u k o k o e t e k u k u o t o: k u m a n a w a e f a k a p o n o a n a a h a u k a n o h o p u: m a u k i a k o e i r ŋ a i t e a r a e t a k a h i n e i t a: u a}|e te tau, ko koe te kuku o tōku manawa. e whakapono ana ahau ka noho pūmau ki a koe, i runga i te ara e takahi nei tāua.
+segment_637_51|peterl|{k a r e r e a t u a h a u k i t e h o p u i t e k o r o k e: r a: ŋ a r i k a h o p u m a i a h a: r i a t a i a h a u k a k i: m a i t e t a u w a i h o}|ka rere atu ahau ki te hopu i te korokē rā, engari ka hopu mai a hāriata i ahau, ka kī mai, 'te tau waiho!' 
+segment_418_10|peterl|{i k o: n e i k a f i k a m i h i a t u t e t o k o r u a r a:}|i kōnei, ka awhi, ka mihi atu te tokorua rā.
+segment_582_41|peterl|{k a m e a a t u a: e e p a: h e t i k a t a: u}|ka mea atu, 'āe, e pā. he tika tāu.'
+segment_630_33|peterl|{h e p a i t e: n a: e h a r i k o t a: f a e a a n n e}|'he pai tēnā, e hari,' ko tā whaea anne.
+segment_592_93|peterl|{k e i t e t a t a r i t o n u k i a f a k a m a: t a u r i a ŋ a: p i: t a u i r a}|kei te tatari tonu kia whakamātauria ngā pītau ira
+segment_636_119|peterl|{e p a i a n a i h a e r e m a o k i t e r a t a}|'e pai ana. i haere mao ki te rata.
+segment_632_19|peterl|{i a r o a t u i a k i t o: k o u r u a p a: p a: a h a k o a k i h e a m a o h a e r e a i k a a r u m a i i a}|i aro atu ia ki tō kourua pāpā, ahakoa ki hea mao haere ai, ka aru mai ia. 
+segment_582_42|peterl|{e o n o w i k i m a o k o p a: p a: e m a h i a n a i ŋ a i o}|e ono wiki mao ko pāpā e mahi ana i ngaio. 
+segment_592_109|peterl|{m o: t a u a t a k e e k o: r e r o h i a n e i e k o e}|mō taua take e kōrerohia nei e koe. 
+segment_588_98|peterl|{h e o i k o t a: u h e f a k a p a k a r i i a k o e a n o: e t e t a u t e k o: h i m u m a i a h a: r i a t a e f i m a i a n a i a h a u}|'heoi, ko tāu, he whakapakari i a koe anō, e te tau,' te kōhimu mai a hāriata e awhi mai ana i ahau.
+segment_628_17|peterl|{k o w a i k a m o: h i o n a: t e a h a i h u r i a i i a k i t e: n e i m a h i}|ko wai ka mōhio nā te aha i huri ai ia ki tēnei mahi? 
+segment_448_45|peterl|{k a m e n e m e n e a h a u k a k a t a k a f i m a o m e t e p a: a n o: o o: m a o ŋ u t u}|ka menemene ahau, ka kata. ka awhi mao me te pā anō o ō mao ngutu. 
+segment_590_137|peterl|{k o: r e r o m a i h e i k o t a: k u}|'kōrero mai,' hei ko tāku. 
+segment_592_219|peterl|{p e: h e a k o e h a: r i a t a}|'pēhea koe, hāriata?'
+segment_589_194|peterl|{h e r ŋ o a: a n o: a: u e r o n}|'he rongoā anō āu, e ron?'
+segment_632_15|peterl|{i a u a w a: h o k i k a: h o r e e t i k a a n a k i a h a e r e t a h i t e p a: k e h a: m e t e m a: o r i n a: r e i r a k a h a e r e h u n a k e: m a o}|i aua wā hoki, kāhore e tika ana kia haere tahi te pākehā me te māori, nā reira ka haere huna kē mao. 
+segment_638_80|peterl|{k a: h o r e a h a u e m o: h i o a n a k o t a: k u}|'kāhore ahau e mōhio ana.' ko tāku. 
+segment_636_14|peterl|{k i a o r a m a t u a k o h i n e m o a t e: n e i}|'kia ora, matua, ko hinemoa tēnei.' 
+segment_588_197|peterl|{e r e w i k o k o e t o: k u h o a t u a t a h i i t u: t a k i a h a u i t o: k u t a ŋ a m a i k i t e r o h e n e i}|'e rewi, ko koe tōku hoa tuatahi i tūtaki ahau i tōku taenga mai ki te rohe nei.
+segment_582_67|peterl|{h e t i k a m e h a e r e k o e k i t e f a r e w a: n ŋ a f a i m a: t a u r ŋ a a i}|he tika me haere koe ki te whare wānanga, whai mātauranga ai.' 
+segment_637_16|peterl|{h e o i m e h u r i t a: t o u k i ŋ a: p ŋ a t u k u i h o a m a t u a r a: n i e r a i n a: i a n e i k o t a: m a t u a h a k i}|heoi, me huri tātou ki ngā pānga tuku iho a matua rāniera i nāianei,' ko tā matua haki.
+segment_639_46|peterl|{e m o: h i o a n a i n a: i a n e i h e a h a r a: t e t a k e k a: h o r e e t a e a e a u t e w a e a a t u k i a k o u r u a k o t a: k u}|e mōhio ana i nāianei he aha rā te take kāhore e taea e au te waea atu ki a kourua,' ko tāku. 
+segment_582_143|peterl|{m e ŋ a t e k i: m a i a h a: r i a t a e h o u m a i a n a k i t e m o t o k a:}|'meinga!' te kī mai a hāriata e hou mai ana ki te motokā. 
+segment_625_4|peterl|{m o e m a i r a: e t e r ŋ a t i r a}|moe mai rā, e te rangatira. 
+segment_626_78|peterl|{p a r a t i p a k a e f a: t a u p e a k a t u k u a ŋ a: t a u r e k a r e k a n a: k o t a: k u}|'parati paka! e whā tau pea ka tukua ngā taurekareka nā?' ko tāku.
+segment_589_137|peterl|{m e t e m e a m a i e t e t a u w a i h o m a: r i k a k o i a n e i t e a: h u a o k o n e i}|me te mea mai, 'e te tau, waiho mārika, koia nei te āhua o konei.' 
+segment_592_165|peterl|{k a r ŋ o a t u i a r o n e p a: t a i a n a k i a m e r e}|ka rongo atu i a ron e pātai ana ki a mere, 
+segment_577_47|peterl|{e i a k o u t o u t e t i k ŋ a m e h e m e a k a u r u m a i k a: h o r e r a: n i}|ei a koutou te tikanga, mehemea ka uru mai, kāhore rāni. 
+segment_586_60|peterl|{k a m e a m a i a h a: r i a t a t e a: h u a n e i k u a t a e t a: u a k i t e k a: ŋ a}|ka mea mai a hāriata, 'te āhua nei, kua tae tāua ki te kāinga.'
+segment_588_103|peterl|{ŋ a r i e p a i a n a k i a m a h i k a r a t e t o n u a h a u}|engari e pai ana kia mahi karate tonu ahau. 
+segment_577_29|peterl|{k a m i h i a t u a h a: r i a t a e h o a m a: n a u m a i h a e r e m a i k i t e: n e i h u i t u a t a h i k i t e f a k a r i t e i t o: t a: t o u k a p a h a k a}|ka mihi atu a hāriata, 'e hoa mā, nau mai, haere mai ki tēnei hui tuatahi ki te whakarite i tō tātou kapa haka. 
+segment_622_40|peterl|{h a r u r u a n a t e f a r e i t e p a r a r e: m e t e u m e r e a t e h ŋ a m a: t a k i t a k i}|haruru ana te whare i te pararē me te umere a te hunga mātakitaki. 
+segment_624_52|peterl|{k a p o r o a k i a t u k i a: m a o n e i m a n u h i r i k a w e h e a t u k i t e: t a h i f a r e i f a k a r i t e a e o: k u m a: t u a m o: t o: m a o p o: m a: r e n a}|ka poroaki atu ki ā mao nei manuhiri, ka wehe atu ki tētahi whare i whakaritea e ōku mātua mō tō mao pō mārena. 
+segment_589_11|peterl|{h e n u i a: k u m a h i}|he nui āku mahi. 
+segment_584_70|peterl|{k a m e a m a i a h a: r i a t a h a e r e m a i k i t o: k u r u: m a}|ka mea mai a hāriata, 'haere mai ki tōku rūma.' 
+segment_592_159|peterl|{k o m a o k o r o n i t e r u: m a k u a f a k a r i t e a m o: k u}|ko mao ko ron i te rūma kua whakaritea mōku. 
+segment_637_73|peterl|{h a: r i a t a t e p a r a r e: a f a e a a n n e}|'hāriata!' te pararē a whaea anne.
+segment_445_196|peterl|{t o: w a i m a r i e e t e t a u t e k i: m a i a r e w i i a m a o e w a: k e a t u a n a k i t e f a r e h u i}|tō waimarie, e te tau,' te kī mai a rewi i a mao e wāke atu ana ki te whare hui.
+segment_588_60|peterl|{k a f a k a r i t e i t e m i: h i n i k a k i: a t u i a e t e f a: n a u t e a: h u a n e i k u a t i: m a t a a n o: t e t u k i t u k i o t o: n a a k e f a t u m a n a w a}|ka whakarite i te mīhini, ka kī atu ia, 'e te whānau, te āhua nei, kua tīmata anō te tukituki o tōna ake whatumanawa. 
+segment_590_38|peterl|{a: e k o w a i t e: n a:}|'āe.' ko wai tēnā?'
+segment_636_99|peterl|{h e p a i t e: n a: h i n e m o a}|'he pai tēnā, hinemoa. 
+segment_586_88|peterl|{m e h a e r e a h a u k i t e t a k o t o}|me haere ahau ki te takoto. 
+segment_592_18|peterl|{k o t e m e a n u i k i a k a u a k o e e k o: r e r o a t u k i a r o n r a: u a k o m e r e k i a m u t u r a: a n o: t o: m a h i m o: t e k o: t i}|ko te mea nui, kia kaua koe e kōrero atu ki a ron rāua ko mere, kia mutu rā anō tō mahi mō te kōti. 
+segment_592_127|peterl|{i w a e a a t u a h a u k i a r o n m a: k u i a e t i k i a t u i t e m a h i}|'i waea atu ahau ki a ron, māku ia e tiki atu i te mahi.
+segment_630_25|peterl|{e r o n h e t i k a k i a k o: r e r o k o e k i t o: t u a h i n e k e i k o n e i i a e p e i t a a n a i o: n a k o t i k a r a h e i k o: t a: k u}|'e ron, he tika kia kōrero koe ki tō tuahine. kei konei ia e peita ana i ōna kotikara,' hei kō tāku.
+segment_418_61|peterl|{k o t a u a a: h u a t ŋ a a n o: o t e f a k a t u m a t u m a}|ko taua āhuatanga anō o te whakatumatuma.
+segment_585_59|peterl|{h e t i n o r o a t e w a: e r a:}|'he tino roa te wā, e rā.'
+segment_630_16|peterl|{i t e: t a h i p o: i a m a o k o h a: r i a t a e f a k a t a: a n a i t e k a: ŋ a i m u r i i t a k u m a h i k a r a t e k a t ŋ i m a i t e w a e a}|i tētahi pō, i a mao ko hāriata e whakatā ana i te kāinga i muri i taku mahi karate, ka tangi mai te waea.
+segment_418_12|peterl|{k a n a p a a n a ŋ a: h u r u h u r u u r a o t a u a t a m a t a: n e e f i a n a i a i a}|kanapa ana ngā huruhuru ura o taua tamatāne e awhi ana i a ia.
+segment_448_12|peterl|{i t e t e k a u k a r a k a i t e r a: h o r o i k a t a e a h a u k i t e k a: ŋ a o h a: r i a t a}|i te tekau karaka i te rāhoroi, ka tae ahau ki te kāinga o hāriata.
+segment_592_7|peterl|{h o u m a i k o u r u a t e p o: h i r i a t i m u h e: n a r e i t e k i t ŋ a m a i i a m a o k o p a: p a: e k o: r e r o a n a k i t e k a i m a h i o t o: n a t a r i}|'hou mai kourua,' te pōhiri a timu hēnare i te kitenga mai i a mao ko pāpā e kōrero ana ki te kaimahi o tōna tari. 
+segment_625_1|peterl|{k a a h u t i k a k i t e t a r i o m a t u a h a k i}|ka ahu tika ki te tari o matua haki. 
+segment_630_48|peterl|{k a p e: h e a t i a e k o e k i t e r i r o m a i t e p ŋ a t u k u i h o a p a: p a: t e p a: t a i a h a: r i a t a k i t o: n a m a: m a:}|'ka pēheatia e koe ki te riro mai te pānga tuku iho a pāpā?' te pātai a hāriata ki tōna māmā.
+segment_640_67|peterl|{k o w a i t e p a: p a:}|ko wai te pāpā? 
+segment_588_104|peterl|{a n a: h e w a i m a r i e e m a u t a: t u a a n a a h a u i t o: m a o k o r e w i t u k ŋ a i t e p a r ŋ a i a i a e k a r o a n a i t e p u r a r i k a u}|anā, he waimarie e mau tātua ana ahau i tō mao ko rewi tukinga i te parenga, i a ia e karo ana i te purari kau.
+segment_630_61|peterl|{e p a i a n a h a: r i a t a k o t e m e a n u i k u a t u t u k i p a i}|'e pai ana, hāriata, ko te mea nui kua tutuki pai. 
+segment_638_15|peterl|{k o t a k u f f a i t u a t a h i k i t e t o a o o: t a u t a h i}| ko taku whawhai tuatahi ki te toa o ōtautahi.
+segment_445_104|peterl|{i t e r a: o m u r i m a i k a m a: t a k i t a k i m a: t o u i t e k e: m u p o i t u: k o h u i w a ŋ a i ŋ a: t i: m a o h a: r i a t a r a: u a k o m e r e}|i te rā o muri mai, ka mātakitaki mātou i te kēmu poitūkohu i waenga i ngā tīma o hāriata rāua ko mere. 
+segment_586_75|peterl|{k o m a o k o h a: r i a t a ŋ a: k a f a k a w a:}|ko mao ko hāriata ngā kaiwhakawā.
+segment_638_27|peterl|{i t e a t a o t e p a r a i r e k a a h u a t u a h a u k i t e p a r a k u i h i}|i te ata o te paraire ka ahu atu ahau ki te parakuihi. 
+segment_445_10|peterl|{t a m a f a k a t o i t e k o: r e r o m a i a p a: p a:}|'tama whakatoi,' te kōrero mai a pāpā.
+segment_637_91|peterl|{h e t i k a m e h o k i k i t e k a r a t e k i a t e r e a k e o: k u k o r i h ŋ a}|he tika me hoki ki te karate, kia tere ake ōku korihanga' 
+segment_582_17|peterl|{e m a: k u: t o n u a n a o: k u h u r u h u r u i t a k u t a ŋ a k i t e k i: h i n i}|e mākū tonu ana ōku huruhuru i taku taenga ki te kīhini. 
+segment_592_121|peterl|{e k e r i k o m e r e t e: n e i}|'e keri, ko mere tēnei. 
+segment_622_45|peterl|{a n a: k a p a h u: m a i t e h a k a a t e r o: p u:}|anā, ka pahū mai te haka a te rōpū. 
+segment_445_139|peterl|{k a p a: t a i a t u a h a u e r ŋ i k u a k a i k e: k o e}|ka pātai atu ahau, 'e rangi, kua kai kē koe?'
+segment_638_104|peterl|{e h a r a k o e i t e: t a h i k a i h o k o t a p u t a p u t e p a: t a i a: h u a f a k a t u: p a t o a t e k o r o u a r a:}|ehara koe i tētahi kaihoko taputapu?' te pātai āhua whakatūpato a te koroua rā. 
+segment_592_146|peterl|{k a: h o r e r a: t o u e m o: h i o a n a h e a h a t e t a k e}|kāhore rātou e mōhio ana he aha te take, 
+segment_623_44|peterl|{t e: n a: k o e m a t u a h a k i}|tēnā koe, matua haki. 
+segment_577_12|peterl|{p o r o p o r o a k i a n a r a: e h o a k i a k o e i t e: n e i p o:}|poroporoaki ana rā e hoa ki a koe, i tēnei pō.
+segment_634_82|peterl|{k o m a: t o u n a h e k o m e r e k o f a e a a n n e m a: e n o h o a n a}|ko mātou nahe, ko mere, ko whaea anne mā e noho ana.
+segment_631_83|peterl|{k a h a e r e t o n u a: n a k o: r e r o h e p a i t e r ŋ o i t e: r a: k o t e m e a n u i k u a f a i n a t i a ŋ a: t o k o r u a r a: k o t a: k u}|ka haere tonu āna kōrero, 'he pai te rongo i tērā. ko te mea nui, kua whainatia ngā tokorua rā,' ko tāku.
+segment_423_70|peterl|{ŋ a r i a p a: p a: e m u r a m a i a n a o: n a k a r u i t o: n a o h o r e r e i t o: k u p a h u: t ŋ a}|engari a pāpā, e mura mai ana ōna karu i tōna ohorere i tōku pahūtanga.
+segment_589_209|peterl|{k a w e h e a t u a r o n}|ka wehe atu a ron.
+segment_640_69|peterl|{k u a t i n o k a h a a t u t e t ŋ i a h i n e m o a}|kua tino kaha atu te tangi a hinemoa.
+segment_445_59|peterl|{p u k u r i r i a n a m a o k o r e w i k a a h u t o: t i k a a t u}|pukuriri ana mao ko rewi, ka ahu tōtika atu.
+segment_632_4|peterl|{k a p a: t a i a t u a r o n k i a f a e a a n n e e h i a h i a a n a a h a u k i a m o: h i o k i t o: t u: t a k i t ŋ a i a p a: p a:}|ka pātai atu a ron ki a whaea anne, 'e hiahia ana ahau kia mōhio ki tō tūtakitanga i a pāpā. 
+segment_627_53|peterl|{k o w a i r a: k a m o: h i o t e t a k e e f a i n e i i a i t e: n e i h u a r a h i}|ko wai rā ka mōhio te take e whai nei ia i tēnei huarahi.'
+segment_591_125|peterl|{h e t ŋ a t a k a h a k o e k i t e i n u e t e t a u}|'he tangata kaha koe ki te inu, e te tau? 
+segment_577_93|peterl|{e h a r a t e: n e i m a h i t e f a k a w a: i t e m a h i ŋ a: w a r i}|ehara tēnei mahi, te whakawā, i te mahi ngāwari. 
+segment_592_16|peterl|{k o k e r i t o: n a ŋ o a}|ko keri tōna ingoa. 
+segment_640_5|peterl|{h o u m a i k i t e r u: m a n o h o h a: r i a t a h e p a i h o k i k i t e k i t e i a k o e}|'hou mai ki te rūma noho, hāriata. he pai hoki ki te kite i a koe. 
+segment_626_74|peterl|{h e o i a n o: t o: r a o h e a: r a i a t u i a: n a f a n a m e k e}|heoi anō, tō rao he ārai atu i āna whanameke. 
+segment_638_164|peterl|{k a h o a t u e a u t e f a k a a h u a o t o: m a o k o h a: r i a t a n e i m a: r e n a}|'ka hoatu e au te whakaahua o tō mao ko hāriata nei mārena.
+segment_590_73|peterl|{a n a: i t e: r a: p o: k a p a h u: h e i k o t a: n a}|anā, i tērā pō, ka pahū,' hei ko tāna.
+segment_623_50|peterl|{h o r o t o n u t e r u: r u: a t u a f a e a a n n e i t o: n a m a: t ŋ a}|horo tonu te rūrū atu a whaea anne i tōna mātenga.
+segment_445_181|peterl|{k a: h o r e k a k o: r e r o a t u a h a u m o: t a: m a o f f a i i t e: r a: p o:}|'kāhore.'ka kōrero atu ahau mō tā mao whawhai i tērā pō. 
+segment_591_95|peterl|{t e a: h u a n e i e t e t a u h e t i n o p a: t a t a k o e k i ŋ a: t o k f a: n e i}|'te āhua nei, e te tau, he tino pātata koe ki ngā tokowhā nei. 
+segment_423_38|peterl|{i i a m a r a m a k a n o h o m a: t o u k i t e w a: n ŋ a i o: m a: t o u w a w a t a}|i ia marama, ka noho mātou ki te wānanga i ō mātou wawata. 
+segment_591_7|peterl|{k o o: k u m a: t u a i h a e r e m a i k i t e t a ŋ a r e r e r ŋ i k i t e p o r o a k i i a m a o k o h a: r i a t a}|ko ōku mātua i haere mai ki te taunga rererangi ki te poroaki i a mao ko hāriata.
+segment_629_16|peterl|{m e t e m e a i m o e t o: k u t ŋ a: n e i t e f a e a k e: k e: o t e t a u}|me te mea i moe tōku tungāne i te whaea kēkē o te tau. 
+segment_582_144|peterl|{m o: r e n a k o u r u a t e: n a: h o k i k o e h a: r i a t a}|'mōrena kourua. tēnā hoki koe, hāriata. 
+segment_640_103|peterl|{e p a i a n a ŋ a r i i h i a h i a ŋ a: r a t a k i a n o h o a t u i a n a: t e m e a h e h o: h o n u t e m o t ŋ a o t o: n a r a e m e t e m a: h a r a h a r a m o: t o: n a f i t ŋ a r o r o}|'e pai ana, engari i hiahia ngā rata kia noho atu ia, nā te mea he hōhonu te motunga o tōna rae me te māharahara mō tōna whitinga roro.'
+segment_445_200|peterl|{t o k o r i m a r a: t o u k e i t o: n a f a: n a u}|tokorima rātou kei tōna whānau.
+segment_635_23|peterl|{t e: n a: r a: k o u r u a t e: n a: h o k i k o e m a t u a t e t a u}|'tēnā rā kourua. tēnā hoki koe, matua te tau. 
+segment_448_116|peterl|{k o k o u t o u e h i a h i a a n a k i t e h a e r e k i o: k o u t o u h o a f a k a m a: r a m a a t u f a k a m o: h i o a t u k i ŋ a: p o u a k o k e i h e a k o u t o u}|ko koutou e hiahia ana ki te haere ki ō koutou hoa, whakamārama atu, whakamōhio atu ki ngā pouako kei hea koutou.
+segment_587_104|peterl|{a n a: e r u a ŋ a: t ŋ a t a k u a m a t e i m u r i a t u}|anā, e rua ngā tāngata kua mate i muri atu. 
+segment_423_79|peterl|{i t e t i n o f a k a m a: h o k i i t o: m a o h a e r ŋ a k i t e t a r i t o k o i t e o r a k i t e p a t i p a t i m o n i h e i u t u n a m a h e i h o k o k a i m a: t a: t o u}|i te tino whakamā hoki i tō mao haerenga ki te tari toko i te ora ki te patipati moni hei utu nama, hei hoko kai mā tātou. 
+segment_591_97|peterl|{e a k i a k i a n a t e k a f i u i t e k a i m a t a a r a t a: t e r o: i a o ŋ a: t ŋ a t a m a u h e r e}|'e akiaki ana te kaiwhiu i te kaimataara,' tā te rōia o ngā tāngata mauhere.
+segment_586_95|peterl|{a u a h o k i t e f a k a u t u a h a: r i a t a}|'aua hoki,' te whakautu a hāriata.
+segment_591_71|peterl|{k a p a i}|'ka pai. 
+segment_640_161|peterl|{k a r e r e a t u a h a u k i t e k o k ŋ a o t e p a p a m a h i t u k i a t u a i t o: k u m a: t ŋ a}|ka rere atu ahau ki te kokonga o te papa mahi, tuki atu ai tōku mātenga. 
+segment_445_16|peterl|{a: a a t e a h a h e i k o t a: k u k i a m a: m a:}|'āaa, te aha?' hei ko tāku ki a māmā.
+segment_577_33|peterl|{k i a m o: h i o m a i k o u t o u h e w a: t a u m a h a k e i m u a i a t a: t o u}|kia mōhio mai koutou, he wā taumaha kei mua i a tātou. 
+segment_588_196|peterl|{k a t u: a h a u k a t u k u k u p u p o r o p o r o a k i k i t o: k u h o a}|ka tū ahau, ka tuku kupu poroporoaki ki tōku hoa, 
+segment_582_106|peterl|{k a u a e w e h e n o a}|kaua e wehe noa.'
+segment_634_18|peterl|{k a: h o r e i r o a k a p u t a m a i a m e r e e k a w e a n a i a r ŋ i m a: r i e}|kāhore i roa, ka puta mai a mere e kawe ana i a rangi- mārie. 
+segment_630_9|peterl|{k o a h a u t e: n a: k o t a: k u e t i r o a n a k i t e p a: n u i m o: t e f a k a t a e t a e a: m o t u i k i r i k i r i r o a a t e m a r a m a o o k e t o p a e h e k e m a i n e i}|'ko ahau tēnā,' ko tāku, e tiro ana ki te pānui mō te whaka- taetae ā-motu i kirikiriroa a te marama o oketopa e heke mai nei. 
+segment_589_80|peterl|{k a h a e r e m a: t o u m a: r ŋ a i t e m o t o k a: p a r a h u t i h u t i o r o n}|ka haere mātou mā runga i te motokā parahutihuti o ron. 
+segment_634_86|peterl|{h e t i k a t a: u e f a e a t e f a k a u t u a r o n}|'he tika tāu, e whaea,' te whakautu a ron. 
+segment_591_29|peterl|{k a w a: k e a t u k i t e: t a h i k a: ŋ a a: h u a p a: t a t a i t e t e i h a n a}|ka wāke atu ki tētahi kāinga āhua pātata i te teihana.'
+segment_636_41|peterl|{k u a k o: r e r o a t u i a k i o: n a m a: t u a t a k u p a: t a i a t u}|'kua kōrero atu ia ki ōna mātua?' taku pātai atu. 
+segment_635_118|peterl|{k o e: r a: e h a k a m a i a n a}|ko ērā e haka mai ana.
+segment_589_119|peterl|{m e k o e h o k i e t e t a u}|'me koe hoki, e te tau. 
+segment_635_99|peterl|{k i o: k u n e i f a k a a r o k u a t i n o t a t a ŋ a: t o k o r u a n a: t e k i: m a i a h a: r i a t a}|'ki ōku nei whakaaro, kua tino tata ngā tokorua nā,' te kī mai a hāriata.
+segment_632_79|peterl|{h e t i n o h o a m a o i t e w a: e h a e r e t o n u a n a k i t e k u r a}|he tino hoa mao i te wā e haere tonu ana ki te kura. 
+segment_588_42|peterl|{k o o: n a r o i m a t a e m a r ŋ i n o a a n a}|ko ōna roimata e maringi noa ana.
+segment_640_229|peterl|{t e m o e i t e: t a h i h e k o: h i n e t a t a k e: t o: n a h e a h a k e: t e: n e i t u: m o m o m a h i}|te moe i tētahi he kōhine tata kē tōna! he aha kē tēnei tūmomo mahi?'
+segment_418_29|peterl|{k a m e n e a t u a h a u k a m e n e m a i a h a: r i a t a}|ka mene atu ahau, ka mene mai a hāriata.
+segment_445_62|peterl|{w a i h o h e i a h a r a: t o u h e t a u r e k a r e k a n a h e r a: t o u h e i k o t a: m e r e}|waiho! hei aha rātou! he taurekareka nahe rātou,' hei ko tā mere.
+segment_591_162|peterl|{i t a u a p o: k a: h o r e a h a u e t i n o k o a a n a ŋ a r i i m e a m a i a h a: r i a t a h e t i n o p a i a k u f a k a u t u k i ŋ a: p a: t a i a ŋ a: r o: i a}|i taua pō, kāhore ahau e tino koa ana, engari i mea mai a hāriata, 'he tino pai aku whakautu ki ngā pātai a ngā rōia.' 
+segment_445_112|peterl|{k o t e: t a h i o ŋ a: k o r o k e: n e i e h i k i a n a i o: n a r ŋ a r ŋ a h e i a: r a i i t o: n a m a: t ŋ a}|ko tētahi o ngā korokē nei e hiki ana i ōna ringaringa hei ārai i tōna mātenga. 
+segment_639_116|peterl|{i e k e p a n u k u a r ŋ i i t a n a f f a i}|i eke panuku a rangi i tana whawhai. 
+segment_592_76|peterl|{k a p o k o ŋ a: r a m a o t a u a t a h a}|ka poko ngā rama o taua taha.
+segment_587_33|peterl|{k i a o r a f a e a r ŋ i t e f a k a h o k i a h a: r i a t a}|'kia ora, whaea rangi,' te whakahoki a hāriata. 
+segment_418_78|peterl|{k a: h o r e p a: e r u e r a t e f a k a u t u a t a m a}|kāhore, pā eruera te whakautu a tama.
+segment_632_55|peterl|{t o k o o n o m a: t o u i r e i r a t o k o r i m a m a: t o u h e p a: k e h a: k o t a h i t e m a: o r i}|tokoono mātou i reira. tokorima mātou he pākehā, kotahi te māori.
+segment_588_163|peterl|{k o h a: r i a t a e t u: m a i a n a i t e k u: a h a e h o t u h o t u a n a e p u p u r i a n a i t e: t a h i f a k a a h u a ŋ a r i t e: m o: h i o k o w a i}|ko hāriata e tū mai ana i te kūaha, e hotuhotu ana, e pupuri ana i tētahi whakaahua, engari tē mōhio ko wai.
+segment_630_20|peterl|{t e n u ŋ a o t e w a: k e i t e m a h i m a o i a p o: i a p o:}|te nuinga o te wā, kei te mahi mao ia pō, ia pō. 
+segment_588_204|peterl|{a h a k o a k u a t u: t a k i k o e k i a r a: u a h e t i k a m e h a e r e t a: u a k i t e t i r o k i t o: k u r o h e ŋ a: p u h i n u i t o n u h e i k o t a: k u}|ahakoa kua tūtaki koe ki a rāua, he tika me haere tāua ki te tiro ki tōku rohe, ngāpuhi nui tonu,' hei ko tāku.
+segment_628_71|peterl|{k a h u r i a t u a h a u k i t o: k u h o a k a p a: t a i a t u k a r e r e h i r a h i r a}|ka huri atu ahau ki tōku hoa, ka pātai atu, 'karere hirahira?'
+segment_639_3|peterl|{e r ŋ i k a u a e p e: n a:}|'e rangi. kaua e pēnā. 
+segment_588_17|peterl|{a: e ŋ a r i k e i r ŋ a i t e m a n a p o u h i k o i t e h o: h i p e r e i p a p a i o e a}|'āe, engari kei runga i te manapou hiko i te hōhipere i papaioea.'
+segment_589_50|peterl|{i a m a o k o r o n e t a r a i w a a n a k i t e k a: ŋ a k a k o: r e r o a t u a h a u m o: o: k u h o a}|i a mao ko ron e taraiwa ana ki te kāinga, ka kōrero atu ahau mō ōku hoa. 
+segment_590_104|peterl|{k o o: k o u r u a m a: t a u r ŋ a h e m a h i a: p u k a p u k a a: w a i h ŋ a f a r e h e i k o t a: n a}|ko ō kourua mātauranga he mahi ā-pukapuka, ā-waihanga whare,' hei ko tāna.
+segment_589_192|peterl|{k a h o m a i h e k e: n e p i a k i a m a o k a i n u m i a k a t o a t i a}|ka homai he kēne pia ki a mao. ka inumia katoatia. 
+segment_636_24|peterl|{k i: h a i i r o a i m u r i a t u i t e h f e h a: o r a k a p a: t o: t o: m a i a h i n e m o a i t e k u: a h a}|kīhai i roa i muri atu i te hāwhe hāora, ka pātōtō mai a hinemoa i te kūaha. 
+segment_626_35|peterl|{k a: t a h i k a r ŋ o i t e h ŋ a m a: t a k i e u m e r e a n a}|kātahi ka rongo i te hunga mātaki e umere ana.
+segment_448_55|peterl|{k a n o h o m a: t o u k a k o: r e r o m o: o: m a: t o u f a: n a u}|'ka noho mātou, ka kōrero mō ō mātou whānau. 
+segment_623_40|peterl|{i t e p o: o t e m a n e k a h a e r e m a o k o h a: r i a t a k i t o: f a e a a n n e f a r e}|i te pō o te mane ka haere mao ko hāriata ki tō whaea anne whare. 
+segment_590_150|peterl|{i n u a n a p a k i p a k i a n a m a: t o u k a t o a}|inu ana, pakipaki ana mātou katoa.
+segment_626_80|peterl|{h e p a i t e: n a: e h a r i h e i k o n a: e t o: k u t a u e f a k a t a r e a n a i t e w a e a}|'he pai tēnā, e hari. hei konā, e tōku tau,' e whakatare ana i te waea. 
+segment_637_85|peterl|{k a f a k a m a: r a m a h i a a t u e r o n t e m a h i a ŋ a: k o r o k e: r a:}|ka whakamāramahia atu e ron te mahi a ngā korokē rā. 
+segment_629_50|peterl|{k o w a i t e: r a: t e k i: a h a: r i a t a i a m a o e h o u a t u a n a k i t e m o: t e: r a}|'ko wai tērā?' te kī a hāriata, i a mao e hou atu ana ki te mōtēra.
+segment_633_86|peterl|{i t o: k u k i t ŋ a i t o: n a k a n o h i p a: p o: u r i m o: h i o t o n u a t u h e t u: a: h u a t i n o h o: h o n u h e o i k a k o: h i m u m a i r o n}|i tōku kitenga i tōna kanohi pāpōuri mōhio tonu atu he tūāhua tino hōhonu, heoi ka kōhimu mai ron. 
+segment_582_75|peterl|{k a: h o r e h o k i a h a u e h i a h i a a n a m a: m a: m a: a: k u n a m a e u t u}|kāhore hoki ahau e hiahia ana mā māmā āku nama e utu. 
+segment_632_20|peterl|{n a: w a i n a: w a i k a m o: h i o a h a u e t i n o h a e a n a i a k i a m a o k o r a: n i e r a}|nāwai, nāwai, ka mōhio ahau e tino hae ana ia ki a mao ko rāniera. 
+segment_592_30|peterl|{k o p a: p a: r a: u a k o m a: m a: i m u a}|ko pāpā rāua ko māmā i mua. 
+segment_423_54|peterl|{n a: w a i a: k a h o: h a: o: k u m a: t u a k i a h a u}|nāwai ā, ka hōhā ōku mātua ki ahau. 
+segment_588_166|peterl|{e t e t a u k a: h o r e a: u t o k o w a e t a: h a: r i a t a}|'e te tau, kāhore āu tokowae!' tā hāriata. 
+segment_624_31|peterl|{k u a w e h e k e: a t u a r o n k i t e a r u i ŋ a: m a: h ŋ a e o m a o m a h a e r e a n a i w a ŋ a i ŋ a: k o: h a t u i t e u r u p a:}|kua wehe kē atu a ron ki te aru i ngā māhanga e omaoma haere ana i waenga i ngā kōhatu i te urupā.
+segment_589_82|peterl|{e h o a k u a r i t e k o e t e p a: t a i m a i a r o n}|'e hoa, kua rite koe?' te pātai mai a ron. 
+segment_628_65|peterl|{i t e i w a k a r a k a k a w a e a a t u a h a u k i a m a t u a h a k i}|i te iwa karaka, ka waea atu ahau ki a matua haki. 
+segment_640_76|peterl|{k u a h i k i k e: t e r ŋ a o t o: r a o p a: p a: k i t e m e k e i a h i n e m o a}|'kua hiki kē te ringa o tō rao pāpā ki te meke i a hinemoa. 
+segment_640_35|peterl|{k o t o: n a f a e a h o k i k u a t i: m a t a k i t e t ŋ i}|ko tōna whaea hoki kua tīmata ki te tangi. 
+segment_636_21|peterl|{k a t u: t a k i t a: u a k e i t e p a i t e: n a: k a t a t a r i m a i m o: u}|ka tūtaki tāua, kei te pai tēnā. ka tatari mai mōu.'
+segment_582_79|peterl|{k a: h o r e e: n e i f a k a a r o i t a u k i t o: k u h i n ŋ a r o}|kāhore ēnei whakaaro i tau ki tōku hinengaro. 
+segment_632_74|peterl|{e o n o o: u t a u k a m a t e a k a r a n i m a: h a: r i a t a n a: n a t o: n a f a r e i w a i h o m a i m o: t a: u a}|e ono ōu tau, ka mate a karanimā hāriata. nāna tōna whare i waiho mai mō tāua.' 
+segment_639_40|peterl|{e m o: h i o a n a a h a u k i t e: r a: r e o ŋ a r i k a: h o r e i f a k a p o n o}|e mōhio ana ahau ki tērā reo engari, kāhore i whakapono. 
+segment_638_51|peterl|{k a f a i a t u i a k o e e t e t a u t e k i: m a i a a r a p e r a k a k a i p a r a k u i h i m a: t o u}|'ka whai atu i a koe, e te tau,' te kī mai a arapera ka kai parakuihi mātou.
+segment_588_86|peterl|{h e a h a t e m a t e e h a: r i h e i k o t a: k u}|'he aha te mate, e hāri?' hei ko tāku.
+segment_635_78|peterl|{k a t i r o a t u m a o k o h a: r i a t a m e t a: m a o m o: h i o h e k a e a f a i m a n a r a o i w a ŋ a i t e r o: p u: n e i}|ka tiro atu mao ko hāriata me tā mao mōhio he kaea whai mana rao i waenga i te rōpū nei. 
+segment_589_125|peterl|{k a w e h e a t u m a o}|ka wehe atu mao.
+segment_631_2|peterl|{a n a: i t e a h i a h i k a h a e r e m a: t o u k o r o n k o h a: r i a t a}|anā, i te ahiahi ka haere mātou ko ron, ko hāriata. 
+segment_577_91|peterl|{k u a t a e m a i t e f a k a t a u a ŋ a: k a f a k a w a: k i t e p a: h o m a i i ŋ a: f i r ŋ a m o: ŋ a: f a k a t a e t a e k a p a h a k a}|kua tae mai te whakatau a ngā kaiwhakawā ki te pāho mai i ngā whiringa mō ngā whakataetae kapa haka.
+segment_423_32|peterl|{e r u a ŋ a: m a h i a t o: k u p a: p a:}|e rua ngā mahi a tōku pāpā. 
+segment_587_30|peterl|{e p a i a n a k i a h a e r e a t u a h a u}|e pai ana kia haere atu ahau? 
+segment_588_41|peterl|{k a w a i a t a a h a: r i a t a i t a k u w a i a t a ŋ a: k a u n u i}|ka waiata a hāriata i taku waiata ngākaunui. 
+segment_587_43|peterl|{e t i k a a n a t e: n e i}|e tika ana tēnei?'
+segment_445_198|peterl|{k o i a n e i t e a: h u a o t o: k u t i n o h o a a r e w i}|koia nei te āhua o tōku tino hoa, a rewi. 
+segment_445_75|peterl|{k o ŋ a: t a: k a r o m a: ŋ a: k o: h i n e h e p o i t u: k o h u m e t e h a u p o: r o}|ko ngā tākaro mā ngā kōhine, he poitūkohu me te haupōro. 
+segment_591_78|peterl|{h e a h a a i}| 'he aha ai?'
+segment_638_158|peterl|{k a p u t a t e p a: t a i a t e m a t u a o f a e a a n n e e t e t a u k i o: u n e i f a k a a r o k a h i a h i a a a n n e r a: u a k o h a: r i a t a k i t e t u: t a k i i a m a o}|ka puta te pātai a te matua o whaea anne, 'e te tau, ki ōu nei whakaaro ka hiahia a anne rāua ko hāriata ki te tūtaki i a mao?' 
+segment_625_31|peterl|{h e p a: t a i a: k o u t o u k a r u: r u: k a t o a m a: t o u}|'he pātai ā koutou?' ka rūrū katoa mātou. 
+segment_627_66|peterl|{t a i h o a a k e k e i k o n e i a r o n}|taihoa ake, kei konei a ron.' 
+segment_634_21|peterl|{k a n u i t e o r a f a e a h a: r i a t a}|'ka nui te ora, whaea hāriata.' 
+segment_640_61|peterl|{k a: h o r e a h i n e m o a i f a k a u t u a t u}|kāhore a hinemoa i whakautu atu. 
+segment_592_49|peterl|{a: p o: p o: k a h a e r e k o e k i t e t e i h a n a p i r i h i m a n a k i t e f a k a a t u m e h e m e a e m o: h i o a n a k o e k i ŋ a: t ŋ a t a e f a k a p a e t i a a n a k o r a: t o u ŋ a: k a i k o: h u r u}|'āpōpō, ka haere koe ki te teihana pirihimana ki te whakaatu mehemea e mōhio ana koe ki ngā tāngata e whakapaetia ana ko rātou ngā kaikōhuru. 
+segment_582_74|peterl|{k a: h o r e a h a u e h i a h i a a n a k i t e t o n o m o: t e m o n i t a u r e w a a: a: k ŋ a}|kāhore ahau e hiahia ana ki te tono mō te moni taurewa ā-ākonga. 
+segment_629_53|peterl|{i m e a m a i t e r a t a k u a t u k u n a a t u h e i p u t o t o k i a f a k a m a: t a u r i a}|i mea mai te rata kua tukuna atu he ipu toto kia whakamātauria. 
+segment_590_83|peterl|{k a: h o r e a h a u e f a k a p o n o i t a k u k i t ŋ a i a r o n h e t ŋ a t a k o: k i r i k a u p a p a p e: n e i}|'kāhore ahau e whakapono i taku kitenga i a ron he tangata kōkiri kaupapa pēnei. 
+segment_632_3|peterl|{t e r a w e h o k i o ŋ a: k o: r e r o i f a k a t a k o t o r i a e t e f a: n a u}|te rawe hoki o ngā kōrero i whakatakotoria e te whānau. 
+segment_635_87|peterl|{k a k a r ŋ a m a i t e: t a h i o t e r o: p u: p e: h e a t o: h a k a e r ŋ i}|ka karanga mai tētahi o te rōpū, 'pēhea tō haka, e rangi?' 
+segment_588_131|peterl|{k a: h o r e i m a u t i k a k i r a r o i o: k u k e: k e: k a h ŋ a a t u a h a u k i t e p a p a}|kāhore i mau tika ki raro i ōku kēkē, ka hinga atu ahau ki te papa. 
+segment_589_39|peterl|{e p e: r a: k a t o a a n a ŋ a: w a: h i n e o a o t e a r o a}|e pērā katoa ana ngā wāhine o aotearoa?' 
+segment_448_74|peterl|{t a u h o k i k o e e t e t a u k o t a n a f a k a h o k i}|'tau hoki koe, e te tau,' ko tana whakahoki.
+segment_626_67|peterl|{t u k u n a a t u t a k u a r o h a k i t e f a: n a u a r o n}|tukuna atu taku aroha ki te whānau a ron. 
+segment_632_51|peterl|{k a: h o r e a h a u i m e a a t u k i t o: p a: p a: n a: t e m e a k a: h o r e a h a u i m o: h i o i ŋ a r o a t u i a k i h e a}|kāhore ahau i mea atu ki tō pāpā, nā te mea, kāhore ahau i mōhio i ngaro atu ia ki hea.
+segment_586_84|peterl|{h o r o t o n u t o: n a k a p o a k e k o o: n a r ŋ a e w i r i w i r i a n a}|horo tonu tōna kapo ake, ko ōna ringa e wiriwiri ana.
+segment_629_20|peterl|{p e: r a: a n o: i a k o e e m a: h a r a h a r a t o n u a n a t a n a f a k a u t u}|'pērā anō i a koe, e māharahara tonu ana,' tana whakautu. 
+segment_445_141|peterl|{t a i h o a h e i k o t a: k u m a: k u a r e w i e w a e a a t u k i t e m a u k a i m a i m a: t a: u a}|'taihoa,' hei ko tāku.'māku a rewi e waea atu ki te mau kai mai mā tāua. ' 
+segment_622_4|peterl|{h e r o a t a: t o u e f a k a p a u k a h a a n a m o: t e: n e i r a:}|he roa tātou e whakapau kaha ana mō tēnei rā. 
+segment_632_88|peterl|{e m a: e h i a h i a a n a k o e k i t e t u: t a k i i t o: f a: n a u k o t a: k u}|'e mā, e hiahia ana koe ki te tūtaki i tō whānau?' ko tāku. 
+segment_589_193|peterl|{k o m a: t o u k a t o a e k a t a a n a e m i h i a n a e f a k a n u i a n a i a r o n}|ko mātou katoa e kata ana, e mihi ana, e whakanui ana i a ron.
+segment_592_57|peterl|{k o t e m e a n u i k i a t i n o m o: h i o k i a t i n o f a k a p o n o k o e k o ŋ a: t ŋ a t a k a t o h u a a t u k o a u a t ŋ a t a i f f a i k o u r u a k o r o n}|ko te mea nui, kia tino mōhio, kia tino whakapono koe ko ngā tāngata ka tohua atu, ko aua tāngata i whawhai kourua ko ron.
+segment_637_48|peterl|{k a m e a m a i t e: t a h i e n o h o a n a i k o: a t u i a m a: t o u e t i k a a n a n a: t e t o k o r u a n a: i t i: m a t a t e: n e i n a: r a r u r a r u}|ka mea mai tētahi e noho ana i kō atu i a mātou, 'e tika ana, nā te tokorua nā i tīmata tēnei nā raruraru.'
+segment_591_175|peterl|{k a p a n a i a k o u t o u k i w a h o k i t e k o r e e f a k a m u t u a t e t u r i t u r i}| ka panaia koutou ki waho ki te kore e whakamutua te turituri!
+segment_586_74|peterl|{i t e a t a t o n u k a h a e r e a h a u k i t e t a: i ŋ a: f a k a a h u a}|i te ata tonu, ka haere ahau ki te tā i ngā whakaahua. 
+segment_632_57|peterl|{k a: h o r e a h a u i f a k a a e a n a: k a m e a m a i r a: u a k i t e k o r e a h a u e t u k u a t u i a k o e h e i p e: p i f ŋ a i k a n o h o r a: w a h o a h a u}|kāhore ahau i whakaae, anā, ka mea mai rāua, 'ki te kore ahau e tuku atu i a koe hei pēpi whāngai, ka noho rāwaho ahau. 
+segment_445_67|peterl|{k a h o h o r o t o n u t a k u p e k e a k e m e t a k u a h u a t u k i t e m e k e}|ka hohoro tonu taku peke ake me taku ahu atu ki te meke
+segment_636_115|peterl|{m a: h e t i n o p a i k i t e k i t e i a k o e k o t a: h a: r i a t a}|'mā! he tino pai ki te kite i a koe,' ko tā hāriata.
+segment_591_58|peterl|{i t e p a p a}|'i te papa.'
+segment_640_136|peterl|{e h a e r e a n a i a k i t e t e i h a n a p i r i h i m a n a}|e haere ana ia ki te teihana pirihimana.' 
+segment_640_186|peterl|{k o h i n e m o a r a: u a k o t i n a e t u n u a n a i ŋ a: k a i m a: r a: t o u}|ko hinemoa rāua ko tina e tunu ana i ngā kai mā rātou.
+segment_588_55|peterl|{k o t e t i k ŋ a k o t e: n e i t o: t a: u a r a: t u a t a h i i w i k i t o: r i a}|ko te tikanga, ko tēnei tō tāua rā tuatahi i wikitōria. 
+segment_589_159|peterl|{a u a h o k i i a a u e w a: k e a t u a n a k i t e t e r e i n a k a t u: t a k i a u k i a r a: t o u i t e k a u h ŋ a r a r o}|'aua hoki. i a au e wāke atu ana ki te tereina, ka tūtaki au ki a rātou i te kauhanga raro. 
+segment_448_93|peterl|{k a m e a m a i k a: h o r e a n o: k o u r u a k i a r ŋ o i a i t u a: a r ŋ i i t e p o: r a:}|ka mea mai, 'kāhore anō kourua kia rongo, i aituā a rangi i te pō rā.'
+segment_639_205|peterl|{k a h u r i k a m e a a t u a f a e a a n n e k o h a: r i a t a t e: n e i t o: i r a: m u t u a r a: t e h o a p u: m a u a t e t a u}|ka huri, ka mea atu a whaea anne, 'ko hāriata tēnei, tō irāmutu, arā, te hoa pūmau a te tau.
+segment_640_60|peterl|{m a i r a: a n o: i m e a a t u a h a u h e t i n o h a r a t e: n e i a n a: k i a k a u a k o u r u a k o t o: t e i n a e f a i i t e: n e i h u a r a h i k o t a: t o: n a p a: p a:}|mai rā anō, i mea atu ahau he tino hara tēnei, anā, kia kaua kourua ko tō teina e whai i tēnei huarahi,' ko tā tōna pāpā. 
+segment_445_32|peterl|{h e p a: k e h a: t o: n a m a: m a: h e m a: o r i t o: n a p a: p a:}|he pākehā tōna māmā, he māori tōna pāpā. 
+segment_638_163|peterl|{e t i k a a n a m e h o k i a h a u k i t o: k u w a: h i n o h o k i t e f a k a r i t e m o: a: k u f f a i k a r a t e m o: a: p o: p o:}|e tika ana me hoki ahau ki tōku wāhi noho ki te whakarite mō āku whawhai karate mō āpōpō. 
+segment_640_180|peterl|{m a: n a e k o: r e r o a t u k i a p a: p a: m o: t a n a h e:}|māna e kōrero atu ki a pāpā mō tana hē. 
+segment_588_33|peterl|{p e: h e a t e k i n o o t e f a r a o t e t a u e r a t a t i: p e n e t e p a: t a i a t o: k u p a: p a:}|'pēhea te kino o te whara o te tau, e rata tīpene?' te pātai a tōku pāpā.
+segment_640_106|peterl|{h e a h a a: n a k o: r e r o k i a k o e}|he aha āna kōrero ki a koe? 
+segment_637_58|peterl|{k o i a n e i t e t a k e m o: t e: r a:}|'koia nei te take mō tērā. 
+segment_631_48|peterl|{k i a o r a k o m e r e t e: n e i}|'kia ora, ko mere tēnei. 
+segment_591_10|peterl|{a: e}|'āe.'
+segment_588_136|peterl|{k o o: n a r o i m a t a e m a r ŋ i n o a a n a i o: n a p a: p a: r ŋ a}|ko ōna roimata e maringi noa ana i ōna pāpāringa. 
+segment_627_7|peterl|{e w a e a a t u a n a a h a u k i a m a: m a: k i t e f a k a r i t e h e w a: k i a h u i t a h i t a: t o u}|e waea atu ana ahau ki a māmā ki te whakarite he wā kia hui tahi tātou.'
+segment_636_48|peterl|{k a t i n o r i r i r a o k i t e k o r e a h i n e m o a e f a: k i a t u k o t a: k u}|ka tino riri rao ki te kore a hinemoa e whāki atu,' ko tāku.
+segment_588_133|peterl|{o h o r e r e a n a a h a: r i a t a k i t a k u f e k e a t u}|ohorere ana a hāriata ki taku wheke atu. 
+segment_629_83|peterl|{k e i r ŋ a n o a a t u k o e e t e t a u}|'kei runga noa atu koe, e te tau. 
+segment_638_160|peterl|{k a: h o r e a h a u i f a k a a t u k o t e r a p u a h a u i a k o u r u a}|kāhore ahau i whakaatu ko te rapu ahau i a kourua. 
+segment_582_13|peterl|{e t e t a u m a r ŋ a e o h o}|'e te tau, maranga, e oho! 
+segment_622_20|peterl|{i e: t a h i w a: k a: o r e n e i i a i h a:}|i ētahi wā, kāore nei ia i hā.
+segment_418_80|peterl|{u m e r e a n a t e k a t o a k a: t i k a: t i}|umere ana te katoa "kāti, kāti!".
+segment_590_84|peterl|{k a: h o r e a h a u i m o: h i o h e t a k e t i n o m a n a w a n u i t e: n e i k i a i a h e i k o t a: k u}|kāhore ahau i mōhio he take tino manawanui tēnei ki a ia,' hei ko tāku.
+segment_626_36|peterl|{k o r ŋ i e p a r a r e: m a i a n a k a r a w e k a r a w e m a t u a}|ko rangi e pararē mai ana, 'ka rawe! ka rawe matua!'
+segment_632_33|peterl|{k a m e a a t u a r o n e m a: h e i a h a e p a i a n a m e h e m e a k a: h o r e k o e e h i a h i a a n a k i t e k o: r e r o t o n u e p a i a n a}|ka mea atu a ron, 'e mā, hei aha, e pai ana, mehemea kāhore koe e hiahia ana ki te kōrero tonu, e pai ana.'
+segment_582_87|peterl|{e f a i m a h i a n a t a: u a}|e whai mahi ana tāua. 
+segment_584_12|peterl|{i t e: n e i w a: k u a r i r o k e: m a i t o: k u r a i h a n a m a t u a}|i tēnei wā, kua riro kē mai tōku raihana matua. 
+segment_448_81|peterl|{k a t i r o m a i a h a: r i a t a k i a h a u k a m e a m a i h a e r e k o e m e h e m e a k o i r a: t o: h i a h i a}|ka tiro mai a hāriata ki ahau, ka mea mai, 'haere koe, mehemea koirā tō hiahia.'
+segment_637_84|peterl|{t e: n a: f a k a m a: r a m a t i a m a i t e: n e i a i t u a: t ŋ a}|'tēnā, whakamāramatia mai tēnei aituātanga.'
+segment_592_167|peterl|{k i a o r a r o n h e w a i n a m a:}|'kia ora, ron. he waina mā.' 
+segment_640_176|peterl|{k a f a: k i a t u a h i n e m o a i t e t a u t o h e i w a ŋ a i a r a: u a k o t o: n a p a: p a:}|ka whāki atu a hinemoa i te tautohe i waenga i a rāua ko tōna pāpā. 
+segment_584_64|peterl|{k o t o: n a k a k a r a e m i r i a n a i t o: k u i h u k e i o: n a ŋ u t u t o n u t e r ŋ o w a i n a}|ko tōna kakara e miri ana i tōku ihu, kei ōna ngutu tonu te rongo waina. 
+segment_636_144|peterl|{k a: h o r e a h a u e m o: h i o k a a h a i a k o t a: h i n e m o a}|kāhore ahau e mōhio ka aha ia,' ko tā hinemoa.
