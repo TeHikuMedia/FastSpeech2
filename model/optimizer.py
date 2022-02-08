@@ -7,11 +7,13 @@ class ScheduledOptim:
 
     def __init__(self, model, train_config, model_config, current_step):
 
-        self._optimizer = torch.optim.Adam(
+        self._optimizer = torch.optim.AdamW(
             model.parameters(),
+            lr=train_config["optimizer"]["lr"],
             betas=train_config["optimizer"]["betas"],
             eps=train_config["optimizer"]["eps"],
             weight_decay=train_config["optimizer"]["weight_decay"],
+            amsgrad=False
         )
         self.n_warmup_steps = train_config["optimizer"]["warm_up_step"]
         self.anneal_steps = train_config["optimizer"]["anneal_steps"]
