@@ -29,6 +29,7 @@ def main(args, configs):
     )
     batch_size = train_config["optimizer"]["batch_size"]
     group_size = 4  # Set this larger than 1 to enable sorting in Dataset
+    print(f"Number of rows in training dataset: {len(dataset)}")
     assert batch_size * group_size < len(dataset)
     loader = DataLoader(
         dataset,
