@@ -16,20 +16,33 @@ _silences = ["@sp", "@spn", "@sil"]
 
 if os.environ.get('PAPAREO_HACKS'):
 
-    _letters = ["p","t","k","h","m","n","r","w","ŋ","f","a","e","i","o","u","a:","e:","i:","o:","u:"]
+
+    # based on looking at what actually occurs in PeterK and PeterL data 
+
+    silences = ['sp',  'sil',  'spn']
+    letters = ['a', 'e', 'i', 'o', 'u', 'm', 'r', 'p', 'w', 't', 'k', 'h', 'n', 'ŋ', 'f']
+    long_vowels = ['a:', 'e:', 'o:', 'i:', 'u:']
+    diphthongs = ['ai', 'au', 'ei',  'ae',  'oe', 'ao', 'oi', 'ou']
+    long_diphthongs = ['a:u', 'a:i', 'a:o', 'a:e', 'o:u', 'o:i', 'e:i']
+    # these should probably not occur??
+    weird_ones = ['asp', 'ki', '0', 'ap', 'eoi', 'eu']
 
     # Export Māori symbols:
     symbols = (
         [_pad]
         + list(_special)
         + list(_punctuation)
-        + _letters
-        + _silences
+        + silences
+        + letters
+        + long_vowels
+        + diphthongs
+        + long_diphthongs 
+        + weird_ones
     )
 
 else:
         
-    _letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
+    letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
     # Prepend "@" to ARPAbet symbols to ensure uniqueness (some are the same as uppercase letters):
     _arpabet = ["@" + s for s in cmudict.valid_symbols]
     _pinyin = ["@" + s for s in pinyin.valid_symbols]

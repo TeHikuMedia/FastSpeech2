@@ -74,6 +74,7 @@ class Preprocessor:
                 tg_path = os.path.join(
                     self.out_dir, "TextGrid", speaker, "{}.TextGrid".format(basename)
                 )
+                print(tg_path)
                 if os.path.exists(tg_path):
                     ret = self.process_utterance(speaker, basename)
                     if ret is None:
@@ -163,17 +164,18 @@ class Preprocessor:
         textgrid = tgt.io.read_textgrid(tg_path)
 
         if textgrid.has_tier("phones"):
-            # LJSpeech version (note text between {})
             phone_tier = textgrid.get_tier_by_name("phones")
-            phone, duration, start, end = self.get_alignment(phone_tier)
-            text = "{" + " ".join(phone) + "}"
-        
-        else:
-            # papareo version (dont put text between {} so 
-            # it doesnt get treated as ARPAbet in text_to_sequence)
+        elif textgrid.has_tier("UTT - phones"): 
+            phone_tier = textgrid.get_tier_by_name("UTT - phones")
+        elif textgrid.has_tier("PHONES"):
             phone_tier = textgrid.get_tier_by_name("PHONES")
-            phone, duration, start, end = self.get_alignment(phone_tier)
-            text = " ".join(phone)
+        
+        phones, durations, start, end = self.get_alignment(phone_tier)
+        text = "{" + " ".join(phones) + "}"
+
+        import re
+        _curly_re = re.compile(r"(.*?)\{(.+?)\}(.*)")
+        bits = _curly_re.match(text).group(2).split(' ')
 
         if start >= end:
             return None
@@ -196,14 +198,14 @@ class Preprocessor:
         )
         pitch = pw.stonemask(wav.astype(np.float64), pitch, t, self.sampling_rate)
 
-        pitch = pitch[: sum(duration)]
+        pitch = pitch[: sum(durations)]
         if np.sum(pitch != 0) <= 1:
             return None
 
         # Compute mel-scale spectrogram and energy
         mel_spectrogram, energy = Audio.tools.get_mel_from_wav(wav, self.STFT)
-        mel_spectrogram = mel_spectrogram[:, : sum(duration)]
-        energy = energy[: sum(duration)]
+        mel_spectrogram = mel_spectrogram[:, : sum(durations)]
+        energy = energy[: sum(durations)]
 
         if self.pitch_phoneme_averaging:
             # perform linear interpolation
@@ -218,28 +220,28 @@ class Preprocessor:
 
             # Phoneme-level average
             pos = 0
-            for i, d in enumerate(duration):
+            for i, d in enumerate(durations):
                 if d > 0:
                     pitch[i] = np.mean(pitch[pos : pos + d])
                 else:
                     pitch[i] = 0
                 pos += d
-            pitch = pitch[: len(duration)]
+            pitch = pitch[: len(durations)]
 
         if self.energy_phoneme_averaging:
             # Phoneme-level average
             pos = 0
-            for i, d in enumerate(duration):
+            for i, d in enumerate(durations):
                 if d > 0:
                     energy[i] = np.mean(energy[pos : pos + d])
                 else:
                     energy[i] = 0
                 pos += d
-            energy = energy[: len(duration)]
+            energy = energy[: len(durations)]
 
         # Save files
         dur_filename = "{}-duration-{}.npy".format(speaker, basename)
-        np.save(os.path.join(self.out_dir, "duration", dur_filename), duration)
+        np.save(os.path.join(self.out_dir, "duration", dur_filename), durations)
 
         pitch_filename = "{}-pitch-{}.npy".format(speaker, basename)
         np.save(os.path.join(self.out_dir, "pitch", pitch_filename), pitch)
@@ -260,6 +262,24 @@ class Preprocessor:
             mel_spectrogram.shape[1],
         )
 
+    # map phones for which there is 
+    # any confusion or doubt to canonical forms
+    phone_map = {
+        'ɾ': 'r',
+        'ng': 'ŋ',
+        'wh': 'f',
+        'ā': 'a:',
+        'ē': 'e:',
+        'ī': 'i:',
+        'ō': 'o:',
+        'ū': 'u:'
+    }
+    def papareo_phone_map(self, phone):
+        if phone in self.phone_map:
+            return self.phone_map[phone]
+        else:
+            return phone
+
     def get_alignment(self, tier):
         sil_phones = ["", "sil", "sp", "spn"]
 
@@ -268,9 +288,13 @@ class Preprocessor:
         start_time = 0
         end_time = 0
         end_idx = 0
+
         for t in tier._objects:
             s, e, p = t.start_time, t.end_time, t.text
-
+    
+            if os.environ.get('PAPAREO_HACKS'):
+                p = self.papareo_phone_map(p)
+                
             # Trim leading silences
             if phones == []:
                 if p in sil_phones:
