@@ -5,6 +5,7 @@ import torch
 import yaml
 import torch.nn as nn
 from torch.utils.data import DataLoader
+import wandb
 
 from utils.model import get_model, get_vocoder
 from utils.tools import to_device, log, synth_one_sample
@@ -53,6 +54,8 @@ def evaluate(model, step, configs, logger=None, vocoder=None):
     message = "Validation Step {}, Total Loss: {:.4f}, Mel Loss: {:.4f}, Mel PostNet Loss: {:.4f}, Pitch Loss: {:.4f}, Energy Loss: {:.4f}, Duration Loss: {:.4f}".format(
         *([step] + [l for l in loss_means])
     )
+
+    wandb.log({"validation_loss": loss_means[0]})
 
     if logger is not None:
         fig, wav_reconstruction, wav_prediction, tag = synth_one_sample(

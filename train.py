@@ -16,13 +16,15 @@ from dataset import Dataset
 from evaluate import evaluate
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-
+import wandb
+import pandas as pd
 
 def main(args, configs):
     print("Prepare training ...")
 
     preprocess_config, model_config, train_config = configs
-
+    
+    
     # Get dataset
     dataset = Dataset(
         "train.txt", preprocess_config, train_config, sort=True, drop_last=True
@@ -43,7 +45,18 @@ def main(args, configs):
     model = nn.DataParallel(model)
     num_param = get_param_num(model)
     Loss = FastSpeech2Loss(preprocess_config, model_config).to(device)
-    print("Number of FastSpeech2 Parameters:", num_param)
+
+    from flatten_json import flatten
+    log_config = {}
+    for key, val in pd.json_normalize(model_config["transformer"]).iloc[0].items():
+        log_config[f"transformer.{key}"]=str(val)
+    log_config["multi_speaker"]=model_config["multi_speaker"]
+    log_config["vocoder"]=model_config["vocoder"]
+    log_config["sample_rate"] = preprocess_config["preprocessing"]["audio"]["sampling_rate"]
+    for key, val in pd.json_normalize(train_config["optimizer"]).iloc[0].items():
+        log_config[f"train.{key}"]=str(val)
+    print(log_config)
+    wandb.init(project="synthesis-fastspeech2", entity="papa-reo", config=log_config)
 
     # Load vocoder
     vocoder = get_vocoder(model_config, device)
@@ -110,6 +123,9 @@ def main(args, configs):
                     outer_bar.write(message1 + message2)
 
                     log(train_logger, step, losses=losses)
+
+                    wandb.log({"train_loss": total_loss})
+                    wandb.watch(model)
 
                 if step % synth_step == 0:
                     fig, wav_reconstruction, wav_prediction, tag = synth_one_sample(

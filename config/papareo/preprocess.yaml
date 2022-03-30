@@ -1,7 +1,7 @@
 dataset: "papareo"
 
 path:
-  corpus_path: "../../../data/papareo"
+  corpus_path: "../../../../data/papareo"
   raw_path: "./raw_data/papareo"
   lexicon_path: "not_needed"
   preprocessed_path: "./preprocessed_data/papareo"

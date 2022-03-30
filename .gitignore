@@ -118,3 +118,5 @@ TextGrid/
 hifigan/*.pth.tar
 output_*/**
 preprocessed_data/papareo/**/**
+wandb
+
