@@ -30,6 +30,10 @@ def read_lexicon(lex_path):
 
 
 def preprocess_maori(text, preprocess_config):
+    raise Exception("Not yet implemented")
+
+    # have to fix this 
+    
     text = text.rstrip(punctuation)
     phones = []
     words = re.split(r"([,;.\-\?\!\s+])", text)

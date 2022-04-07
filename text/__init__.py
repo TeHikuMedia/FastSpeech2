@@ -3,7 +3,7 @@ import re
 import os 
 from text import cleaners
 from text.symbols import symbols
-
+#from alphabet6 import alphabet6
 
 # Mappings from symbol to numeric ID and vice versa:
 _symbol_to_id = {s: i for i, s in enumerate(symbols)}

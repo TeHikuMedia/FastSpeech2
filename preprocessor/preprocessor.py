@@ -64,9 +64,10 @@ class Preprocessor:
 
         # Compute pitch, energy, duration, and mel-spectrogram
         speakers = {}
-        for i, speaker in enumerate(tqdm(os.listdir(self.in_dir))):
+        for i, speaker in enumerate(os.listdir(self.in_dir)):
             speakers[speaker] = i
-            for wav_name in os.listdir(os.path.join(self.in_dir, speaker)):
+            print(f"Processing speaker:{speaker}")
+            for wav_name in tqdm(os.listdir(os.path.join(self.in_dir, speaker))):
                 if ".wav" not in wav_name:
                     continue
 
@@ -74,7 +75,9 @@ class Preprocessor:
                 tg_path = os.path.join(
                     self.out_dir, "TextGrid", speaker, "{}.TextGrid".format(basename)
                 )
-                print(tg_path)
+                if os.environ.get('PAPAREO_HACKS'):
+                    tg_path = os.path.join(self.in_dir, speaker, f"{basename}.TextGrid")
+
                 if os.path.exists(tg_path):
                     ret = self.process_utterance(speaker, basename)
                     if ret is None:
@@ -156,26 +159,31 @@ class Preprocessor:
     def process_utterance(self, speaker, basename):
         wav_path = os.path.join(self.in_dir, speaker, "{}.wav".format(basename))
         text_path = os.path.join(self.in_dir, speaker, "{}.lab".format(basename))
+          
         tg_path = os.path.join(
             self.out_dir, "TextGrid", speaker, "{}.TextGrid".format(basename)
         )
+
+        if os.environ.get('PAPAREO_HACKS'):
+            parts_path = os.path.join(self.in_dir, speaker, "{}.parts".format(basename))
+            tg_path = os.path.join(self.in_dir, speaker, f"{basename}.TextGrid")
 
         # Get alignments
         textgrid = tgt.io.read_textgrid(tg_path)
 
         if textgrid.has_tier("phones"):
             phone_tier = textgrid.get_tier_by_name("phones")
-        elif textgrid.has_tier("UTT - phones"): 
-            phone_tier = textgrid.get_tier_by_name("UTT - phones")
-        elif textgrid.has_tier("PHONES"):
-            phone_tier = textgrid.get_tier_by_name("PHONES")
+        # elif textgrid.has_tier("UTT - phones"): 
+        #     phone_tier = textgrid.get_tier_by_name("UTT - phones")
+        # elif textgrid.has_tier("PHONES"):
+        #     phone_tier = textgrid.get_tier_by_name("PHONES")
         
         phones, durations, start, end = self.get_alignment(phone_tier)
         text = "{" + " ".join(phones) + "}"
-
-        import re
-        _curly_re = re.compile(r"(.*?)\{(.+?)\}(.*)")
-        bits = _curly_re.match(text).group(2).split(' ')
+        
+        # import re
+        # _curly_re = re.compile(r"(.*?)\{(.+?)\}(.*)")
+        # bits = _curly_re.match(text).group(2).split(' ')
 
         if start >= end:
             return None
@@ -262,26 +270,25 @@ class Preprocessor:
             mel_spectrogram.shape[1],
         )
 
-    # map phones for which there is 
-    # any confusion or doubt to canonical forms
-    phone_map = {
-        'ɾ': 'r',
-        'ng': 'ŋ',
-        'wh': 'f',
-        'ā': 'a:',
-        'ē': 'e:',
-        'ī': 'i:',
-        'ō': 'o:',
-        'ū': 'u:'
-    }
-    def papareo_phone_map(self, phone):
-        if phone in self.phone_map:
-            return self.phone_map[phone]
-        else:
-            return phone
+    # # map phones for which there is 
+    # # any confusion or doubt to canonical forms
+    # phone_map = {
+    #     'ŋ': 'ng',
+    #     'f': 'wh',
+    #     'a:': 'ā',
+    #     'e:': 'ē',
+    #     'i:': 'ī',
+    #     'o:': 'ō',
+    #     'u:': 'ū'
+    # }
+    # def papareo_phone_map(self, phone):
+    #     if phone in self.phone_map:
+    #         return self.phone_map[phone]
+    #     else:
+    #         return phone
 
     def get_alignment(self, tier):
-        sil_phones = ["", "sil", "sp", "spn"]
+        sil_phones = ["sil", "sp", "spn"]
 
         phones = []
         durations = []
@@ -292,8 +299,8 @@ class Preprocessor:
         for t in tier._objects:
             s, e, p = t.start_time, t.end_time, t.text
     
-            if os.environ.get('PAPAREO_HACKS'):
-                p = self.papareo_phone_map(p)
+            # if os.environ.get('PAPAREO_HACKS'):
+            #     p = self.papareo_phone_map(p)
                 
             # Trim leading silences
             if phones == []:
