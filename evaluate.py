@@ -12,11 +12,9 @@ from utils.tools import to_device, log, synth_one_sample
 from model import FastSpeech2Loss
 from dataset import Dataset
 
-
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-
-def evaluate(model, step, configs, logger=None, vocoder=None):
+def evaluate(model, step, configs, logger=None, vocoder=None, log_to_wandb=False):
     preprocess_config, model_config, train_config = configs
 
     # Get dataset
@@ -55,7 +53,8 @@ def evaluate(model, step, configs, logger=None, vocoder=None):
         *([step] + [l for l in loss_means])
     )
 
-    wandb.log({"validation_loss": loss_means[0]})
+    if log_to_wandb:
+        wandb.log({"validation_loss": loss_means[0]})
 
     if logger is not None:
         fig, wav_reconstruction, wav_prediction, tag = synth_one_sample(
